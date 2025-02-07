@@ -1,0 +1,4 @@
+;TA;seed;temperature;system_fingerprint;prompt_tokens;completion_tokens
+0;TA3.1;;0.5;fp_f3927aa00d;7115;5366
+1;TA3.2;;0.5;fp_f3927aa00d;7115;5692
+2;TA3.3;;0.5;fp_f3927aa00d;7115;4705

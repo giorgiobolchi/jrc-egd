@@ -1,0 +1,15 @@
+;TA1.1;TA1.2;TA1.3
+NACE level3_extra2;;10.0;
+NACE_level1;2.0;1.0;3.0
+NACE_level1_extra1;2.0;1.0;5.0
+NACE_level1_extra2;10.0;10.0;11.0
+NACE_level2;2.0;1.0;3.0
+NACE_level2_extra1;2.0;1.0;5.0
+NACE_level2_extra2;10.0;10.0;11.0
+NACE_level3_extra2;10.0;;11.0
+NACE_level_3;2.0;1.0;3.0
+NACE_level_3_extra1;2.0;1.0;5.0
+confidence_score;0.0;0.0;0.0
+justification;0.0;0.0;0.0
+target_code;0.0;0.0;0.0
+target_content;0.0;0.0;0.0

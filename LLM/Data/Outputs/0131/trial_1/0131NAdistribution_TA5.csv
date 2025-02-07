@@ -1,0 +1,15 @@
+;TA5.1;TA5.2;TA5.3
+NACE_level1;3.0;3.0;3.0
+NACE_level1_extra1;6.0;12.0;3.0
+NACE_level1_extra2;14.0;32.0;3.0
+NACE_level2;6.0;12.0;3.0
+NACE_level2_extra1;3.0;3.0;3.0
+NACE_level2_extra2;14.0;32.0;3.0
+NACE_level3_extra2;11.0;32.0;
+NACE_level_3;6.0;12.0;3.0
+NACE_level_3_extra1;6.0;3.0;3.0
+NACE_level_3_extra2;;;3.0
+confidence_score;0.0;0.0;0.0
+justification;0.0;0.0;0.0
+target_code;0.0;0.0;0.0
+target_content;3.0;3.0;3.0

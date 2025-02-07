@@ -1,0 +1,14 @@
+;TA4.1;TA4.2;TA4.3
+target_code;0;0;0
+target_content;9;9;9
+NACE_level1;9;9;9
+NACE_level1_extra1;14;29;38
+NACE_level1_extra2;59;59;59
+NACE_level2;14;8;9
+NACE_level2_extra1;9;27;36
+NACE_level2_extra2;58;59;59
+NACE_level_3;14;9;9
+NACE_level_3_extra1;13;27;37
+NACE level3_extra2;54;59;59
+justification;0;0;0
+confidence_score;0;0;0
