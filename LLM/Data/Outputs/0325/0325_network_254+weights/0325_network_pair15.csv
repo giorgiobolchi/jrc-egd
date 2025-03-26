@@ -1,0 +1,9 @@
+source_subtheme;source_subtheme_targets;impact_subtheme;impact_type;impact_weight;justification
+Waste Reduction - Municipal Waste;TA3.1,TA3.2,TA3.4,TA3.41,TA3.42,TA3.43,TA3.44,TA3.45;Food quality - Healthy Food;+1;The reduction of municipal waste can lead to a decrease in food waste, enabling the production of healthier food.
+Waste Reduction - Food Waste;TA3.24,TA3.25,TA3.46,TA5.13;Food affordability;-2;Reducing food waste can lead to increased food production costs, counteracting efforts to make food more affordable.
+Circularity/Recycling - Plastic & Packaging;TA3.27,TA3.28,TA3.31,TA3.32,TA3.33,TA3.34,TA3.35,TA3.36,TA3.37;Food quality - Healthy Food;+2;The recycling of plastic packaging can reduce the amount of harmful chemicals in food, reinforcing efforts to produce healthier food.
+Critical Raw Materials - Extraction & Import;TA3.10,TA3.11,TA3.8,TA3.9;Competitive Agriculture;-1;The extraction and import of critical raw materials can constrain agricultural production, limiting options for competitive agriculture.
+Net-Zero Technology - Manufacturing;TA3.12;Food quality;-3;The focus on net-zero technology manufacturing can cancel out efforts to improve food quality, as resources are diverted to other areas.
+Circularity/Recycling - Critical Raw Materials - Batteries Recycling;TA3.15,TA3.16,TA3.17,TA3.18,TA3.19;Pesticides Reduction;+1;The recycling of batteries can enable the production of sustainable pesticides, creating conditions that further the reduction of pesticide use.
+Waste Reduction - Plastic & Packaging;TA3.29,TA3.30,TA3.40;Food affordability;+2;Reducing plastic packaging waste can reinforce efforts to make food more affordable, by reducing production costs.
+Circularity/Recycling;TA3.3;Competitive Agriculture;+1;The promotion of circular economy practices can enable the development of competitive agriculture, by creating conditions for sustainable production.

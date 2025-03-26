@@ -1,0 +1,1110 @@
+Chunks pair: 0 
+Chunks: [0, 1] 
+Prompt length: 424533 
+Prompt tokens (o200k_base encoding): 81555 
+Prompt tokens (cl100k_base encoding): 82150 
+
+Answer generated.
+Prompt tokens: 82143 
+Completion tokens: 2872
+-- 1 min pause 
+
+Chunks pair: 1 
+Chunks: [0, 2] 
+Prompt length: 422835 
+Prompt tokens (o200k_base encoding): 80948 
+Prompt tokens (cl100k_base encoding): 81555 
+
+Answer generated.
+Prompt tokens: 81548 
+Completion tokens: 1993
+-- 1 min pause 
+
+Chunks pair: 2 
+Chunks: [0, 3] 
+Prompt length: 421383 
+Prompt tokens (o200k_base encoding): 80482 
+Prompt tokens (cl100k_base encoding): 81074 
+
+Answer generated.
+Prompt tokens: 81065 
+Completion tokens: 1828
+-- 1 min pause 
+
+Chunks pair: 3 
+Chunks: [0, 4] 
+Prompt length: 422964 
+Prompt tokens (o200k_base encoding): 81087 
+Prompt tokens (cl100k_base encoding): 81673 
+
+Answer generated.
+Prompt tokens: 81666 
+Completion tokens: 2628
+-- 1 min pause 
+
+Chunks pair: 4 
+Chunks: [0, 5] 
+Prompt length: 423654 
+Prompt tokens (o200k_base encoding): 81029 
+Prompt tokens (cl100k_base encoding): 81641 
+
+Answer generated.
+Prompt tokens: 81633 
+Completion tokens: 3777
+-- 1 min pause 
+
+Chunks pair: 5 
+Chunks: [0, 6] 
+Prompt length: 422324 
+Prompt tokens (o200k_base encoding): 80624 
+Prompt tokens (cl100k_base encoding): 81219 
+
+Answer generated.
+Prompt tokens: 81212 
+Completion tokens: 2492
+-- 1 min pause 
+
+Chunks pair: 6 
+Chunks: [0, 7] 
+Prompt length: 419844 
+Prompt tokens (o200k_base encoding): 80136 
+Prompt tokens (cl100k_base encoding): 80738 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 6 
+Chunks: [0, 7] 
+Prompt length: 419844 
+Prompt tokens (o200k_base encoding): 80136 
+Prompt tokens (cl100k_base encoding): 80738 
+
+Answer generated.
+Prompt tokens: 80731 
+Completion tokens: 2111
+-- 1 min pause 
+
+Chunks pair: 7 
+Chunks: [0, 8] 
+Prompt length: 425661 
+Prompt tokens (o200k_base encoding): 81380 
+Prompt tokens (cl100k_base encoding): 81979 
+
+Answer generated.
+Prompt tokens: 81972 
+Completion tokens: 1269
+-- 1 min pause 
+
+Chunks pair: 8 
+Chunks: [0, 9] 
+Prompt length: 426862 
+Prompt tokens (o200k_base encoding): 81481 
+Prompt tokens (cl100k_base encoding): 82092 
+
+Answer generated.
+Prompt tokens: 82085 
+Completion tokens: 2418
+-- 1 min pause 
+
+Chunks pair: 9 
+Chunks: [1, 0] 
+Prompt length: 424533 
+Prompt tokens (o200k_base encoding): 81555 
+Prompt tokens (cl100k_base encoding): 82150 
+
+Answer generated.
+Prompt tokens: 82143 
+Completion tokens: 1744
+-- 1 min pause 
+
+Chunks pair: 10 
+Chunks: [1, 2] 
+Prompt length: 418444 
+Prompt tokens (o200k_base encoding): 80121 
+Prompt tokens (cl100k_base encoding): 80696 
+
+Answer generated.
+Prompt tokens: 80689 
+Completion tokens: 4626
+-- 1 min pause 
+
+Chunks pair: 11 
+Chunks: [1, 3] 
+Prompt length: 416992 
+Prompt tokens (o200k_base encoding): 79655 
+Prompt tokens (cl100k_base encoding): 80215 
+
+Answer generated.
+Prompt tokens: 80206 
+Completion tokens: 2575
+-- 1 min pause 
+
+Chunks pair: 12 
+Chunks: [1, 4] 
+Prompt length: 418573 
+Prompt tokens (o200k_base encoding): 80260 
+Prompt tokens (cl100k_base encoding): 80814 
+
+Answer generated.
+Prompt tokens: 80807 
+Completion tokens: 2765
+-- 1 min pause 
+
+Chunks pair: 13 
+Chunks: [1, 5] 
+Prompt length: 419263 
+Prompt tokens (o200k_base encoding): 80202 
+Prompt tokens (cl100k_base encoding): 80782 
+
+Answer generated.
+Prompt tokens: 80774 
+Completion tokens: 4895
+-- 1 min pause 
+
+Chunks pair: 14 
+Chunks: [1, 6] 
+Prompt length: 417933 
+Prompt tokens (o200k_base encoding): 79797 
+Prompt tokens (cl100k_base encoding): 80360 
+
+Answer generated.
+Prompt tokens: 80353 
+Completion tokens: 3404
+-- 1 min pause 
+
+Chunks pair: 15 
+Chunks: [1, 7] 
+Prompt length: 415453 
+Prompt tokens (o200k_base encoding): 79309 
+Prompt tokens (cl100k_base encoding): 79879 
+
+Answer generated.
+Prompt tokens: 79872 
+Completion tokens: 3003
+-- 1 min pause 
+
+Chunks pair: 16 
+Chunks: [1, 8] 
+Prompt length: 421270 
+Prompt tokens (o200k_base encoding): 80553 
+Prompt tokens (cl100k_base encoding): 81120 
+
+Answer generated.
+Prompt tokens: 81113 
+Completion tokens: 1721
+-- 1 min pause 
+
+Chunks pair: 17 
+Chunks: [1, 9] 
+Prompt length: 422471 
+Prompt tokens (o200k_base encoding): 80654 
+Prompt tokens (cl100k_base encoding): 81233 
+
+Answer generated.
+Prompt tokens: 81226 
+Completion tokens: 2687
+-- 1 min pause 
+
+Chunks pair: 18 
+Chunks: [2, 0] 
+Prompt length: 422835 
+Prompt tokens (o200k_base encoding): 80948 
+Prompt tokens (cl100k_base encoding): 81555 
+
+Answer generated.
+Prompt tokens: 81548 
+Completion tokens: 1829
+-- 1 min pause 
+
+Chunks pair: 19 
+Chunks: [2, 1] 
+Prompt length: 418444 
+Prompt tokens (o200k_base encoding): 80121 
+Prompt tokens (cl100k_base encoding): 80696 
+
+Answer generated.
+Prompt tokens: 80689 
+Completion tokens: 2472
+-- 1 min pause 
+
+Chunks pair: 20 
+Chunks: [2, 3] 
+Prompt length: 415294 
+Prompt tokens (o200k_base encoding): 79048 
+Prompt tokens (cl100k_base encoding): 79620 
+
+Answer generated.
+Prompt tokens: 79611 
+Completion tokens: 3218
+-- 1 min pause 
+
+Chunks pair: 21 
+Chunks: [2, 4] 
+Prompt length: 416875 
+Prompt tokens (o200k_base encoding): 79653 
+Prompt tokens (cl100k_base encoding): 80219 
+
+Answer generated.
+Prompt tokens: 80212 
+Completion tokens: 4560
+-- 1 min pause 
+
+Chunks pair: 22 
+Chunks: [2, 5] 
+Prompt length: 417565 
+Prompt tokens (o200k_base encoding): 79595 
+Prompt tokens (cl100k_base encoding): 80187 
+
+Answer generated.
+Prompt tokens: 80179 
+Completion tokens: 3265
+-- 1 min pause 
+
+Chunks pair: 23 
+Chunks: [2, 6] 
+Prompt length: 416235 
+Prompt tokens (o200k_base encoding): 79190 
+Prompt tokens (cl100k_base encoding): 79765 
+
+Answer generated.
+Prompt tokens: 79758 
+Completion tokens: 2922
+-- 1 min pause 
+
+Chunks pair: 24 
+Chunks: [2, 7] 
+Prompt length: 413755 
+Prompt tokens (o200k_base encoding): 78702 
+Prompt tokens (cl100k_base encoding): 79284 
+
+Answer generated.
+Prompt tokens: 79277 
+Completion tokens: 3163
+-- 1 min pause 
+
+Chunks pair: 25 
+Chunks: [2, 8] 
+Prompt length: 419572 
+Prompt tokens (o200k_base encoding): 79946 
+Prompt tokens (cl100k_base encoding): 80525 
+
+Answer generated.
+Prompt tokens: 80518 
+Completion tokens: 4216
+-- 1 min pause 
+
+Chunks pair: 26 
+Chunks: [2, 9] 
+Prompt length: 420773 
+Prompt tokens (o200k_base encoding): 80047 
+Prompt tokens (cl100k_base encoding): 80638 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 26 
+Chunks: [2, 9] 
+Prompt length: 420773 
+Prompt tokens (o200k_base encoding): 80047 
+Prompt tokens (cl100k_base encoding): 80638 
+
+Answer generated.
+Prompt tokens: 80631 
+Completion tokens: 1677
+-- 1 min pause 
+
+Chunks pair: 27 
+Chunks: [3, 0] 
+Prompt length: 421383 
+Prompt tokens (o200k_base encoding): 80482 
+Prompt tokens (cl100k_base encoding): 81074 
+
+Answer generated.
+Prompt tokens: 81065 
+Completion tokens: 1285
+-- 1 min pause 
+
+Chunks pair: 28 
+Chunks: [3, 1] 
+Prompt length: 416992 
+Prompt tokens (o200k_base encoding): 79655 
+Prompt tokens (cl100k_base encoding): 80215 
+
+Answer generated.
+Prompt tokens: 80206 
+Completion tokens: 4091
+-- 1 min pause 
+
+Chunks pair: 29 
+Chunks: [3, 2] 
+Prompt length: 415294 
+Prompt tokens (o200k_base encoding): 79048 
+Prompt tokens (cl100k_base encoding): 79620 
+
+Answer generated.
+Prompt tokens: 79611 
+Completion tokens: 3553
+-- 1 min pause 
+
+Chunks pair: 30 
+Chunks: [3, 4] 
+Prompt length: 415423 
+Prompt tokens (o200k_base encoding): 79187 
+Prompt tokens (cl100k_base encoding): 79738 
+
+Answer generated.
+Prompt tokens: 79729 
+Completion tokens: 3857
+-- 1 min pause 
+
+Chunks pair: 31 
+Chunks: [3, 5] 
+Prompt length: 416113 
+Prompt tokens (o200k_base encoding): 79129 
+Prompt tokens (cl100k_base encoding): 79706 
+
+Answer generated.
+Prompt tokens: 79696 
+Completion tokens: 2560
+-- 1 min pause 
+
+Chunks pair: 32 
+Chunks: [3, 6] 
+Prompt length: 414783 
+Prompt tokens (o200k_base encoding): 78724 
+Prompt tokens (cl100k_base encoding): 79284 
+
+Answer generated.
+Prompt tokens: 79275 
+Completion tokens: 3022
+-- 1 min pause 
+
+Chunks pair: 33 
+Chunks: [3, 7] 
+Prompt length: 412303 
+Prompt tokens (o200k_base encoding): 78236 
+Prompt tokens (cl100k_base encoding): 78803 
+
+Answer generated.
+Prompt tokens: 78794 
+Completion tokens: 2954
+-- 1 min pause 
+
+Chunks pair: 34 
+Chunks: [3, 8] 
+Prompt length: 418120 
+Prompt tokens (o200k_base encoding): 79480 
+Prompt tokens (cl100k_base encoding): 80044 
+
+Answer generated.
+Prompt tokens: 80035 
+Completion tokens: 4301
+-- 1 min pause 
+
+Chunks pair: 35 
+Chunks: [3, 9] 
+Prompt length: 419321 
+Prompt tokens (o200k_base encoding): 79581 
+Prompt tokens (cl100k_base encoding): 80157 
+
+Answer generated.
+Prompt tokens: 80148 
+Completion tokens: 3511
+-- 1 min pause 
+
+Chunks pair: 36 
+Chunks: [4, 0] 
+Prompt length: 422964 
+Prompt tokens (o200k_base encoding): 81087 
+Prompt tokens (cl100k_base encoding): 81673 
+
+Answer generated.
+Prompt tokens: 81666 
+Completion tokens: 1250
+-- 1 min pause 
+
+Chunks pair: 37 
+Chunks: [4, 1] 
+Prompt length: 418573 
+Prompt tokens (o200k_base encoding): 80260 
+Prompt tokens (cl100k_base encoding): 80814 
+
+Answer generated.
+Prompt tokens: 80807 
+Completion tokens: 3465
+-- 1 min pause 
+
+Chunks pair: 38 
+Chunks: [4, 2] 
+Prompt length: 416875 
+Prompt tokens (o200k_base encoding): 79653 
+Prompt tokens (cl100k_base encoding): 80219 
+
+Answer generated.
+Prompt tokens: 80212 
+Completion tokens: 850
+-- 1 min pause 
+
+Chunks pair: 39 
+Chunks: [4, 3] 
+Prompt length: 415423 
+Prompt tokens (o200k_base encoding): 79187 
+Prompt tokens (cl100k_base encoding): 79738 
+
+Answer generated.
+Prompt tokens: 79729 
+Completion tokens: 2457
+-- 1 min pause 
+
+Chunks pair: 40 
+Chunks: [4, 5] 
+Prompt length: 417694 
+Prompt tokens (o200k_base encoding): 79734 
+Prompt tokens (cl100k_base encoding): 80305 
+
+Answer generated.
+Prompt tokens: 80297 
+Completion tokens: 4950
+-- 1 min pause 
+
+Chunks pair: 41 
+Chunks: [4, 6] 
+Prompt length: 416364 
+Prompt tokens (o200k_base encoding): 79329 
+Prompt tokens (cl100k_base encoding): 79883 
+
+Answer generated.
+Prompt tokens: 79876 
+Completion tokens: 3559
+-- 1 min pause 
+
+Chunks pair: 42 
+Chunks: [4, 7] 
+Prompt length: 413884 
+Prompt tokens (o200k_base encoding): 78841 
+Prompt tokens (cl100k_base encoding): 79402 
+
+Answer generated.
+Prompt tokens: 79395 
+Completion tokens: 3577
+-- 1 min pause 
+
+Chunks pair: 43 
+Chunks: [4, 8] 
+Prompt length: 419701 
+Prompt tokens (o200k_base encoding): 80085 
+Prompt tokens (cl100k_base encoding): 80643 
+
+Answer generated.
+Prompt tokens: 80636 
+Completion tokens: 4509
+-- 1 min pause 
+
+Chunks pair: 44 
+Chunks: [4, 9] 
+Prompt length: 420902 
+Prompt tokens (o200k_base encoding): 80186 
+Prompt tokens (cl100k_base encoding): 80756 
+
+Answer generated.
+Prompt tokens: 80749 
+Completion tokens: 2913
+-- 1 min pause 
+
+Chunks pair: 45 
+Chunks: [5, 0] 
+Prompt length: 423654 
+Prompt tokens (o200k_base encoding): 81029 
+Prompt tokens (cl100k_base encoding): 81641 
+
+Answer generated.
+Prompt tokens: 81633 
+Completion tokens: 1772
+-- 1 min pause 
+
+Chunks pair: 46 
+Chunks: [5, 1] 
+Prompt length: 419263 
+Prompt tokens (o200k_base encoding): 80202 
+Prompt tokens (cl100k_base encoding): 80782 
+
+Answer generated.
+Prompt tokens: 80774 
+Completion tokens: 3185
+-- 1 min pause 
+
+Chunks pair: 47 
+Chunks: [5, 2] 
+Prompt length: 417565 
+Prompt tokens (o200k_base encoding): 79595 
+Prompt tokens (cl100k_base encoding): 80187 
+
+Answer generated.
+Prompt tokens: 80179 
+Completion tokens: 4509
+-- 1 min pause 
+
+Chunks pair: 48 
+Chunks: [5, 3] 
+Prompt length: 416113 
+Prompt tokens (o200k_base encoding): 79129 
+Prompt tokens (cl100k_base encoding): 79706 
+
+Answer generated.
+Prompt tokens: 79696 
+Completion tokens: 4430
+-- 1 min pause 
+
+Chunks pair: 49 
+Chunks: [5, 4] 
+Prompt length: 417694 
+Prompt tokens (o200k_base encoding): 79734 
+Prompt tokens (cl100k_base encoding): 80305 
+
+Answer generated.
+Prompt tokens: 80297 
+Completion tokens: 4010
+-- 1 min pause 
+
+Chunks pair: 50 
+Chunks: [5, 6] 
+Prompt length: 417054 
+Prompt tokens (o200k_base encoding): 79271 
+Prompt tokens (cl100k_base encoding): 79851 
+
+Answer generated.
+Prompt tokens: 79843 
+Completion tokens: 2757
+-- 1 min pause 
+
+Chunks pair: 51 
+Chunks: [5, 7] 
+Prompt length: 414574 
+Prompt tokens (o200k_base encoding): 78783 
+Prompt tokens (cl100k_base encoding): 79370 
+
+Answer generated.
+Prompt tokens: 79362 
+Completion tokens: 2531
+-- 1 min pause 
+
+Chunks pair: 52 
+Chunks: [5, 8] 
+Prompt length: 420391 
+Prompt tokens (o200k_base encoding): 80027 
+Prompt tokens (cl100k_base encoding): 80611 
+
+Answer generated.
+Prompt tokens: 80603 
+Completion tokens: 2788
+-- 1 min pause 
+
+Chunks pair: 53 
+Chunks: [5, 9] 
+Prompt length: 421592 
+Prompt tokens (o200k_base encoding): 80128 
+Prompt tokens (cl100k_base encoding): 80724 
+
+Answer generated.
+Prompt tokens: 80716 
+Completion tokens: 2608
+-- 1 min pause 
+
+Chunks pair: 54 
+Chunks: [6, 0] 
+Prompt length: 422324 
+Prompt tokens (o200k_base encoding): 80624 
+Prompt tokens (cl100k_base encoding): 81219 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 54 
+Chunks: [6, 0] 
+Prompt length: 422324 
+Prompt tokens (o200k_base encoding): 80624 
+Prompt tokens (cl100k_base encoding): 81219 
+
+Answer generated.
+Prompt tokens: 81212 
+Completion tokens: 2854
+-- 1 min pause 
+
+Chunks pair: 55 
+Chunks: [6, 1] 
+Prompt length: 417933 
+Prompt tokens (o200k_base encoding): 79797 
+Prompt tokens (cl100k_base encoding): 80360 
+
+Answer generated.
+Prompt tokens: 80353 
+Completion tokens: 3125
+-- 1 min pause 
+
+Chunks pair: 56 
+Chunks: [6, 2] 
+Prompt length: 416235 
+Prompt tokens (o200k_base encoding): 79190 
+Prompt tokens (cl100k_base encoding): 79765 
+
+An error occurred: Request timed out.
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 56 
+Chunks: [6, 2] 
+Prompt length: 416235 
+Prompt tokens (o200k_base encoding): 79190 
+Prompt tokens (cl100k_base encoding): 79765 
+
+An error occurred: Request timed out.
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (2/5)
+Chunks pair: 56 
+Chunks: [6, 2] 
+Prompt length: 416235 
+Prompt tokens (o200k_base encoding): 79190 
+Prompt tokens (cl100k_base encoding): 79765 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (3/5)
+Chunks pair: 56 
+Chunks: [6, 2] 
+Prompt length: 416235 
+Prompt tokens (o200k_base encoding): 79190 
+Prompt tokens (cl100k_base encoding): 79765 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (4/5)
+Chunks pair: 56 
+Chunks: [6, 2] 
+Prompt length: 416235 
+Prompt tokens (o200k_base encoding): 79190 
+Prompt tokens (cl100k_base encoding): 79765 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (5/5)
+Failed to generate answer for pair56 ([6, 2]) after 5 retries.
+Chunks pair: 57 
+Chunks: [6, 3] 
+Prompt length: 414783 
+Prompt tokens (o200k_base encoding): 78724 
+Prompt tokens (cl100k_base encoding): 79284 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 57 
+Chunks: [6, 3] 
+Prompt length: 414783 
+Prompt tokens (o200k_base encoding): 78724 
+Prompt tokens (cl100k_base encoding): 79284 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (2/5)
+Chunks pair: 57 
+Chunks: [6, 3] 
+Prompt length: 414783 
+Prompt tokens (o200k_base encoding): 78724 
+Prompt tokens (cl100k_base encoding): 79284 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (3/5)
+Chunks pair: 57 
+Chunks: [6, 3] 
+Prompt length: 414783 
+Prompt tokens (o200k_base encoding): 78724 
+Prompt tokens (cl100k_base encoding): 79284 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (4/5)
+Chunks pair: 57 
+Chunks: [6, 3] 
+Prompt length: 414783 
+Prompt tokens (o200k_base encoding): 78724 
+Prompt tokens (cl100k_base encoding): 79284 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (5/5)
+Failed to generate answer for pair57 ([6, 3]) after 5 retries.
+Chunks pair: 58 
+Chunks: [6, 4] 
+Prompt length: 416364 
+Prompt tokens (o200k_base encoding): 79329 
+Prompt tokens (cl100k_base encoding): 79883 
+
+Answer generated.
+Prompt tokens: 79876 
+Completion tokens: 3675
+-- 1 min pause 
+
+Chunks pair: 59 
+Chunks: [6, 5] 
+Prompt length: 417054 
+Prompt tokens (o200k_base encoding): 79271 
+Prompt tokens (cl100k_base encoding): 79851 
+
+Answer generated.
+Prompt tokens: 79843 
+Completion tokens: 3625
+-- 1 min pause 
+
+Chunks pair: 60 
+Chunks: [6, 7] 
+Prompt length: 413244 
+Prompt tokens (o200k_base encoding): 78378 
+Prompt tokens (cl100k_base encoding): 78948 
+
+Answer generated.
+Prompt tokens: 78941 
+Completion tokens: 2161
+-- 1 min pause 
+
+Chunks pair: 61 
+Chunks: [6, 8] 
+Prompt length: 419061 
+Prompt tokens (o200k_base encoding): 79622 
+Prompt tokens (cl100k_base encoding): 80189 
+
+Answer generated.
+Prompt tokens: 80182 
+Completion tokens: 3083
+-- 1 min pause 
+
+Chunks pair: 62 
+Chunks: [6, 9] 
+Prompt length: 420262 
+Prompt tokens (o200k_base encoding): 79723 
+Prompt tokens (cl100k_base encoding): 80302 
+
+An error occurred: Request timed out.
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 62 
+Chunks: [6, 9] 
+Prompt length: 420262 
+Prompt tokens (o200k_base encoding): 79723 
+Prompt tokens (cl100k_base encoding): 80302 
+
+Answer generated.
+Prompt tokens: 80295 
+Completion tokens: 2940
+-- 1 min pause 
+
+Chunks pair: 63 
+Chunks: [7, 0] 
+Prompt length: 419844 
+Prompt tokens (o200k_base encoding): 80136 
+Prompt tokens (cl100k_base encoding): 80738 
+
+Answer generated.
+Prompt tokens: 80731 
+Completion tokens: 963
+-- 1 min pause 
+
+Chunks pair: 64 
+Chunks: [7, 1] 
+Prompt length: 415453 
+Prompt tokens (o200k_base encoding): 79309 
+Prompt tokens (cl100k_base encoding): 79879 
+
+Answer generated.
+Prompt tokens: 79872 
+Completion tokens: 2842
+-- 1 min pause 
+
+Chunks pair: 65 
+Chunks: [7, 2] 
+Prompt length: 413755 
+Prompt tokens (o200k_base encoding): 78702 
+Prompt tokens (cl100k_base encoding): 79284 
+
+Answer generated.
+Prompt tokens: 79277 
+Completion tokens: 2461
+-- 1 min pause 
+
+Chunks pair: 66 
+Chunks: [7, 3] 
+Prompt length: 412303 
+Prompt tokens (o200k_base encoding): 78236 
+Prompt tokens (cl100k_base encoding): 78803 
+
+Answer generated.
+Prompt tokens: 78794 
+Completion tokens: 3070
+-- 1 min pause 
+
+Chunks pair: 67 
+Chunks: [7, 4] 
+Prompt length: 413884 
+Prompt tokens (o200k_base encoding): 78841 
+Prompt tokens (cl100k_base encoding): 79402 
+
+Answer generated.
+Prompt tokens: 79395 
+Completion tokens: 1861
+-- 1 min pause 
+
+Chunks pair: 68 
+Chunks: [7, 5] 
+Prompt length: 414574 
+Prompt tokens (o200k_base encoding): 78783 
+Prompt tokens (cl100k_base encoding): 79370 
+
+Answer generated.
+Prompt tokens: 79362 
+Completion tokens: 2770
+-- 1 min pause 
+
+Chunks pair: 69 
+Chunks: [7, 6] 
+Prompt length: 413244 
+Prompt tokens (o200k_base encoding): 78378 
+Prompt tokens (cl100k_base encoding): 78948 
+
+Answer generated.
+Prompt tokens: 78941 
+Completion tokens: 3500
+-- 1 min pause 
+
+Chunks pair: 70 
+Chunks: [7, 8] 
+Prompt length: 416581 
+Prompt tokens (o200k_base encoding): 79134 
+Prompt tokens (cl100k_base encoding): 79708 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 70 
+Chunks: [7, 8] 
+Prompt length: 416581 
+Prompt tokens (o200k_base encoding): 79134 
+Prompt tokens (cl100k_base encoding): 79708 
+
+Answer generated.
+Prompt tokens: 79701 
+Completion tokens: 3432
+-- 1 min pause 
+
+Chunks pair: 71 
+Chunks: [7, 9] 
+Prompt length: 417782 
+Prompt tokens (o200k_base encoding): 79235 
+Prompt tokens (cl100k_base encoding): 79821 
+
+Answer generated.
+Prompt tokens: 79814 
+Completion tokens: 1262
+-- 1 min pause 
+
+Chunks pair: 72 
+Chunks: [8, 0] 
+Prompt length: 425661 
+Prompt tokens (o200k_base encoding): 81380 
+Prompt tokens (cl100k_base encoding): 81979 
+
+Answer generated.
+Prompt tokens: 81972 
+Completion tokens: 2124
+-- 1 min pause 
+
+Chunks pair: 73 
+Chunks: [8, 1] 
+Prompt length: 421270 
+Prompt tokens (o200k_base encoding): 80553 
+Prompt tokens (cl100k_base encoding): 81120 
+
+Answer generated.
+Prompt tokens: 81113 
+Completion tokens: 3189
+-- 1 min pause 
+
+Chunks pair: 74 
+Chunks: [8, 2] 
+Prompt length: 419572 
+Prompt tokens (o200k_base encoding): 79946 
+Prompt tokens (cl100k_base encoding): 80525 
+
+Answer generated.
+Prompt tokens: 80518 
+Completion tokens: 2467
+-- 1 min pause 
+
+Chunks pair: 75 
+Chunks: [8, 3] 
+Prompt length: 418120 
+Prompt tokens (o200k_base encoding): 79480 
+Prompt tokens (cl100k_base encoding): 80044 
+
+Answer generated.
+Prompt tokens: 80035 
+Completion tokens: 3163
+-- 1 min pause 
+
+Chunks pair: 76 
+Chunks: [8, 4] 
+Prompt length: 419701 
+Prompt tokens (o200k_base encoding): 80085 
+Prompt tokens (cl100k_base encoding): 80643 
+
+Answer generated.
+Prompt tokens: 80636 
+Completion tokens: 4901
+-- 1 min pause 
+
+Chunks pair: 77 
+Chunks: [8, 5] 
+Prompt length: 420391 
+Prompt tokens (o200k_base encoding): 80027 
+Prompt tokens (cl100k_base encoding): 80611 
+
+Answer generated.
+Prompt tokens: 80603 
+Completion tokens: 3188
+-- 1 min pause 
+
+Chunks pair: 78 
+Chunks: [8, 6] 
+Prompt length: 419061 
+Prompt tokens (o200k_base encoding): 79622 
+Prompt tokens (cl100k_base encoding): 80189 
+
+Answer generated.
+Prompt tokens: 80182 
+Completion tokens: 2265
+-- 1 min pause 
+
+Chunks pair: 79 
+Chunks: [8, 7] 
+Prompt length: 416581 
+Prompt tokens (o200k_base encoding): 79134 
+Prompt tokens (cl100k_base encoding): 79708 
+
+Answer generated.
+Prompt tokens: 79701 
+Completion tokens: 2842
+-- 1 min pause 
+
+Chunks pair: 80 
+Chunks: [8, 9] 
+Prompt length: 423599 
+Prompt tokens (o200k_base encoding): 80479 
+Prompt tokens (cl100k_base encoding): 81062 
+
+Answer generated.
+Prompt tokens: 81055 
+Completion tokens: 2246
+-- 1 min pause 
+
+Chunks pair: 81 
+Chunks: [9, 0] 
+Prompt length: 426862 
+Prompt tokens (o200k_base encoding): 81481 
+Prompt tokens (cl100k_base encoding): 82092 
+
+Answer generated.
+Prompt tokens: 82085 
+Completion tokens: 1200
+-- 1 min pause 
+
+Chunks pair: 82 
+Chunks: [9, 1] 
+Prompt length: 422471 
+Prompt tokens (o200k_base encoding): 80654 
+Prompt tokens (cl100k_base encoding): 81233 
+
+Answer generated.
+Prompt tokens: 81226 
+Completion tokens: 2732
+-- 1 min pause 
+
+Chunks pair: 83 
+Chunks: [9, 2] 
+Prompt length: 420773 
+Prompt tokens (o200k_base encoding): 80047 
+Prompt tokens (cl100k_base encoding): 80638 
+
+Answer generated.
+Prompt tokens: 80631 
+Completion tokens: 2640
+-- 1 min pause 
+
+Chunks pair: 84 
+Chunks: [9, 3] 
+Prompt length: 419321 
+Prompt tokens (o200k_base encoding): 79581 
+Prompt tokens (cl100k_base encoding): 80157 
+
+Answer generated.
+Prompt tokens: 80148 
+Completion tokens: 2777
+-- 1 min pause 
+
+Chunks pair: 85 
+Chunks: [9, 4] 
+Prompt length: 420902 
+Prompt tokens (o200k_base encoding): 80186 
+Prompt tokens (cl100k_base encoding): 80756 
+
+Answer generated.
+Prompt tokens: 80749 
+Completion tokens: 4532
+-- 1 min pause 
+
+Chunks pair: 86 
+Chunks: [9, 5] 
+Prompt length: 421592 
+Prompt tokens (o200k_base encoding): 80128 
+Prompt tokens (cl100k_base encoding): 80724 
+
+Answer generated.
+Prompt tokens: 80716 
+Completion tokens: 1468
+-- 1 min pause 
+
+Chunks pair: 87 
+Chunks: [9, 6] 
+Prompt length: 420262 
+Prompt tokens (o200k_base encoding): 79723 
+Prompt tokens (cl100k_base encoding): 80302 
+
+Answer generated.
+Prompt tokens: 80295 
+Completion tokens: 1657
+-- 1 min pause 
+
+Chunks pair: 88 
+Chunks: [9, 7] 
+Prompt length: 417782 
+Prompt tokens (o200k_base encoding): 79235 
+Prompt tokens (cl100k_base encoding): 79821 
+
+Answer generated.
+Prompt tokens: 79814 
+Completion tokens: 3248
+-- 1 min pause 
+
+Chunks pair: 89 
+Chunks: [9, 8] 
+Prompt length: 423599 
+Prompt tokens (o200k_base encoding): 80479 
+Prompt tokens (cl100k_base encoding): 81062 
+
+Answer generated.
+Prompt tokens: 81055 
+Completion tokens: 990
+-- 1 min pause 

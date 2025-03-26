@@ -2,47 +2,73 @@
 # Load libraries
 import openai
 from openai import OpenAI
+import requests
+import time
+import tiktoken
 
 
 # Set API token
-
 with open("token.txt", "r") as tf:
- token = tf.read()
+    TOKEN = tf.read().strip()  # Removes unwanted newline characters
 
-TOKEN = token
-openai.api_base = "https://api-gpt.jrc.ec.europa.eu/v1"
+
 openai.api_key = TOKEN
+openai.api_base = "https://api-gpt.jrc.ec.europa.eu/v1"
 
 client = OpenAI(
         api_key = TOKEN,
-        base_url = "https://api-gpt.jrc.ec.europa.eu/v1/"    )
+        base_url = openai.api_base   )
 
 
+# Define request function with a try-except block in case of timeout errors
+
+def get_chat_response(prompt, seed, model, temperature):
+    max_retries = 3
+    retry_count = 0
+
+    while retry_count < max_retries:
+        start_time = time.time()
+        try:
+            response = client.chat.completions.create(
+                messages=[{"role": "user", "content": prompt}],
+                model=model,
+                seed=seed,
+                temperature=temperature
+            )
+            end_time = time.time()
+            response_time = end_time - start_time
+            return {
+                "response_content": response.choices[0].message.content,
+                "prompt_tokens": response.usage.prompt_tokens,
+                "completion_tokens": response.usage.total_tokens - response.usage.prompt_tokens,
+                "system_fingerprint": response.system_fingerprint,
+                "response_time": response_time
+            }
+        except requests.exceptions.Timeout:
+            retry_count += 1
+            print(f"Timeout occurred. Retrying ({retry_count}/{max_retries})...")
+            time.sleep(60)  # Wait for 1 minute before retrying
+        except Exception as e:
+            print(f"An error occurred: {e}")
+            return None  # Return None if an unexpected error occurs
+
+    print("Maximum retries exceeded. Unable to get a response.")
+    return None
 
 
-
-# Define request function 
-def get_chat_response(prompt,seed,model,temperature):
-
-    response = client.chat.completions.create(
-        messages=[{"role": "user", "content": prompt}],
-        model=model, # usually "gpt-4o"
-        seed=seed,  # to ensure consistency in responses and reproducability.
-        temperature=temperature  # The temperature parameter influences the randomness of the generated responses. A higher value, such as 0.8, makes the answers more diverse, while a lower value, like 0.2, makes them more focused and deterministic.
-        
-    )
-    response_content = response.choices[0].message.content
-    system_fingerprint = response.system_fingerprint
-    prompt_tokens = response.usage.prompt_tokens
-    completion_tokens = response.usage.total_tokens - response.usage.prompt_tokens
-
-    return {
-            "response_content": response_content,
-            "prompt_tokens": prompt_tokens,
-            "completion_tokens": completion_tokens,
-            "system_fingerprint": system_fingerprint
-        }
- 
+def num_tokens_from_string(string: str, encoding_name: str) -> int:
+    encoding = tiktoken.get_encoding(encoding_name)
+    num_tokens = len(encoding.encode(string))
+    return num_tokens
 
 
+   
 
+
+# List of GPT@JRC models available 
+# all_models = client.models.list()
+# chat_models = [model for model in all_models.data if model.model_usage == "chat"] # Filter the chat models
+
+# for model in chat_models: # print all chat models
+#     print(model)
+#     print('--------')

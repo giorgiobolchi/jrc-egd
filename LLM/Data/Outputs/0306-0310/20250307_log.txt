@@ -1,0 +1,945 @@
+Chunks pair: 34 
+Chunks: [3, 8] 
+Prompt length: 418724 
+Prompt tokens (o200k_base encoding): 85253 
+Prompt tokens (cl100k_base encoding): 85858 
+
+Answer generated.
+Prompt tokens: 85872 
+Completion tokens: 1873
+-- 2 min pause 
+
+Chunks pair: 35 
+Chunks: [3, 9] 
+Prompt length: 416160 
+Prompt tokens (o200k_base encoding): 84647 
+Prompt tokens (cl100k_base encoding): 85246 
+
+Answer generated.
+Prompt tokens: 85260 
+Completion tokens: 2905
+-- 2 min pause 
+
+Chunks pair: 36 
+Chunks: [4, 0] 
+Prompt length: 417217 
+Prompt tokens (o200k_base encoding): 84839 
+Prompt tokens (cl100k_base encoding): 85422 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 36 
+Chunks: [4, 0] 
+Prompt length: 417217 
+Prompt tokens (o200k_base encoding): 84839 
+Prompt tokens (cl100k_base encoding): 85422 
+
+Answer generated.
+Prompt tokens: 85442 
+Completion tokens: 6477
+-- 2 min pause 
+
+Chunks pair: 37 
+Chunks: [4, 1] 
+Prompt length: 416286 
+Prompt tokens (o200k_base encoding): 84619 
+Prompt tokens (cl100k_base encoding): 85206 
+
+Answer generated.
+Prompt tokens: 85226 
+Completion tokens: 2862
+-- 2 min pause 
+
+Chunks pair: 38 
+Chunks: [4, 2] 
+Prompt length: 415462 
+Prompt tokens (o200k_base encoding): 84496 
+Prompt tokens (cl100k_base encoding): 85084 
+
+Answer generated.
+Prompt tokens: 85104 
+Completion tokens: 2146
+-- 2 min pause 
+
+Chunks pair: 39 
+Chunks: [4, 3] 
+Prompt length: 416367 
+Prompt tokens (o200k_base encoding): 84814 
+Prompt tokens (cl100k_base encoding): 85400 
+
+Answer generated.
+Prompt tokens: 85414 
+Completion tokens: 1415
+-- 2 min pause 
+
+Chunks pair: 40 
+Chunks: [4, 5] 
+Prompt length: 413770 
+Prompt tokens (o200k_base encoding): 84045 
+Prompt tokens (cl100k_base encoding): 84624 
+
+Answer generated.
+Prompt tokens: 84644 
+Completion tokens: 6263
+-- 2 min pause 
+
+Chunks pair: 41 
+Chunks: [4, 6] 
+Prompt length: 413764 
+Prompt tokens (o200k_base encoding): 83991 
+Prompt tokens (cl100k_base encoding): 84579 
+
+Answer generated.
+Prompt tokens: 84599 
+Completion tokens: 4970
+-- 2 min pause 
+
+Chunks pair: 42 
+Chunks: [4, 7] 
+Prompt length: 414823 
+Prompt tokens (o200k_base encoding): 84302 
+Prompt tokens (cl100k_base encoding): 84885 
+
+Answer generated.
+Prompt tokens: 84905 
+Completion tokens: 4646
+-- 2 min pause 
+
+Chunks pair: 43 
+Chunks: [4, 8] 
+Prompt length: 419085 
+Prompt tokens (o200k_base encoding): 85173 
+Prompt tokens (cl100k_base encoding): 85765 
+
+Answer generated.
+Prompt tokens: 85785 
+Completion tokens: 3465
+-- 2 min pause 
+
+Chunks pair: 44 
+Chunks: [4, 9] 
+Prompt length: 416521 
+Prompt tokens (o200k_base encoding): 84567 
+Prompt tokens (cl100k_base encoding): 85153 
+
+Answer generated.
+Prompt tokens: 85173 
+Completion tokens: 4245
+-- 2 min pause 
+
+Chunks pair: 45 
+Chunks: [5, 0] 
+Prompt length: 414259 
+Prompt tokens (o200k_base encoding): 84150 
+Prompt tokens (cl100k_base encoding): 84739 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 45 
+Chunks: [5, 0] 
+Prompt length: 414259 
+Prompt tokens (o200k_base encoding): 84150 
+Prompt tokens (cl100k_base encoding): 84739 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (2/5)
+Chunks pair: 45 
+Chunks: [5, 0] 
+Prompt length: 414259 
+Prompt tokens (o200k_base encoding): 84150 
+Prompt tokens (cl100k_base encoding): 84739 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (3/5)
+Chunks pair: 45 
+Chunks: [5, 0] 
+Prompt length: 414259 
+Prompt tokens (o200k_base encoding): 84150 
+Prompt tokens (cl100k_base encoding): 84739 
+
+Answer generated.
+Prompt tokens: 84759 
+Completion tokens: 5290
+-- 2 min pause 
+
+Chunks pair: 46 
+Chunks: [5, 1] 
+Prompt length: 413328 
+Prompt tokens (o200k_base encoding): 83930 
+Prompt tokens (cl100k_base encoding): 84523 
+
+Answer generated.
+Prompt tokens: 84543 
+Completion tokens: 5612
+-- 2 min pause 
+
+Chunks pair: 47 
+Chunks: [5, 2] 
+Prompt length: 412504 
+Prompt tokens (o200k_base encoding): 83807 
+Prompt tokens (cl100k_base encoding): 84401 
+
+Answer generated.
+Prompt tokens: 84421 
+Completion tokens: 5579
+-- 2 min pause 
+
+Chunks pair: 48 
+Chunks: [5, 3] 
+Prompt length: 413409 
+Prompt tokens (o200k_base encoding): 84125 
+Prompt tokens (cl100k_base encoding): 84717 
+
+Answer generated.
+Prompt tokens: 84731 
+Completion tokens: 3918
+-- 2 min pause 
+
+Chunks pair: 49 
+Chunks: [5, 4] 
+Prompt length: 413770 
+Prompt tokens (o200k_base encoding): 84045 
+Prompt tokens (cl100k_base encoding): 84624 
+
+Answer generated.
+Prompt tokens: 84644 
+Completion tokens: 5730
+-- 2 min pause 
+
+Chunks pair: 50 
+Chunks: [5, 6] 
+Prompt length: 410806 
+Prompt tokens (o200k_base encoding): 83302 
+Prompt tokens (cl100k_base encoding): 83896 
+
+Answer generated.
+Prompt tokens: 83916 
+Completion tokens: 3164
+-- 2 min pause 
+
+Chunks pair: 51 
+Chunks: [5, 7] 
+Prompt length: 411865 
+Prompt tokens (o200k_base encoding): 83613 
+Prompt tokens (cl100k_base encoding): 84202 
+
+Answer generated.
+Prompt tokens: 84222 
+Completion tokens: 2239
+-- 2 min pause 
+
+Chunks pair: 52 
+Chunks: [5, 8] 
+Prompt length: 416127 
+Prompt tokens (o200k_base encoding): 84484 
+Prompt tokens (cl100k_base encoding): 85082 
+
+Answer generated.
+Prompt tokens: 85102 
+Completion tokens: 3575
+-- 2 min pause 
+
+Chunks pair: 53 
+Chunks: [5, 9] 
+Prompt length: 413563 
+Prompt tokens (o200k_base encoding): 83878 
+Prompt tokens (cl100k_base encoding): 84470 
+
+Answer generated.
+Prompt tokens: 84490 
+Completion tokens: 2963
+-- 2 min pause 
+
+Chunks pair: 54 
+Chunks: [6, 0] 
+Prompt length: 414253 
+Prompt tokens (o200k_base encoding): 84096 
+Prompt tokens (cl100k_base encoding): 84694 
+
+Answer generated.
+Prompt tokens: 84714 
+Completion tokens: 4869
+-- 2 min pause 
+
+Chunks pair: 55 
+Chunks: [6, 1] 
+Prompt length: 413322 
+Prompt tokens (o200k_base encoding): 83876 
+Prompt tokens (cl100k_base encoding): 84478 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 55 
+Chunks: [6, 1] 
+Prompt length: 413322 
+Prompt tokens (o200k_base encoding): 83876 
+Prompt tokens (cl100k_base encoding): 84478 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (2/5)
+Chunks pair: 55 
+Chunks: [6, 1] 
+Prompt length: 413322 
+Prompt tokens (o200k_base encoding): 83876 
+Prompt tokens (cl100k_base encoding): 84478 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (3/5)
+Chunks pair: 55 
+Chunks: [6, 1] 
+Prompt length: 413322 
+Prompt tokens (o200k_base encoding): 83876 
+Prompt tokens (cl100k_base encoding): 84478 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (4/5)
+Chunks pair: 55 
+Chunks: [6, 1] 
+Prompt length: 413322 
+Prompt tokens (o200k_base encoding): 83876 
+Prompt tokens (cl100k_base encoding): 84478 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (5/5)
+Failed to generate answer for pair55 ([6, 1]) after 5 retries.
+Chunks pair: 56 
+Chunks: [6, 2] 
+Prompt length: 412498 
+Prompt tokens (o200k_base encoding): 83753 
+Prompt tokens (cl100k_base encoding): 84356 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 56 
+Chunks: [6, 2] 
+Prompt length: 412498 
+Prompt tokens (o200k_base encoding): 83753 
+Prompt tokens (cl100k_base encoding): 84356 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (2/5)
+Chunks pair: 56 
+Chunks: [6, 2] 
+Prompt length: 412498 
+Prompt tokens (o200k_base encoding): 83753 
+Prompt tokens (cl100k_base encoding): 84356 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (3/5)
+Chunks pair: 56 
+Chunks: [6, 2] 
+Prompt length: 412498 
+Prompt tokens (o200k_base encoding): 83753 
+Prompt tokens (cl100k_base encoding): 84356 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (4/5)
+Chunks pair: 56 
+Chunks: [6, 2] 
+Prompt length: 412498 
+Prompt tokens (o200k_base encoding): 83753 
+Prompt tokens (cl100k_base encoding): 84356 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (5/5)
+Failed to generate answer for pair56 ([6, 2]) after 5 retries.
+Chunks pair: 57 
+Chunks: [6, 3] 
+Prompt length: 413403 
+Prompt tokens (o200k_base encoding): 84071 
+Prompt tokens (cl100k_base encoding): 84672 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 57 
+Chunks: [6, 3] 
+Prompt length: 413403 
+Prompt tokens (o200k_base encoding): 84071 
+Prompt tokens (cl100k_base encoding): 84672 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (2/5)
+Chunks pair: 57 
+Chunks: [6, 3] 
+Prompt length: 413403 
+Prompt tokens (o200k_base encoding): 84071 
+Prompt tokens (cl100k_base encoding): 84672 
+
+Answer generated.
+Prompt tokens: 84686 
+Completion tokens: 3476
+-- 2 min pause 
+
+Chunks pair: 58 
+Chunks: [6, 4] 
+Prompt length: 413764 
+Prompt tokens (o200k_base encoding): 83991 
+Prompt tokens (cl100k_base encoding): 84579 
+
+Answer generated.
+Prompt tokens: 84599 
+Completion tokens: 2558
+-- 2 min pause 
+
+Chunks pair: 59 
+Chunks: [6, 5] 
+Prompt length: 410806 
+Prompt tokens (o200k_base encoding): 83302 
+Prompt tokens (cl100k_base encoding): 83896 
+
+Answer generated.
+Prompt tokens: 83916 
+Completion tokens: 1990
+-- 2 min pause 
+
+Chunks pair: 60 
+Chunks: [6, 7] 
+Prompt length: 411859 
+Prompt tokens (o200k_base encoding): 83559 
+Prompt tokens (cl100k_base encoding): 84157 
+
+Answer generated.
+Prompt tokens: 84177 
+Completion tokens: 3415
+-- 2 min pause 
+
+Chunks pair: 61 
+Chunks: [6, 8] 
+Prompt length: 416121 
+Prompt tokens (o200k_base encoding): 84430 
+Prompt tokens (cl100k_base encoding): 85037 
+
+Answer generated.
+Prompt tokens: 85057 
+Completion tokens: 3046
+-- 2 min pause 
+
+Chunks pair: 62 
+Chunks: [6, 9] 
+Prompt length: 413557 
+Prompt tokens (o200k_base encoding): 83824 
+Prompt tokens (cl100k_base encoding): 84425 
+
+Answer generated.
+Prompt tokens: 84445 
+Completion tokens: 3094
+-- 2 min pause 
+
+Chunks pair: 63 
+Chunks: [7, 0] 
+Prompt length: 415312 
+Prompt tokens (o200k_base encoding): 84407 
+Prompt tokens (cl100k_base encoding): 85000 
+
+Answer generated.
+Prompt tokens: 85020 
+Completion tokens: 1065
+-- 2 min pause 
+
+Chunks pair: 64 
+Chunks: [7, 1] 
+Prompt length: 414381 
+Prompt tokens (o200k_base encoding): 84187 
+Prompt tokens (cl100k_base encoding): 84784 
+
+Answer generated.
+Prompt tokens: 84804 
+Completion tokens: 6727
+-- 2 min pause 
+
+Chunks pair: 65 
+Chunks: [7, 2] 
+Prompt length: 413557 
+Prompt tokens (o200k_base encoding): 84064 
+Prompt tokens (cl100k_base encoding): 84662 
+
+Answer generated.
+Prompt tokens: 84682 
+Completion tokens: 650
+-- 2 min pause 
+
+Chunks pair: 66 
+Chunks: [7, 3] 
+Prompt length: 414462 
+Prompt tokens (o200k_base encoding): 84382 
+Prompt tokens (cl100k_base encoding): 84978 
+
+Answer generated.
+Prompt tokens: 84992 
+Completion tokens: 1033
+-- 2 min pause 
+
+Chunks pair: 67 
+Chunks: [7, 4] 
+Prompt length: 414823 
+Prompt tokens (o200k_base encoding): 84302 
+Prompt tokens (cl100k_base encoding): 84885 
+
+Answer generated.
+Prompt tokens: 84905 
+Completion tokens: 3424
+-- 2 min pause 
+
+Chunks pair: 68 
+Chunks: [7, 5] 
+Prompt length: 411865 
+Prompt tokens (o200k_base encoding): 83613 
+Prompt tokens (cl100k_base encoding): 84202 
+
+Answer generated.
+Prompt tokens: 84222 
+Completion tokens: 1866
+-- 2 min pause 
+
+Chunks pair: 69 
+Chunks: [7, 6] 
+Prompt length: 411859 
+Prompt tokens (o200k_base encoding): 83559 
+Prompt tokens (cl100k_base encoding): 84157 
+
+Answer generated.
+Prompt tokens: 84177 
+Completion tokens: 3593
+-- 2 min pause 
+
+Chunks pair: 70 
+Chunks: [7, 8] 
+Prompt length: 417180 
+Prompt tokens (o200k_base encoding): 84741 
+Prompt tokens (cl100k_base encoding): 85343 
+
+Answer generated.
+Prompt tokens: 85363 
+Completion tokens: 6808
+-- 2 min pause 
+
+Chunks pair: 71 
+Chunks: [7, 9] 
+Prompt length: 414616 
+Prompt tokens (o200k_base encoding): 84135 
+Prompt tokens (cl100k_base encoding): 84731 
+
+Answer generated.
+Prompt tokens: 84751 
+Completion tokens: 3616
+-- 2 min pause 
+
+Chunks pair: 72 
+Chunks: [8, 0] 
+Prompt length: 419574 
+Prompt tokens (o200k_base encoding): 85278 
+Prompt tokens (cl100k_base encoding): 85880 
+
+Answer generated.
+Prompt tokens: 85900 
+Completion tokens: 912
+-- 2 min pause 
+
+Chunks pair: 73 
+Chunks: [8, 1] 
+Prompt length: 418643 
+Prompt tokens (o200k_base encoding): 85058 
+Prompt tokens (cl100k_base encoding): 85664 
+
+Answer generated.
+Prompt tokens: 85684 
+Completion tokens: 7371
+-- 2 min pause 
+
+Chunks pair: 74 
+Chunks: [8, 2] 
+Prompt length: 417819 
+Prompt tokens (o200k_base encoding): 84935 
+Prompt tokens (cl100k_base encoding): 85542 
+
+Answer generated.
+Prompt tokens: 85562 
+Completion tokens: 2662
+-- 2 min pause 
+
+Chunks pair: 75 
+Chunks: [8, 3] 
+Prompt length: 418724 
+Prompt tokens (o200k_base encoding): 85253 
+Prompt tokens (cl100k_base encoding): 85858 
+
+Answer generated.
+Prompt tokens: 85872 
+Completion tokens: 2818
+-- 2 min pause 
+
+Chunks pair: 76 
+Chunks: [8, 4] 
+Prompt length: 419085 
+Prompt tokens (o200k_base encoding): 85173 
+Prompt tokens (cl100k_base encoding): 85765 
+
+Answer generated.
+Prompt tokens: 85785 
+Completion tokens: 1556
+-- 2 min pause 
+
+Chunks pair: 77 
+Chunks: [8, 5] 
+Prompt length: 416127 
+Prompt tokens (o200k_base encoding): 84484 
+Prompt tokens (cl100k_base encoding): 85082 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 77 
+Chunks: [8, 5] 
+Prompt length: 416127 
+Prompt tokens (o200k_base encoding): 84484 
+Prompt tokens (cl100k_base encoding): 85082 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (2/5)
+Chunks pair: 77 
+Chunks: [8, 5] 
+Prompt length: 416127 
+Prompt tokens (o200k_base encoding): 84484 
+Prompt tokens (cl100k_base encoding): 85082 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (3/5)
+Chunks pair: 77 
+Chunks: [8, 5] 
+Prompt length: 416127 
+Prompt tokens (o200k_base encoding): 84484 
+Prompt tokens (cl100k_base encoding): 85082 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (4/5)
+Chunks pair: 77 
+Chunks: [8, 5] 
+Prompt length: 416127 
+Prompt tokens (o200k_base encoding): 84484 
+Prompt tokens (cl100k_base encoding): 85082 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (5/5)
+Failed to generate answer for pair77 ([8, 5]) after 5 retries.
+Chunks pair: 78 
+Chunks: [8, 6] 
+Prompt length: 416121 
+Prompt tokens (o200k_base encoding): 84430 
+Prompt tokens (cl100k_base encoding): 85037 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 78 
+Chunks: [8, 6] 
+Prompt length: 416121 
+Prompt tokens (o200k_base encoding): 84430 
+Prompt tokens (cl100k_base encoding): 85037 
+
+Answer generated.
+Prompt tokens: 85057 
+Completion tokens: 728
+-- 2 min pause 
+
+Chunks pair: 79 
+Chunks: [8, 7] 
+Prompt length: 417180 
+Prompt tokens (o200k_base encoding): 84741 
+Prompt tokens (cl100k_base encoding): 85343 
+
+Answer generated.
+Prompt tokens: 85363 
+Completion tokens: 5895
+-- 2 min pause 
+
+Chunks pair: 80 
+Chunks: [8, 9] 
+Prompt length: 418878 
+Prompt tokens (o200k_base encoding): 85006 
+Prompt tokens (cl100k_base encoding): 85611 
+
+Answer generated.
+Prompt tokens: 85631 
+Completion tokens: 5437
+-- 2 min pause 
+
+Chunks pair: 81 
+Chunks: [9, 0] 
+Prompt length: 417010 
+Prompt tokens (o200k_base encoding): 84672 
+Prompt tokens (cl100k_base encoding): 85268 
+
+Answer generated.
+Prompt tokens: 85288 
+Completion tokens: 3409
+-- 2 min pause 
+
+Chunks pair: 82 
+Chunks: [9, 1] 
+Prompt length: 416079 
+Prompt tokens (o200k_base encoding): 84452 
+Prompt tokens (cl100k_base encoding): 85052 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 82 
+Chunks: [9, 1] 
+Prompt length: 416079 
+Prompt tokens (o200k_base encoding): 84452 
+Prompt tokens (cl100k_base encoding): 85052 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (2/5)
+Chunks pair: 82 
+Chunks: [9, 1] 
+Prompt length: 416079 
+Prompt tokens (o200k_base encoding): 84452 
+Prompt tokens (cl100k_base encoding): 85052 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (3/5)
+Chunks pair: 82 
+Chunks: [9, 1] 
+Prompt length: 416079 
+Prompt tokens (o200k_base encoding): 84452 
+Prompt tokens (cl100k_base encoding): 85052 
+
+Answer generated.
+Prompt tokens: 85072 
+Completion tokens: 4067
+-- 2 min pause 
+
+Chunks pair: 83 
+Chunks: [9, 2] 
+Prompt length: 415255 
+Prompt tokens (o200k_base encoding): 84329 
+Prompt tokens (cl100k_base encoding): 84930 
+
+Answer generated.
+Prompt tokens: 84950 
+Completion tokens: 1952
+-- 2 min pause 
+
+Chunks pair: 84 
+Chunks: [9, 3] 
+Prompt length: 416160 
+Prompt tokens (o200k_base encoding): 84647 
+Prompt tokens (cl100k_base encoding): 85246 
+
+Answer generated.
+Prompt tokens: 85260 
+Completion tokens: 3660
+-- 2 min pause 
+
+Chunks pair: 85 
+Chunks: [9, 4] 
+Prompt length: 416521 
+Prompt tokens (o200k_base encoding): 84567 
+Prompt tokens (cl100k_base encoding): 85153 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 85 
+Chunks: [9, 4] 
+Prompt length: 416521 
+Prompt tokens (o200k_base encoding): 84567 
+Prompt tokens (cl100k_base encoding): 85153 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (2/5)
+Chunks pair: 85 
+Chunks: [9, 4] 
+Prompt length: 416521 
+Prompt tokens (o200k_base encoding): 84567 
+Prompt tokens (cl100k_base encoding): 85153 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (3/5)
+Chunks pair: 85 
+Chunks: [9, 4] 
+Prompt length: 416521 
+Prompt tokens (o200k_base encoding): 84567 
+Prompt tokens (cl100k_base encoding): 85153 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (4/5)
+Chunks pair: 85 
+Chunks: [9, 4] 
+Prompt length: 416521 
+Prompt tokens (o200k_base encoding): 84567 
+Prompt tokens (cl100k_base encoding): 85153 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (5/5)
+Failed to generate answer for pair85 ([9, 4]) after 5 retries.
+Chunks pair: 86 
+Chunks: [9, 5] 
+Prompt length: 413563 
+Prompt tokens (o200k_base encoding): 83878 
+Prompt tokens (cl100k_base encoding): 84470 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 86 
+Chunks: [9, 5] 
+Prompt length: 413563 
+Prompt tokens (o200k_base encoding): 83878 
+Prompt tokens (cl100k_base encoding): 84470 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (2/5)
+Chunks pair: 86 
+Chunks: [9, 5] 
+Prompt length: 413563 
+Prompt tokens (o200k_base encoding): 83878 
+Prompt tokens (cl100k_base encoding): 84470 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (3/5)
+Chunks pair: 86 
+Chunks: [9, 5] 
+Prompt length: 413563 
+Prompt tokens (o200k_base encoding): 83878 
+Prompt tokens (cl100k_base encoding): 84470 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (4/5)
+Chunks pair: 86 
+Chunks: [9, 5] 
+Prompt length: 413563 
+Prompt tokens (o200k_base encoding): 83878 
+Prompt tokens (cl100k_base encoding): 84470 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (5/5)
+Failed to generate answer for pair86 ([9, 5]) after 5 retries.
+Chunks pair: 87 
+Chunks: [9, 6] 
+Prompt length: 413557 
+Prompt tokens (o200k_base encoding): 83824 
+Prompt tokens (cl100k_base encoding): 84425 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 87 
+Chunks: [9, 6] 
+Prompt length: 413557 
+Prompt tokens (o200k_base encoding): 83824 
+Prompt tokens (cl100k_base encoding): 84425 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (2/5)
+Chunks pair: 87 
+Chunks: [9, 6] 
+Prompt length: 413557 
+Prompt tokens (o200k_base encoding): 83824 
+Prompt tokens (cl100k_base encoding): 84425 
+
+An error occurred: Error code: 429 - {'detail': 'You have exceeded the rate limit for requests. Please, retry later.'}
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (3/5)
+Chunks pair: 87 
+Chunks: [9, 6] 
+Prompt length: 413557 
+Prompt tokens (o200k_base encoding): 83824 
+Prompt tokens (cl100k_base encoding): 84425 
+
+Answer generated.
+Prompt tokens: 84445 
+Completion tokens: 3223
+-- 2 min pause 
+
+Chunks pair: 88 
+Chunks: [9, 7] 
+Prompt length: 414616 
+Prompt tokens (o200k_base encoding): 84135 
+Prompt tokens (cl100k_base encoding): 84731 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 88 
+Chunks: [9, 7] 
+Prompt length: 414616 
+Prompt tokens (o200k_base encoding): 84135 
+Prompt tokens (cl100k_base encoding): 84731 
+
+Answer generated.
+Prompt tokens: 84751 
+Completion tokens: 4859
+-- 2 min pause 
+
+Chunks pair: 89 
+Chunks: [9, 8] 
+Prompt length: 418878 
+Prompt tokens (o200k_base encoding): 85006 
+Prompt tokens (cl100k_base encoding): 85611 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+Chunks pair: 89 
+Chunks: [9, 8] 
+Prompt length: 418878 
+Prompt tokens (o200k_base encoding): 85006 
+Prompt tokens (cl100k_base encoding): 85611 
+
+Answer generated.
+Prompt tokens: 85631 
+Completion tokens: 2192
+-- 2 min pause 

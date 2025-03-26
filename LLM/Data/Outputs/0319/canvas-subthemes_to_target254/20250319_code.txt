@@ -1,0 +1,150 @@
+canvas_sub_themes = [
+	
+	"Climate Resilience",
+	"GHG Reduction",
+	"GHG Reduction - Buildings",
+	"GHG Reduction - Transports"
+	"GHG Removal",
+	"Renewable Energy",
+	"Renewable Energy - Heating & Cooling",
+	"Renewable Energy - Hydrogen",
+	"Renewable Energy - Ocean/Offshore",
+	"Renewable Energy - Solar",
+	"Energy Efficiency",
+	"Energy Efficiency - Buildings",
+	"Energy Infrastructure",
+	"Methane",
+	"Social Security - Energy",
+	"Waste Reduction",
+	"Waste Reduction - Municipal Waste",
+	"Waste Reduction - Food Waste",
+	"Waste Reduction - Plastic & Packaging",
+	"Circularity/Recycling",
+	"Circularity/Recycling - Municipal Waste",
+	"Circularity/Recycling - Textile Waste",
+	"Circularity/Recycling - Plastic & Packaging",
+	"Circularity/Recycling - Plastic & Packaging - Bio-based plastics",
+	"Circularity/Recycling - Vehicle Circularity",
+	"Circularity/Recycling - Critical Raw Materials - Batteries Recycling",
+	"Critical Raw Materials - Extraction & Import",
+	"Net-Zero Technology - Manufacturing",
+	"Rail",
+	"Net-Zero Technology - Road Vehicles",
+	"Net-Zero Technology - Maritime Transport",
+	"Net-Zero Technology - Aviation",
+	"Biofuels",
+	"Other Low-Carbon Fuels",
+	"Hydrogen",
+	"Urban Mobility",
+	"Transport Logistics",
+	"Food quality",
+	"Food quality - Animal Welfare",
+	"Food quality - Healthy Food",
+	"Food affordability",
+    "Social Security - Workers Protection",
+	"Biodiversity conservation",
+	"Pesticides Reduction",
+	"Competitive Agriculture",
+	"Terrestrial Ecosystems Restoration",
+	"Terrestrial Ecosystems Restoration - Rivers",
+	"Terrestrial Ecosystems Restoration - Agricultural Ecosystems",
+	"Terrestrial Ecosystems Restoration - Forests",
+	"Marine Ecosystem Restoration",
+	"Biodiversity Protection & Conservation",
+	"Biodiversity Protection & Conservation - Fisheries",
+	"Biodiversity Protection & Conservation - Monitoring",
+	"Biodiversity Protection & Conservation - Urban Nature",
+	"Forest Bioeconomy",
+	"Improve Air Quality",
+	"Improve Water Quality",
+	"Improve Soils Health",
+	"Noise Reduction",
+    "Social Security - Sanitation"
+	
+	]
+
+# GENERATE ANSWERS
+
+# Set parameters
+chunks = 3
+target_data = target_data_254
+seed = None
+temperature = 0.1
+model = "llama-3.3-70b-instruct"  # "llama-3.3-70b-instruct" "gpt-4o"
+date = '0319'
+output_directory = f'/Users/giorgiobolchi2/Documents/GitHub/jrc-egd/LLM/Data/Outputs/{date}/'
+os.makedirs(output_directory, exist_ok=True)  # Create the 'date' folder if it doesn't exist
+
+# Chunk generation
+#target_data = target_data.sample(frac=1, random_state=1).reset_index()  # shuffle dataframe rows IF NECESSARY
+target_data_chunks = np.array_split(ary=target_data, indices_or_sections=chunks)  # generate chunks
+
+for x in range(len(target_data_chunks)):
+#for x in list([9]):
+    success = False  # Initialize a flag to track whether the operation was successful
+    retry_count = 0  # Initialize a counter to track the number of retries
+    max_retries = 3  # adjust this value to set the desired number of retries
+
+    while not success and retry_count < max_retries:
+        try:
+            target_list = [f"{row['target_code']}: {row['target_content']}" for index, row in target_data_chunks[x].iterrows()]  # Concatenate target_code and target_content into a list so that it can be added to the prompt as text string
+
+            # Define request
+            prompt = f'''
+            Data input & Context:
+            - List of thematic areas (TA): {thematic_areas}
+            - List of European Green Deal (EGD) targets: {target_list}.
+            - List of sub-themes: {canvas_sub_themes}.
+
+            Task: 
+            - For each target, assign a sub-theme from the list based on the target content.
+
+            Answer format: provide your answer as a table in csv format (separator: ";"), with the following columns:
+            - target_code (e.g., TA2.7)
+            - target_content (e.g., Over this decade, the EU will need to install, on average, approximately 45 GW per year of PV to reach the share of 45% of energy coming from renewables set out in the REPowerEU Plan.) 
+            - thematic_area (e.g., TA2_Clean, affordable and secure energy)
+            - sub_theme (e.g., Renewable Energy - Solar)
+            - justification
+
+            Specifications:
+            - This is crucial: all targets should be assigned to at least one sub-theme.
+            - If one target is fitting in multiple sub-themes, add multiple rows for one same target.
+            - If you cannot classify one target to any sub-theme, assign it to a sub-theme called 'Unclassified'. 
+            - For each target, write 1-2 sentences to justify why a particular target was assigned to a specific sub-theme.
+            - Output only the CSV table. Do not include additional commentary.
+            
+            '''
+
+            # Print to double check amount of tokens in prompt (JRC llama should have a max of 120k)
+            prompt_tokens = f'''Prompt length: {len(prompt)} \nPrompt tokens (o200k_base encoding): {num_tokens_from_string(prompt, "o200k_base")} \nPrompt tokens (cl100k_base encoding): {num_tokens_from_string(prompt, "cl100k_base")} \n'''
+            print(prompt_tokens)
+
+            # Generate answer
+            answer = get_chat_response(prompt=prompt,
+                                      seed=seed,
+                                      model=model,
+                                      temperature=temperature  # The temperature parameter influences the randomness of the generated responses. A higher value, such as 0.8, makes the answers more diverse, while a lower value, like 0.2, makes them more focused and deterministic.
+                                      )
+
+            # Save the generated answer as a CSV file
+            output_name = f'{date}_subthemes_chunk{x+1}.csv'
+
+            with open((os.path.join(output_directory, output_name)), 'w') as f:
+                f.write(answer["response_content"])
+
+            # If success, set the success flag to True
+            success = True
+
+            # If success, add a 2-minute pause between answer requests to avoid RateLimitErrors
+            print(f"-- 1 min pause \n")
+            time.sleep(60)
+
+        except Exception as e:
+            retry_count += 1  # Increment the retry counter if an error occurs
+            error_type = type(e).__name__  # Get the type of error that occurred
+            error_message = str(e)  # Get the error message
+            print(f"An error occurred ({error_type}): {error_message}. Retrying ({retry_count}/{max_retries})")  # Print an error message with the type and message
+
+    # Print a message if the operation failed after the maximum number of retries
+    if not success:
+        print(f"Failed to generate answer for pair{x} after {max_retries} retries.")

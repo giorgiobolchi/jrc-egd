@@ -1,0 +1,10 @@
+## Reduce by 50% the use and risk of chemical pesticides
+Target in Common with Biodiversity Strategy (see Thematic Area 6) and Zero Pollution Action Plan (see Thematic Area 7)
+
+Thematic area: #TA5_Greening_the_Common_Agricultural_Policy
+
+Assessment:  Indicator: Use and risk of chemical pesticides (Source: DG SANTE).
+According to data published by DG SANTE, the use and risk of chemical pesticides decreased by 33 % between the baseline period of 2015–2017 and 2021. The use and risk of chemical pesticides shows a decrease of 6% from 2020 to 2021. These overall downward trends show that the target can be achieved by 20301. [182]
+1 It should be noted that the current EU-wide indicator, which applies risk weightings to four different groups of chemical pesticides and is based on pesticide sales, is not considered scientifically robust by some. This indicator is based on a similar harmonised risk indicator, which, according to the European legislation (Commission Directive (EU) 2019/782), is considered hazard-based. This is due to the absence of statistics on the use of plant protection products needed to develop a risk indicator. The Commission is committed to developing more sophisticated indicators in future, such as improved weightings that take hazard properties into account in a more granular way or by using EU-level data on pesticide usage when it becomes available. An example of such an improvement is the new risk indicator assessing the toxicity of pesticide residues in soil from samples collected under the LUCAS Soil Pesticide survey coordinated by JRC. According to this indicator, in 2018, 14% of sites in the EU were at risk of negative effects on soil organisms due to pesticide residues. The analysis of samples from 2022 is currently ongoing and will shed light on the EU’s progress towards pesticide risk reductions. This indicator is relevant to only one compartment (soil) but is just one of many being examined for usefulness and relevance. .
+
+Colour: #green

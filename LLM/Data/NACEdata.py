@@ -371,6 +371,7 @@ NACElevel3 = ", ".join({
     "N82.2 - Activities of call centres",
     "N82.3 - Organisation of conventions and trade shows",
     "N82.9 - Business support service activities n.e.c.",
+    "O84.1 - Administration of the State and the economic and social policy of the community",
     "O84.2 - Provision of services to the community as a whole",
     "O84.3 - Compulsory social security activities",
     "P85.1 - Pre-primary education",

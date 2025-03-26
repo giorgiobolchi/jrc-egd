@@ -1,0 +1,32 @@
+# Aggregate results chunks into a single file
+
+import pandas as pd
+import glob
+
+# Specify the directory path and file pattern
+date = '0317'
+output_directory = f'/Users/giorgiobolchi2/Documents/GitHub/jrc-egd/LLM/Data/Outputs/{date}/'
+file_pattern = f'{date}_subthemes_chunk*.csv'
+
+# Get a list of all CSV files matching the pattern
+csv_files = glob.glob(output_directory + '/' + file_pattern)
+
+# Initialize an empty list to store the dataframes
+dataframes = []
+
+# Iterate over each CSV file, read it into a dataframe, and append to the list
+for file in csv_files:
+    try:
+        df = pd.read_csv(file, on_bad_lines='skip', sep=';')
+        dataframes.append(df)
+    except Exception as e:
+        print(f"Error reading file {file}: {e}")
+
+# Concatenate all dataframes into a single dataframe
+if dataframes:
+    combined_df = pd.concat(dataframes, ignore_index=True)
+else:
+    print("No dataframes to concatenate.")
+
+# Write the combined dataframe to a new CSV file
+combined_df.to_csv(f'{output_directory}{date}_subthemes.csv', index=True, sep=';')

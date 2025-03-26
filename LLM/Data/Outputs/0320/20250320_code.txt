@@ -1,0 +1,125 @@
+# GENERATE ANSWERS
+
+
+# Set parameters
+seed = None 
+temperature = 0.1
+model = "llama-3.3-70b-instruct" #"llama-3.3-70b-instruct" "gpt-4o" "nous-hermes-2-mixtral-8x7b-dpo"
+date = '0320' 
+output_directory = f'/Users/giorgiobolchi2/Documents/GitHub/jrc-egd/LLM/Data/Outputs/{date}/'
+os.makedirs(output_directory, exist_ok=True) # Create the 'date' folder if it doesn't exist
+
+
+
+# (loop tools and formatting)
+answers_metadata = pd.DataFrame(columns=["ta_pairs_nbr",
+                                         "ta_pairs_pairs",        # create empty panda dataframe with the following columns so to gather a bit more data on the responses and ultimately try to assess consistency
+                                         "model",
+                                         "seed",
+                                         "temperature",
+                                         "system_fingerprint", 
+                                         "prompt_tokens", 
+                                         "completion_tokens"])  
+
+
+# Loop
+
+
+for x in range(len(ta_pairs)):
+#for x in range(34, 90):
+#for x in list([56,57]):
+
+    success = False  # Initialize a flag to track whether the operation was successful
+    retry_count = 0  # Initialize a counter to track the number of retries
+    max_retries = 5  # adjust this value to set the desired number of retries
+
+    while not success and retry_count < max_retries:
+        try:
+            # Subset data to avoid overloading the model
+            sub1 = [f"{target_data_dict[ta_pairs[x][0]]}"] # this will access the data stored in target_data_dict for the thematic_area_code stored in ta_pairs[x][0] (e.g., target_data_dict[ta_pairs[0][0]] <=> target_data_dict['TA1])
+            sub2 = [f"{target_data_dict[ta_pairs[x][1]]}"] # same thing here, but for the second element of the ta_pair[x]
+
+
+            # Define prompt
+            prompt = f'''
+                Data input & Context:
+                - List A: first list of European Green Deal (EGD) targets grouped by sub-themes:{sub1}.
+                - List B: second list of EGD targets grouped by sub-themes: {sub2}.
+                - Report n°2: [ {report2['chapter1']} + {report2['chapter2']} + {report2['chapter3']} + {report2['chapter4']} + {report2['chapter5']} ].
+
+                Task: 
+                - Determine how sub-themes in List A may positiviely or negatively influence sub-themes in List B (i.e., determine potential synergies and/or trade-offs).
+                - Take into account the context and information of Report n°2 as well as the contents and assessments of the targets in both lists.
+
+                Answer format: provide your answer as a table in csv format please (separator: ";"), with the following columns:
+                - source_subtheme (e.g., GHG Reduction)
+                - source_subtheme_targets (e.g.,TA1.3,TA1.7,TA1.9,TA1.11,TA1.13,TA5.7) 
+                - impact_subtheme (the name of the subtheme that is likely to be positively or negatively affected by the implementation and requirements of the sub-theme in the 'source_subtheme' column)
+                - impact_type (positive '+' or negative '-')
+                - justification
+
+                Specifications:
+                - Only the following sub-themes can be added to the table: {subthemes_list[ta_pairs[x][0]]} and {subthemes_list[ta_pairs[x][1]]}.
+                - This is crucial: do not invent new sub-themes.
+                - Connections can only be made from sub-themes in List A to sub-themes in List B, not the contrary.
+                - If some sub-themes do not have any connections at all (i.e., are isolated), do not add any row.
+                - One row per connection, if you deem that one sub-theme has an impact on multiple other sub-themes, add as many rows for a same sub-theme as necessary.
+                - It is critical that your analysis is based on the context of the report and not just on the semantics of the target contents.
+                - This is mandatory: for each sub-theme connection, write 1-2 concise sentences justifying your choice. 
+                - Output only the CSV table. Do not include additional commentary.
+            '''
+
+            # Print pre-generation metadata (to double check amount of tokens in prompt, JRC llama3.3 should have a max of 120k)
+            prompt_metadata = f'''TA_pair: {x} - {ta_pairs[x]} \nPrompt length: {len(prompt)} \nPrompt tokens (o200k_base encoding): {num_tokens_from_string(prompt, "o200k_base")} \nPrompt tokens (cl100k_base encoding): {num_tokens_from_string(prompt, "cl100k_base")} \n'''
+            print(prompt_metadata)
+
+            # Generate answer
+            answer = get_chat_response(prompt=prompt,
+                                      seed=seed,
+                                      model=model,
+                                      temperature=temperature)
+
+            # Print post-generation metadata 
+            print(f'Answer generated.')
+            print(f'Prompt tokens: {answer["prompt_tokens"]} \nCompletion tokens: {answer["completion_tokens"]}')
+
+
+            # Add the metadata of the generated answer to a dataframe
+            answers_metadata.loc[x] = (x,
+                                       ta_pairs[x],
+                                       model,
+                                       seed,
+                                       temperature,
+                                       answer["system_fingerprint"],
+                                       answer["prompt_tokens"],
+                                       answer["completion_tokens"])
+
+            # Save the generated answer as a CSV file
+            output_name = f'{date}_network_pair{x}.csv'
+
+            with open((os.path.join(output_directory, output_name)), 'w') as f:
+                f.write(answer["response_content"])
+
+            # If success, set the success flag to True
+            success = True
+
+            # If success, add a 2-minute pause between answer requests to avoid RateLimitErrors
+            print(f"-- 1 min pause \n")
+            time.sleep(60)
+
+        except Exception as e:
+            
+            retry_count += 1  # Increment the retry counter if an error occurs
+            error_type = type(e).__name__  # Get the type of error that occurred
+            error_message = str(e) # Get the error message
+            print(f"An error occurred ({error_type}): {error_message}. Retrying ({retry_count}/{max_retries})")  # Print an error message with the type and message
+
+
+    # Print a message if the operation failed after the maximum number of retries
+    if not success:
+        print(f"Failed to generate answer for pair{x} ({ta_pairs[x]}) after {max_retries} retries.")
+
+# Save the metadata dataframe as a CSV file
+answers_metadata.to_csv(path_or_buf=os.path.join(output_directory, f'{date}_network_metadata.csv'),
+                         sep=';',
+                         index=False)

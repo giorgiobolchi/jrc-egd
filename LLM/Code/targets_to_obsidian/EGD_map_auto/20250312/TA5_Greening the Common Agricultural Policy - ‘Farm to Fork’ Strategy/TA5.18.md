@@ -1,0 +1,7 @@
+##  Market power and business structure: Improve agricultural rules that strengthen the position of farmers (e.g. producers of products with geographical indications), their cooperatives and producer organisations in the food supply chain. 
+
+Thematic area: #TA5_Greening_the_Common_Agricultural_Policy
+
+Assessment: This indicator is important to assess the level of investment and development in the agricultural sector. Among Member States, the level of gross fixed capital formation varies. Most Member States surpass the EU average. While countries such as France and Germany have the highest capital formation in agriculture, some Member States lag behind e.g. Czechia, Bulgaria and Estonia. In the EU, gross fixed capital formation in agriculture has increased from EUR 44 Billion in 2005 to EUR 68 Billion in 2022, corresponding to a CAGR of 2.8% and a 55% percentage increase. The growth rates also vary across Member States. As expected, the countries with highest capital formation show limited growth trend e.g. Germany, while the highest growth rates are observed in countries that had lower starting values e.g. Romania, Bulgaria. Indicator: Gross fixed capital formation in agriculture (Source: DG AGRI).
+
+Colour: #green

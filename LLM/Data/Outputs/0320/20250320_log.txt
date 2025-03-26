@@ -1,0 +1,470 @@
+TA_pair: 0 - ['TA1', 'TA2'] 
+Prompt length: 400998 
+Prompt tokens (o200k_base encoding): 76330 
+Prompt tokens (cl100k_base encoding): 76917 
+
+Answer generated.
+Prompt tokens: 76910 
+Completion tokens: 456
+-- 1 min pause 
+
+TA_pair: 1 - ['TA1', 'TA3'] 
+Prompt length: 401068 
+Prompt tokens (o200k_base encoding): 76201 
+Prompt tokens (cl100k_base encoding): 76787 
+
+Answer generated.
+Prompt tokens: 76780 
+Completion tokens: 500
+-- 1 min pause 
+
+TA_pair: 2 - ['TA1', 'TA4'] 
+Prompt length: 400143 
+Prompt tokens (o200k_base encoding): 76038 
+Prompt tokens (cl100k_base encoding): 76609 
+
+Answer generated.
+Prompt tokens: 76602 
+Completion tokens: 467
+-- 1 min pause 
+
+TA_pair: 3 - ['TA1', 'TA5'] 
+Prompt length: 405777 
+Prompt tokens (o200k_base encoding): 77416 
+Prompt tokens (cl100k_base encoding): 77994 
+
+Answer generated.
+Prompt tokens: 77987 
+Completion tokens: 749
+-- 1 min pause 
+
+TA_pair: 4 - ['TA1', 'TA6'] 
+Prompt length: 403455 
+Prompt tokens (o200k_base encoding): 76807 
+Prompt tokens (cl100k_base encoding): 77388 
+
+Answer generated.
+Prompt tokens: 77381 
+Completion tokens: 503
+-- 1 min pause 
+
+TA_pair: 5 - ['TA1', 'TA7'] 
+Prompt length: 396996 
+Prompt tokens (o200k_base encoding): 75259 
+Prompt tokens (cl100k_base encoding): 75826 
+
+Answer generated.
+Prompt tokens: 75819 
+Completion tokens: 818
+-- 1 min pause 
+
+TA_pair: 6 - ['TA2', 'TA1'] 
+Prompt length: 400998 
+Prompt tokens (o200k_base encoding): 76330 
+Prompt tokens (cl100k_base encoding): 76917 
+
+Answer generated.
+Prompt tokens: 76910 
+Completion tokens: 643
+-- 1 min pause 
+
+TA_pair: 7 - ['TA2', 'TA3'] 
+Prompt length: 403900 
+Prompt tokens (o200k_base encoding): 76937 
+Prompt tokens (cl100k_base encoding): 77542 
+
+Answer generated.
+Prompt tokens: 77535 
+Completion tokens: 760
+-- 1 min pause 
+
+TA_pair: 8 - ['TA2', 'TA4'] 
+Prompt length: 402975 
+Prompt tokens (o200k_base encoding): 76774 
+Prompt tokens (cl100k_base encoding): 77364 
+
+Answer generated.
+Prompt tokens: 77357 
+Completion tokens: 494
+-- 1 min pause 
+
+TA_pair: 9 - ['TA2', 'TA5'] 
+Prompt length: 408609 
+Prompt tokens (o200k_base encoding): 78152 
+Prompt tokens (cl100k_base encoding): 78749 
+
+Answer generated.
+Prompt tokens: 78742 
+Completion tokens: 564
+-- 1 min pause 
+
+TA_pair: 10 - ['TA2', 'TA6'] 
+Prompt length: 406287 
+Prompt tokens (o200k_base encoding): 77543 
+Prompt tokens (cl100k_base encoding): 78143 
+
+Answer generated.
+Prompt tokens: 78136 
+Completion tokens: 665
+-- 1 min pause 
+
+TA_pair: 11 - ['TA2', 'TA7'] 
+Prompt length: 399828 
+Prompt tokens (o200k_base encoding): 75995 
+Prompt tokens (cl100k_base encoding): 76581 
+
+Answer generated.
+Prompt tokens: 76574 
+Completion tokens: 1029
+-- 1 min pause 
+
+TA_pair: 12 - ['TA3', 'TA1'] 
+Prompt length: 401068 
+Prompt tokens (o200k_base encoding): 76201 
+Prompt tokens (cl100k_base encoding): 76787 
+
+Answer generated.
+Prompt tokens: 76780 
+Completion tokens: 515
+-- 1 min pause 
+
+TA_pair: 13 - ['TA3', 'TA2'] 
+Prompt length: 403900 
+Prompt tokens (o200k_base encoding): 76937 
+Prompt tokens (cl100k_base encoding): 77542 
+
+Answer generated.
+Prompt tokens: 77535 
+Completion tokens: 720
+-- 1 min pause 
+
+TA_pair: 14 - ['TA3', 'TA4'] 
+Prompt length: 403045 
+Prompt tokens (o200k_base encoding): 76645 
+Prompt tokens (cl100k_base encoding): 77234 
+
+Answer generated.
+Prompt tokens: 77227 
+Completion tokens: 554
+-- 1 min pause 
+
+TA_pair: 15 - ['TA3', 'TA5'] 
+Prompt length: 408679 
+Prompt tokens (o200k_base encoding): 78023 
+Prompt tokens (cl100k_base encoding): 78619 
+
+Answer generated.
+Prompt tokens: 78612 
+Completion tokens: 736
+-- 1 min pause 
+
+TA_pair: 16 - ['TA3', 'TA6'] 
+Prompt length: 406357 
+Prompt tokens (o200k_base encoding): 77414 
+Prompt tokens (cl100k_base encoding): 78013 
+
+Answer generated.
+Prompt tokens: 78006 
+Completion tokens: 665
+-- 1 min pause 
+
+TA_pair: 17 - ['TA3', 'TA7'] 
+Prompt length: 399898 
+Prompt tokens (o200k_base encoding): 75866 
+Prompt tokens (cl100k_base encoding): 76451 
+
+Answer generated.
+Prompt tokens: 76444 
+Completion tokens: 649
+-- 1 min pause 
+
+TA_pair: 18 - ['TA4', 'TA1'] 
+Prompt length: 400143 
+Prompt tokens (o200k_base encoding): 76038 
+Prompt tokens (cl100k_base encoding): 76609 
+
+Answer generated.
+Prompt tokens: 76602 
+Completion tokens: 859
+-- 1 min pause 
+
+TA_pair: 19 - ['TA4', 'TA2'] 
+Prompt length: 402975 
+Prompt tokens (o200k_base encoding): 76774 
+Prompt tokens (cl100k_base encoding): 77364 
+
+Answer generated.
+Prompt tokens: 77357 
+Completion tokens: 381
+-- 1 min pause 
+
+TA_pair: 20 - ['TA4', 'TA3'] 
+Prompt length: 403045 
+Prompt tokens (o200k_base encoding): 76645 
+Prompt tokens (cl100k_base encoding): 77234 
+
+Answer generated.
+Prompt tokens: 77227 
+Completion tokens: 451
+-- 1 min pause 
+
+TA_pair: 21 - ['TA4', 'TA5'] 
+Prompt length: 407754 
+Prompt tokens (o200k_base encoding): 77860 
+Prompt tokens (cl100k_base encoding): 78441 
+
+Answer generated.
+Prompt tokens: 78434 
+Completion tokens: 492
+-- 1 min pause 
+
+TA_pair: 22 - ['TA4', 'TA6'] 
+Prompt length: 405432 
+Prompt tokens (o200k_base encoding): 77251 
+Prompt tokens (cl100k_base encoding): 77835 
+
+Answer generated.
+Prompt tokens: 77828 
+Completion tokens: 594
+-- 1 min pause 
+
+TA_pair: 23 - ['TA4', 'TA7'] 
+Prompt length: 398973 
+Prompt tokens (o200k_base encoding): 75703 
+Prompt tokens (cl100k_base encoding): 76273 
+
+Answer generated.
+Prompt tokens: 76266 
+Completion tokens: 575
+-- 1 min pause 
+
+TA_pair: 24 - ['TA5', 'TA1'] 
+Prompt length: 405777 
+Prompt tokens (o200k_base encoding): 77416 
+Prompt tokens (cl100k_base encoding): 77994 
+
+Answer generated.
+Prompt tokens: 77987 
+Completion tokens: 561
+-- 1 min pause 
+
+TA_pair: 25 - ['TA5', 'TA2'] 
+Prompt length: 408609 
+Prompt tokens (o200k_base encoding): 78152 
+Prompt tokens (cl100k_base encoding): 78749 
+
+Answer generated.
+Prompt tokens: 78742 
+Completion tokens: 548
+-- 1 min pause 
+
+TA_pair: 26 - ['TA5', 'TA3'] 
+Prompt length: 408679 
+Prompt tokens (o200k_base encoding): 78023 
+Prompt tokens (cl100k_base encoding): 78619 
+
+Answer generated.
+Prompt tokens: 78612 
+Completion tokens: 563
+-- 1 min pause 
+
+TA_pair: 27 - ['TA5', 'TA4'] 
+Prompt length: 407754 
+Prompt tokens (o200k_base encoding): 77860 
+Prompt tokens (cl100k_base encoding): 78441 
+
+Answer generated.
+Prompt tokens: 78434 
+Completion tokens: 405
+-- 1 min pause 
+
+TA_pair: 28 - ['TA5', 'TA6'] 
+Prompt length: 411066 
+Prompt tokens (o200k_base encoding): 78629 
+Prompt tokens (cl100k_base encoding): 79220 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+TA_pair: 28 - ['TA5', 'TA6'] 
+Prompt length: 411066 
+Prompt tokens (o200k_base encoding): 78629 
+Prompt tokens (cl100k_base encoding): 79220 
+
+Answer generated.
+Prompt tokens: 79213 
+Completion tokens: 463
+-- 1 min pause 
+
+TA_pair: 29 - ['TA5', 'TA7'] 
+Prompt length: 404607 
+Prompt tokens (o200k_base encoding): 77081 
+Prompt tokens (cl100k_base encoding): 77658 
+
+Answer generated.
+Prompt tokens: 77651 
+Completion tokens: 452
+-- 1 min pause 
+
+TA_pair: 30 - ['TA6', 'TA1'] 
+Prompt length: 403455 
+Prompt tokens (o200k_base encoding): 76807 
+Prompt tokens (cl100k_base encoding): 77388 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (1/5)
+TA_pair: 30 - ['TA6', 'TA1'] 
+Prompt length: 403455 
+Prompt tokens (o200k_base encoding): 76807 
+Prompt tokens (cl100k_base encoding): 77388 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (2/5)
+TA_pair: 30 - ['TA6', 'TA1'] 
+Prompt length: 403455 
+Prompt tokens (o200k_base encoding): 76807 
+Prompt tokens (cl100k_base encoding): 77388 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (3/5)
+TA_pair: 30 - ['TA6', 'TA1'] 
+Prompt length: 403455 
+Prompt tokens (o200k_base encoding): 76807 
+Prompt tokens (cl100k_base encoding): 77388 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (4/5)
+TA_pair: 30 - ['TA6', 'TA1'] 
+Prompt length: 403455 
+Prompt tokens (o200k_base encoding): 76807 
+Prompt tokens (cl100k_base encoding): 77388 
+
+An error occurred: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+Answer generated.
+An error occurred (TypeError): 'NoneType' object is not subscriptable. Retrying (5/5)
+Failed to generate answer for pair30 (['TA6', 'TA1']) after 5 retries.
+TA_pair: 31 - ['TA6', 'TA2'] 
+Prompt length: 406287 
+Prompt tokens (o200k_base encoding): 77543 
+Prompt tokens (cl100k_base encoding): 78143 
+
+Answer generated.
+Prompt tokens: 78136 
+Completion tokens: 576
+-- 1 min pause 
+
+TA_pair: 32 - ['TA6', 'TA3'] 
+Prompt length: 406357 
+Prompt tokens (o200k_base encoding): 77414 
+Prompt tokens (cl100k_base encoding): 78013 
+
+Answer generated.
+Prompt tokens: 78006 
+Completion tokens: 642
+-- 1 min pause 
+
+TA_pair: 33 - ['TA6', 'TA4'] 
+Prompt length: 405432 
+Prompt tokens (o200k_base encoding): 77251 
+Prompt tokens (cl100k_base encoding): 77835 
+
+Answer generated.
+Prompt tokens: 77828 
+Completion tokens: 656
+-- 1 min pause 
+
+TA_pair: 34 - ['TA6', 'TA5'] 
+Prompt length: 411066 
+Prompt tokens (o200k_base encoding): 78629 
+Prompt tokens (cl100k_base encoding): 79220 
+
+Answer generated.
+Prompt tokens: 79213 
+Completion tokens: 613
+-- 1 min pause 
+
+TA_pair: 35 - ['TA6', 'TA7'] 
+Prompt length: 402285 
+Prompt tokens (o200k_base encoding): 76472 
+Prompt tokens (cl100k_base encoding): 77052 
+
+Answer generated.
+Prompt tokens: 77045 
+Completion tokens: 823
+-- 1 min pause 
+
+TA_pair: 36 - ['TA7', 'TA1'] 
+Prompt length: 396996 
+Prompt tokens (o200k_base encoding): 75259 
+Prompt tokens (cl100k_base encoding): 75826 
+
+Answer generated.
+Prompt tokens: 75819 
+Completion tokens: 513
+-- 1 min pause 
+
+TA_pair: 37 - ['TA7', 'TA2'] 
+Prompt length: 399828 
+Prompt tokens (o200k_base encoding): 75995 
+Prompt tokens (cl100k_base encoding): 76581 
+
+Answer generated.
+Prompt tokens: 76574 
+Completion tokens: 700
+-- 1 min pause 
+
+TA_pair: 38 - ['TA7', 'TA3'] 
+Prompt length: 399898 
+Prompt tokens (o200k_base encoding): 75866 
+Prompt tokens (cl100k_base encoding): 76451 
+
+Answer generated.
+Prompt tokens: 76444 
+Completion tokens: 817
+-- 1 min pause 
+
+TA_pair: 39 - ['TA7', 'TA4'] 
+Prompt length: 398973 
+Prompt tokens (o200k_base encoding): 75703 
+Prompt tokens (cl100k_base encoding): 76273 
+
+Answer generated.
+Prompt tokens: 76266 
+Completion tokens: 883
+-- 1 min pause 
+
+TA_pair: 40 - ['TA7', 'TA5'] 
+Prompt length: 404607 
+Prompt tokens (o200k_base encoding): 77081 
+Prompt tokens (cl100k_base encoding): 77658 
+
+Answer generated.
+Prompt tokens: 77651 
+Completion tokens: 723
+-- 1 min pause 
+
+TA_pair: 41 - ['TA7', 'TA6'] 
+Prompt length: 402285 
+Prompt tokens (o200k_base encoding): 76472 
+Prompt tokens (cl100k_base encoding): 77052 
+
+Answer generated.
+Prompt tokens: 77045 
+Completion tokens: 668
+-- 1 min pause 
