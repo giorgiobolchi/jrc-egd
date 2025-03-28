@@ -1,0 +1,7 @@
+source_subtheme;source_subtheme_targets;impact_subtheme;impact_type;impact_weight;justification
+GHG Reduction;TA1.3,TA1.7,TA1.9,TA1.11,TA1.13,TA5.7;Food affordability;+1;Enabling;The reduction of GHG emissions can lead to increased food production and reduced losses, making food more affordable and accessible.
+GHG Reduction;TA1.3,TA1.7,TA1.9,TA1.11,TA1.13,TA5.7;Competitive Agriculture;-1;Constraining;The implementation of GHG reduction targets may require significant changes in agricultural practices, potentially constraining the competitiveness of the agricultural sector.
+GHG Reduction - Buildings;TA1.15;Food quality - Healthy Food;+2;Reinforcing;Improving the energy efficiency of buildings can reinforce the quality of food storage and handling, leading to healthier food options.
+GHG Reduction - Transports;TA4.9,TA4.12;Food affordability;-2;Counteracting;The transition to low-carbon transportation may increase costs for food transportation, counteracting efforts to make food more affordable.
+GHG Removal;TA1.12,TA7.8;Pesticides Reduction;+3;Indivisible;The removal of GHG emissions from the atmosphere is closely linked to the reduction of pesticides, as both targets aim to mitigate the environmental impact of human activities.
+GHG Reduction;TA1.3,TA1.7,TA1.9,TA1.11,TA1.13,TA5.7;Social Security - Workers Protection;+1;Enabling;The reduction of GHG emissions can create new job opportunities in the green economy, enabling better social security and worker protection.
