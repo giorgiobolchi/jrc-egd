@@ -7,12 +7,12 @@ Giorgio Bolchi
 ## Table of Contents
 1. [Part 1](#part-1)
 	- Goal
-	- Methods Overview
+	- Methodology
 	- Relevant folders & files
 	- Pipeline
 2. [Part 2](#part-2)
 	- Goal
-	- Methods Overview
+	- Methodology
 	- Relevant folders & files
 	- Pipeline
 3. [Extensive File Structure & Descriptions](#extensive-file-structure--descriptions)
