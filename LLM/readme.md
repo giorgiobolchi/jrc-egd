@@ -21,7 +21,7 @@ Giorgio Bolchi
 
 ------------------------------------------------------------------------
 
-## Part 1
+## Part 1 -  NACE to targets
 
 ### Goal
 - Assign NACE categories (level 1, 2, and 3) to each EGD target and deduce which NACE categories are currently involved with each target.
@@ -54,15 +54,17 @@ Giorgio Bolchi
   - `NACEdata_to_TA.xlsx`: Files where the NACE_to_TA data is put together with data about GHG, GVA, and employment (EMP_DC).
 
 ### Pipeline
-1. Manually format `target_NACE_classification+assessments.xlsx` into `XLSX_target_data_v1.2.csv`.
-2. Gather the API requirements, the input data, and run `LLM_NACE_TAsplit.ipynb`.
-3. The code outputs a list of files (triplicats per TA).
-4. Select the triplicat with less NA values and manually review the assigned NACE categories.
-5. Connect ESTAT data to the targets based on the NACE classification.
+1. Manually format and clean `target_NACE_classification+assessments.xlsx` into `XLSX_target_data_v1.2.csv`. Or select a dataset I have already formatted:  `targets_data_150.csv` or `targets_data_250.csv`. 
+2. Gather the API requirements, the desired input data, and run `LLM_NACE_TAsplit.ipynb`.
+3. The code outputs a list of files (3 replicats per TA).
+4. Select the triplicats with less NA values
+5. Manually aggregate all the TAs together and review the assigned NACE categories.
+6. Manually connect ESTAT data to the targets based on the NACE classification.
+
+**notes**: during Part 1 of this project I was still getting to know the LLM and a lot of the process was done manually.  I also used *gpt-4o* to assign NACE categories to the targets, but in the future it would be better to do it with the in-house JRC models (e.g., *llama3.3*). This whole pipeline would benefit from some improvements and automations.
 
 ------------------------------------------------------------------------
-
-## Part 2
+## Part 2 - Interlinkages networks
 
 ### Goal
 - Map the interconnections between targets across thematic areas and perform a network analysis to observe synergies, trade-offs, and other measures such as centralities.
