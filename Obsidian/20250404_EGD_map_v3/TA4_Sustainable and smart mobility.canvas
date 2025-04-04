@@ -1,0 +1,1084 @@
+{
+  "nodes": [
+    {
+      "id": "7c9fe0afb093fa94",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -6480,
+      "y": -6200,
+      "width": 14320,
+      "height": 5880,
+      "label": "TA4_Sustainable and smart mobility"
+    },
+    {
+      "id": "27350167b9f0cc3a",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 3520,
+      "y": -4960,
+      "width": 3620,
+      "height": 1920,
+      "color": "3",
+      "label": "?"
+    },
+    {
+      "id": "c2401867259ec853",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -3800,
+      "y": -4280,
+      "width": 365,
+      "height": 450,
+      "color": "3",
+      "label": "?"
+    },
+    {
+      "id": "3ecae6b59befb4d0",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.56.md",
+      "styleAttributes": {},
+      "x": 380,
+      "y": -1990,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "dc6e1afdab2c5e9d",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.14.md",
+      "styleAttributes": {},
+      "x": 380,
+      "y": -2440,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "cd18d805bd1c4885",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.43.md",
+      "styleAttributes": {},
+      "x": 5288,
+      "y": -4480,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "73084268bf627e6d",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.11.md",
+      "styleAttributes": {},
+      "x": 5288,
+      "y": -3750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a44fd7fcfb64ff0b",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.3.md",
+      "styleAttributes": {},
+      "x": 780,
+      "y": -4280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "47345a1dd09d6a96",
+      "type": "text",
+      "text": "# MARITIME TRANSPORT",
+      "styleAttributes": {},
+      "x": 320,
+      "y": -4410,
+      "width": 1790,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "83b314b4bad0a043",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.57.md",
+      "styleAttributes": {},
+      "x": 380,
+      "y": -3800,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8e63d9582425c3a6",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.8.md",
+      "styleAttributes": {},
+      "x": 1710,
+      "y": -3730,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fe8ea7a7c0e049c5",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.10.md",
+      "styleAttributes": {},
+      "x": 380,
+      "y": -2880,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6e8752042b1233dc",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.45.md",
+      "styleAttributes": {},
+      "x": 380,
+      "y": -3330,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d8ed1cac3419d7ee",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.58.md",
+      "styleAttributes": {},
+      "x": 1380,
+      "y": -4280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0a7f018662d40aa9",
+      "type": "text",
+      "text": "# AVIATION",
+      "styleAttributes": {},
+      "x": 2400,
+      "y": -4410,
+      "width": 400,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "33cde179fb4ef008",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.46.md",
+      "styleAttributes": {},
+      "x": 2400,
+      "y": -4280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ee504f8bec0a036c",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.53.md",
+      "styleAttributes": {},
+      "x": 6450,
+      "y": -4180,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f800c1cd5d5f97ae",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.50.md",
+      "styleAttributes": {},
+      "x": 5960,
+      "y": -4180,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7cadb903f2c87f45",
+      "type": "text",
+      "text": "# BIOFUELS",
+      "styleAttributes": {},
+      "x": 3910,
+      "y": -4680,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "5566bfdfcfaed151",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.37.md",
+      "styleAttributes": {},
+      "x": 4770,
+      "y": -4480,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "78cb3a6d3d8a3b27",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.40.md",
+      "styleAttributes": {},
+      "x": 4770,
+      "y": -3750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d2a302a631c86ada",
+      "type": "text",
+      "text": "#   LOGISTIC-RELATED",
+      "styleAttributes": {},
+      "x": 4850,
+      "y": -4670,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "244dea2455d6c799",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.7.md",
+      "styleAttributes": {},
+      "x": 3840,
+      "y": -4510,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4cdf1f42be376955",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.1.md",
+      "styleAttributes": {},
+      "x": 3840,
+      "y": -4050,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3de656b252332a19",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.9.md",
+      "styleAttributes": {},
+      "x": -440,
+      "y": -5840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5cdce0ce8233c620",
+      "type": "text",
+      "text": "# TENT-T",
+      "styleAttributes": {},
+      "x": -5931,
+      "y": -4535,
+      "width": 4211,
+      "height": 70,
+      "color": "5"
+    },
+    {
+      "id": "936300f24809ddc2",
+      "type": "text",
+      "text": "#   ROAD VEHICLES",
+      "styleAttributes": {},
+      "x": -1380,
+      "y": -4280,
+      "width": 1320,
+      "height": 75,
+      "color": "5"
+    },
+    {
+      "id": "7eda08dff0cf0a2f",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.19.md",
+      "styleAttributes": {},
+      "x": -1990,
+      "y": -1240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "93fb094b791e00cf",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.5.md",
+      "styleAttributes": {},
+      "x": 2400,
+      "y": -3800,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c73fdb174b841eaa",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.6.md",
+      "styleAttributes": {},
+      "x": 2400,
+      "y": -3340,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "428edac125820262",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.39.md",
+      "styleAttributes": {},
+      "x": -4604,
+      "y": -4265,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "789c8dca271c4227",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.25.md",
+      "styleAttributes": {},
+      "x": -5471,
+      "y": -1055,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "e86cb6b670e9cf12",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.22.md",
+      "styleAttributes": {},
+      "x": -5041,
+      "y": -1055,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d15183e3f3f39f0d",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.28.md",
+      "styleAttributes": {},
+      "x": -5041,
+      "y": -1895,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "217898c1ca42be28",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.29.md",
+      "styleAttributes": {},
+      "x": -4601,
+      "y": -1895,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f3fd5dbdab518260",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.55.md",
+      "styleAttributes": {},
+      "x": -2600,
+      "y": -4040,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a09d5a02e5b0512f",
+      "type": "text",
+      "text": "# ALTERNATIVE FUELS / RECHARGING",
+      "styleAttributes": {},
+      "x": -6110,
+      "y": -2795,
+      "width": 3309,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "1144ecbe938db32b",
+      "type": "text",
+      "text": "# HYDROGEN",
+      "styleAttributes": {},
+      "x": -6110,
+      "y": -2655,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "45b3725a7d8334b1",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.47.md",
+      "styleAttributes": {},
+      "x": -460,
+      "y": -3330,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "75e21438c7e3516a",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.15.md",
+      "styleAttributes": {},
+      "x": -460,
+      "y": -4155,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "18c228ee22e68688",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.4.md",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -2440,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "412758ea1062bdde",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.36.md",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -1990,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c5222c1545d7a773",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.51.md",
+      "styleAttributes": {},
+      "x": -3201,
+      "y": -3415,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f4cb537db81630ae",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.30.md",
+      "styleAttributes": {},
+      "x": -6120,
+      "y": -2545,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0aa7ab0b6a708590",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.32.md",
+      "styleAttributes": {},
+      "x": -3201,
+      "y": -2535,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "330806539ae40de7",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.18.md",
+      "styleAttributes": {},
+      "x": -2470,
+      "y": -1240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "16c8624f34a99295",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.31.md",
+      "styleAttributes": {},
+      "x": -5850,
+      "y": -2095,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0cfa5761735c8ce7",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.23.md",
+      "styleAttributes": {},
+      "x": -5850,
+      "y": -1640,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "cb97b324f78633da",
+      "type": "text",
+      "text": "# AVIATION",
+      "styleAttributes": {},
+      "x": -3201,
+      "y": -2655,
+      "width": 400,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "caa7a14d4b76b784",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.16.md",
+      "styleAttributes": {},
+      "x": -860,
+      "y": -4155,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "37743cd3c28d9e1a",
+      "type": "text",
+      "text": "# FREIGHT TERMINALS",
+      "styleAttributes": {},
+      "x": -3780,
+      "y": -4260,
+      "width": 260,
+      "height": 120,
+      "color": "5"
+    },
+    {
+      "id": "af276b0fbf97102f",
+      "type": "text",
+      "text": "# ROAD VEHICLES",
+      "styleAttributes": {},
+      "x": -5281,
+      "y": -2655,
+      "width": 880,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "b253d30414a0e7df",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.38.md",
+      "styleAttributes": {},
+      "x": -5271,
+      "y": -3865,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "dcd87028dbefbe39",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.34.md",
+      "styleAttributes": {},
+      "x": -3655,
+      "y": -2535,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e2ace21e6e96a3db",
+      "type": "text",
+      "text": "# SHIPS",
+      "styleAttributes": {},
+      "x": -4121,
+      "y": -2655,
+      "width": 866,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "6a813bbb51379e9c",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.54.md",
+      "styleAttributes": {},
+      "x": -2348,
+      "y": -3120,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "baf4d45c38fae46c",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.13.md",
+      "styleAttributes": {},
+      "x": -2348,
+      "y": -3560,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "970396b85addc051",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.44.md",
+      "styleAttributes": {},
+      "x": -1640,
+      "y": -3280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8a4420a93d18b483",
+      "type": "text",
+      "text": "# URBAN MOBILITY",
+      "styleAttributes": {},
+      "x": -2600,
+      "y": -4205,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "9cc0a04af14521c1",
+      "type": "text",
+      "text": "# AIRPORT CONNECTIVITY",
+      "styleAttributes": {},
+      "x": -3780,
+      "y": -4055,
+      "width": 310,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "144aa8ea179f5222",
+      "type": "text",
+      "text": "# RAIL TRAVEL SPEED",
+      "styleAttributes": {},
+      "x": -5531,
+      "y": -3915,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "841eeb235510cde4",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.33.md",
+      "styleAttributes": {},
+      "x": -4121,
+      "y": -2535,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "70ea3543fd2370d3",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.26.md",
+      "styleAttributes": {},
+      "x": -5271,
+      "y": -2535,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "201869b8e1adcb0e",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.27.md",
+      "styleAttributes": {},
+      "x": -4801,
+      "y": -2535,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "94845897a693860f",
+      "type": "text",
+      "text": "# ERMTS SIGNALLING",
+      "styleAttributes": {},
+      "x": -5531,
+      "y": -3815,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "b6669f13a18c94b3",
+      "styleAttributes": {},
+      "fromNode": "c73fdb174b841eaa",
+      "fromSide": "top",
+      "toNode": "93fb094b791e00cf",
+      "toSide": "bottom"
+    },
+    {
+      "id": "775bd3617e69caac",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "baf4d45c38fae46c",
+      "fromSide": "left",
+      "toNode": "f3fd5dbdab518260",
+      "toSide": "bottom"
+    },
+    {
+      "id": "35e776f602e3193b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "6a813bbb51379e9c",
+      "fromSide": "left",
+      "toNode": "f3fd5dbdab518260",
+      "toSide": "bottom"
+    },
+    {
+      "id": "015d711c1937a845",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "970396b85addc051",
+      "fromSide": "top",
+      "toNode": "3de656b252332a19",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d829c829cf3bcf14",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "16c8624f34a99295",
+      "fromSide": "left",
+      "toNode": "f4cb537db81630ae",
+      "toSide": "bottom"
+    },
+    {
+      "id": "bf56faf35b404a90",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "c5222c1545d7a773",
+      "fromSide": "left",
+      "toNode": "428edac125820262",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8ef948245160ed1e",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "428edac125820262",
+      "fromSide": "top",
+      "toNode": "3de656b252332a19",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c085285b231d8796",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "b253d30414a0e7df",
+      "fromSide": "right",
+      "toNode": "428edac125820262",
+      "toSide": "bottom"
+    },
+    {
+      "id": "cffb6a0c7f8ecaa5",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "f3fd5dbdab518260",
+      "fromSide": "top",
+      "toNode": "3de656b252332a19",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f0054f4fc02b2460",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "f4cb537db81630ae",
+      "fromSide": "top",
+      "toNode": "428edac125820262",
+      "toSide": "bottom"
+    },
+    {
+      "id": "34bc411c225192f2",
+      "styleAttributes": {},
+      "fromNode": "e86cb6b670e9cf12",
+      "fromSide": "top",
+      "toNode": "70ea3543fd2370d3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f163edcbe1ad5218",
+      "styleAttributes": {},
+      "fromNode": "e86cb6b670e9cf12",
+      "fromSide": "top",
+      "toNode": "d15183e3f3f39f0d",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c384dd95b9614d26",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "d15183e3f3f39f0d",
+      "fromSide": "top",
+      "toNode": "201869b8e1adcb0e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "85501f3ab50b7201",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "217898c1ca42be28",
+      "fromSide": "top",
+      "toNode": "201869b8e1adcb0e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f474b21e10a37f40",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "e86cb6b670e9cf12",
+      "fromSide": "top",
+      "toNode": "217898c1ca42be28",
+      "toSide": "bottom"
+    },
+    {
+      "id": "364bdccb3d275189",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "841eeb235510cde4",
+      "fromSide": "top",
+      "toNode": "428edac125820262",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e23d0724310b0d80",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "dcd87028dbefbe39",
+      "fromSide": "top",
+      "toNode": "428edac125820262",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9afc04ba9437d2a1",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "0aa7ab0b6a708590",
+      "fromSide": "top",
+      "toNode": "428edac125820262",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5f2854ee0cde94b5",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "970396b85addc051",
+      "fromSide": "top",
+      "toNode": "caa7a14d4b76b784",
+      "toSide": "bottom"
+    },
+    {
+      "id": "911402326a875908",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "caa7a14d4b76b784",
+      "fromSide": "top",
+      "toNode": "3de656b252332a19",
+      "toSide": "bottom"
+    },
+    {
+      "id": "1e227fce709432e3",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "45b3725a7d8334b1",
+      "fromSide": "top",
+      "toNode": "caa7a14d4b76b784",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8f5ec802c708ceed",
+      "styleAttributes": {},
+      "fromNode": "789c8dca271c4227",
+      "fromSide": "top",
+      "toNode": "70ea3543fd2370d3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "2dc86db05857d0ae",
+      "styleAttributes": {},
+      "fromNode": "93fb094b791e00cf",
+      "fromSide": "top",
+      "toNode": "33cde179fb4ef008",
+      "toSide": "bottom"
+    },
+    {
+      "id": "dd07987fc9e4bf38",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "8e63d9582425c3a6",
+      "fromSide": "left",
+      "toNode": "d8ed1cac3419d7ee",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6ede5d3808afc678",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "83b314b4bad0a043",
+      "fromSide": "right",
+      "toNode": "a44fd7fcfb64ff0b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "fb2997e37d986144",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "6e8752042b1233dc",
+      "fromSide": "right",
+      "toNode": "a44fd7fcfb64ff0b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "4816c8d66f6cc735",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "fe8ea7a7c0e049c5",
+      "fromSide": "right",
+      "toNode": "a44fd7fcfb64ff0b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e2de176e2baadf3f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "dc6e1afdab2c5e9d",
+      "fromSide": "right",
+      "toNode": "a44fd7fcfb64ff0b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "70e9007bd6750e53",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "0cfa5761735c8ce7",
+      "fromSide": "left",
+      "toNode": "f4cb537db81630ae",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9a22b77f69753a31",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "3ecae6b59befb4d0",
+      "fromSide": "right",
+      "toNode": "a44fd7fcfb64ff0b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f7028701dfa1dc10",
+      "styleAttributes": {},
+      "fromNode": "412758ea1062bdde",
+      "fromSide": "right",
+      "toNode": "3ecae6b59befb4d0",
+      "toSide": "left"
+    },
+    {
+      "id": "585a872cec61dd0b",
+      "styleAttributes": {},
+      "fromNode": "18c228ee22e68688",
+      "fromSide": "right",
+      "toNode": "dc6e1afdab2c5e9d",
+      "toSide": "left"
+    },
+    {
+      "id": "5ab22ce6ca4c33a9",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "970396b85addc051",
+      "fromSide": "top",
+      "toNode": "baf4d45c38fae46c",
+      "toSide": "right"
+    },
+    {
+      "id": "6745d350b660c357",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "45b3725a7d8334b1",
+      "fromSide": "top",
+      "toNode": "75e21438c7e3516a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d2e66dbff520e5e5",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "75e21438c7e3516a",
+      "fromSide": "top",
+      "toNode": "3de656b252332a19",
+      "toSide": "bottom"
+    },
+    {
+      "id": "316ff0b1943d4483",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "970396b85addc051",
+      "fromSide": "top",
+      "toNode": "75e21438c7e3516a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5407420a58fc0df7",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "a44fd7fcfb64ff0b",
+      "fromSide": "top",
+      "toNode": "3de656b252332a19",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a44eb03dc67f0645",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "d8ed1cac3419d7ee",
+      "fromSide": "top",
+      "toNode": "3de656b252332a19",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f1d65df7d87b076f",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "33cde179fb4ef008",
+      "fromSide": "top",
+      "toNode": "3de656b252332a19",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f709285537296de4",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "70ea3543fd2370d3",
+      "fromSide": "top",
+      "toNode": "428edac125820262",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d225d0547a537eef",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "201869b8e1adcb0e",
+      "fromSide": "top",
+      "toNode": "428edac125820262",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ec4829fec632c6c2",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "fromNode": "c2401867259ec853",
+      "fromSide": "left",
+      "toNode": "428edac125820262",
+      "toSide": "right",
+      "toEnd": "none"
+    }
+  ],
+  "metadata": {}
+}

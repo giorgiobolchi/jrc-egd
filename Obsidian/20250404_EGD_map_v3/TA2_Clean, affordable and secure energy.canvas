@@ -1,0 +1,835 @@
+{
+  "nodes": [
+    {
+      "id": "76483f5b8234190d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2859,
+      "y": -1672,
+      "width": 5718,
+      "height": 3345,
+      "label": "TA2_Clean, affordable and secure energy"
+    },
+    {
+      "id": "56c83e13bf2d028f",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2480,
+      "y": 1760,
+      "width": 3280,
+      "height": 1360,
+      "color": "3",
+      "label": "?"
+    },
+    {
+      "id": "4e97e0a181e7e2c0",
+      "type": "text",
+      "text": "# SOLAR",
+      "styleAttributes": {},
+      "x": -1069,
+      "y": -926,
+      "width": 824,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "27928d0d58259cbf",
+      "type": "text",
+      "text": "# HYDROGEN",
+      "styleAttributes": {},
+      "x": -2369,
+      "y": -926,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "25266ef4aae0e51a",
+      "type": "text",
+      "text": "# RENEWABLES",
+      "styleAttributes": {},
+      "x": -1989,
+      "y": -1682,
+      "width": 2136,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "46e7f9a39eab08a9",
+      "type": "text",
+      "text": "# OCEAN / OFFSHORE",
+      "styleAttributes": {},
+      "x": -1680,
+      "y": -926,
+      "width": 440,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "d20e5d23060811b2",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.20.md",
+      "styleAttributes": {},
+      "x": -2439,
+      "y": -35,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "54354ed12dbfa001",
+      "type": "text",
+      "text": "# ENERGY EFFICIENCY",
+      "styleAttributes": {},
+      "x": 631,
+      "y": -1715,
+      "width": 409,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "1116ef88b4cc87c9",
+      "type": "text",
+      "text": "# BUILDINGS",
+      "styleAttributes": {},
+      "x": 1492,
+      "y": -1592,
+      "width": 409,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "d0a991a807389d6c",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.33.md",
+      "styleAttributes": {},
+      "x": 739,
+      "y": 645,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5a27fcb8a3c21c4d",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.34.md",
+      "styleAttributes": {},
+      "x": 1219,
+      "y": 645,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9a8623312a5708c6",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.31.md",
+      "styleAttributes": {},
+      "x": -840,
+      "y": 2080,
+      "width": 402,
+      "height": 272
+    },
+    {
+      "id": "6545b998c8c9fe8d",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.21.md",
+      "styleAttributes": {},
+      "x": -2039,
+      "y": -35,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a665d51259618e95",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.37.md",
+      "styleAttributes": {},
+      "x": -539,
+      "y": 26,
+      "width": 369,
+      "height": 339,
+      "color": "4"
+    },
+    {
+      "id": "883a89abe12e44a3",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.7.md",
+      "styleAttributes": {},
+      "x": -626,
+      "y": -854,
+      "width": 381,
+      "height": 323,
+      "color": "4"
+    },
+    {
+      "id": "43ba48cb1b16cd9c",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.5.md",
+      "styleAttributes": {},
+      "x": -626,
+      "y": -400,
+      "width": 381,
+      "height": 245,
+      "color": "4"
+    },
+    {
+      "id": "38a472f658979ec5",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.6.md",
+      "styleAttributes": {},
+      "x": -1069,
+      "y": -854,
+      "width": 378,
+      "height": 390,
+      "color": "2"
+    },
+    {
+      "id": "35257ce9a73857d4",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.19.md",
+      "styleAttributes": {},
+      "x": -1327,
+      "y": 2228,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1db8f49fcb195ebd",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.14.md",
+      "styleAttributes": {},
+      "x": -1876,
+      "y": 2228,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "775400185420ce2d",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.8.md",
+      "styleAttributes": {},
+      "x": -2340,
+      "y": 2376,
+      "width": 340,
+      "height": 330
+    },
+    {
+      "id": "fec0c2e1832ae026",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.9.md",
+      "styleAttributes": {},
+      "x": -360,
+      "y": -1592,
+      "width": 507,
+      "height": 310,
+      "color": "2"
+    },
+    {
+      "id": "deb00750cf8b652f",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.15.md",
+      "styleAttributes": {},
+      "x": -203,
+      "y": -854,
+      "width": 424,
+      "height": 468,
+      "color": "4"
+    },
+    {
+      "id": "4804e33131e8532c",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.29.md",
+      "styleAttributes": {},
+      "x": 756,
+      "y": 177,
+      "width": 400,
+      "height": 389,
+      "color": "2"
+    },
+    {
+      "id": "37eb8480b840a3c9",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.26.md",
+      "styleAttributes": {
+        "border": null
+      },
+      "x": 1199,
+      "y": 177,
+      "width": 400,
+      "height": 389,
+      "color": "2"
+    },
+    {
+      "id": "d807d00e7adbc109",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.27.md",
+      "styleAttributes": {},
+      "x": -806,
+      "y": 1797,
+      "width": 400,
+      "height": 237,
+      "color": "2"
+    },
+    {
+      "id": "d94d8eea7a8c8dde",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.10.md",
+      "styleAttributes": {},
+      "x": -149,
+      "y": 26,
+      "width": 370,
+      "height": 339,
+      "color": "4"
+    },
+    {
+      "id": "dfcd00abff6849ac",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.41.md",
+      "styleAttributes": {},
+      "x": 640,
+      "y": -1607,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "67c4a3434974391e",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.17.md",
+      "styleAttributes": {},
+      "x": 877,
+      "y": -866,
+      "width": 325,
+      "height": 246,
+      "color": "2"
+    },
+    {
+      "id": "4ac7c7d6336362c0",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.22.md",
+      "styleAttributes": {},
+      "x": 1242,
+      "y": -856,
+      "width": 313,
+      "height": 230,
+      "color": "2"
+    },
+    {
+      "id": "6074a79c08f23e54",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.8.md",
+      "styleAttributes": {},
+      "x": 966,
+      "y": -486,
+      "width": 414,
+      "height": 331,
+      "color": "2"
+    },
+    {
+      "id": "e105bbae6ea8e103",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.12.md",
+      "styleAttributes": {},
+      "x": 433,
+      "y": -866,
+      "width": 440,
+      "height": 426,
+      "color": "2"
+    },
+    {
+      "id": "3bc5af8239ff3627",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.40.md",
+      "styleAttributes": {},
+      "x": -2839,
+      "y": -35,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "d16c41e45cfa3852",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.11.md",
+      "styleAttributes": {},
+      "x": 221,
+      "y": 26,
+      "width": 360,
+      "height": 339,
+      "color": "2"
+    },
+    {
+      "id": "93f50efa0aa4f6ec",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.1.md",
+      "styleAttributes": {},
+      "x": -2439,
+      "y": -864,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "c78a1bb5a9705c97",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.38.md",
+      "styleAttributes": {},
+      "x": -1527,
+      "y": -861,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "62814d2ca8bd558f",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.39.md",
+      "styleAttributes": {},
+      "x": -1989,
+      "y": -861,
+      "width": 400,
+      "height": 320,
+      "color": "2"
+    },
+    {
+      "id": "eb1c308835a464fc",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.18.md",
+      "styleAttributes": {},
+      "x": 2284,
+      "y": -1174,
+      "width": 445,
+      "height": 410
+    },
+    {
+      "id": "89b316bae4dbd871",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.16.md",
+      "styleAttributes": {},
+      "x": 2286,
+      "y": -685,
+      "width": 443,
+      "height": 479,
+      "color": "2"
+    },
+    {
+      "id": "2ec3d7419920449d",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.4.md",
+      "styleAttributes": {},
+      "x": 2286,
+      "y": -126,
+      "width": 443,
+      "height": 320,
+      "color": "4"
+    },
+    {
+      "id": "911b3fd7c9c156ff",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.3.md",
+      "styleAttributes": {},
+      "x": 433,
+      "y": -400,
+      "width": 440,
+      "height": 388,
+      "color": "1"
+    },
+    {
+      "id": "a52f6379cc40b5aa",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.13.md",
+      "styleAttributes": {},
+      "x": -273,
+      "y": 1680,
+      "width": 581,
+      "height": 471,
+      "color": "2"
+    },
+    {
+      "id": "0f994f12ca0c7a36",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.32.md",
+      "styleAttributes": {},
+      "x": -92,
+      "y": 2228,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b36b5fd8ce50e80e",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.35.md",
+      "styleAttributes": {},
+      "x": -93,
+      "y": 2541,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d222e6d7cda719d5",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.30.md",
+      "styleAttributes": {},
+      "x": -707,
+      "y": 2466,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3ec8d7f904c5aace",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.2.md",
+      "styleAttributes": {},
+      "x": 2341,
+      "y": 845,
+      "width": 422,
+      "height": 271,
+      "color": "2"
+    },
+    {
+      "id": "b30413406ea3d598",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.25.md",
+      "styleAttributes": {},
+      "x": 1462,
+      "y": -488,
+      "width": 400,
+      "height": 239,
+      "color": "1"
+    },
+    {
+      "id": "84a7bdc497ae0216",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.15.md",
+      "styleAttributes": {},
+      "x": 1619,
+      "y": -1437,
+      "width": 393,
+      "height": 302,
+      "color": "2"
+    },
+    {
+      "id": "32350188826ea92b",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.16.md",
+      "styleAttributes": {},
+      "x": 1609,
+      "y": -1045,
+      "width": 412,
+      "height": 382
+    },
+    {
+      "id": "a29f27067b8c470f",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.24.md",
+      "styleAttributes": {},
+      "x": 1901,
+      "y": 794,
+      "width": 385,
+      "height": 360,
+      "color": "2"
+    },
+    {
+      "id": "39c3e687eb0c1afc",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.21.md",
+      "styleAttributes": {},
+      "x": 1901,
+      "y": -515,
+      "width": 360,
+      "height": 389
+    },
+    {
+      "id": "ef857a427e4d83c6",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.28.md",
+      "styleAttributes": {},
+      "x": 1645,
+      "y": 177,
+      "width": 400,
+      "height": 389,
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "f15939543d21f8c0",
+      "styleAttributes": {},
+      "fromNode": "6545b998c8c9fe8d",
+      "fromSide": "top",
+      "toNode": "93f50efa0aa4f6ec",
+      "toSide": "bottom"
+    },
+    {
+      "id": "fc39c2480f04877e",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "93f50efa0aa4f6ec",
+      "fromSide": "top",
+      "toNode": "fec0c2e1832ae026",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6bb490adada882f6",
+      "styleAttributes": {},
+      "fromNode": "3bc5af8239ff3627",
+      "fromSide": "top",
+      "toNode": "93f50efa0aa4f6ec",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5e3e9fbbc14f3cb6",
+      "styleAttributes": {},
+      "fromNode": "d20e5d23060811b2",
+      "fromSide": "top",
+      "toNode": "93f50efa0aa4f6ec",
+      "toSide": "bottom"
+    },
+    {
+      "id": "112a6064b502575e",
+      "styleAttributes": {},
+      "fromNode": "89b316bae4dbd871",
+      "fromSide": "top",
+      "toNode": "eb1c308835a464fc",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a3d051b0407b6c99",
+      "styleAttributes": {},
+      "fromNode": "2ec3d7419920449d",
+      "fromSide": "top",
+      "toNode": "89b316bae4dbd871",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ba9dedc944685237",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "39c3e687eb0c1afc",
+      "fromSide": "top",
+      "toNode": "32350188826ea92b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "0b9000e96aadd36c",
+      "styleAttributes": {},
+      "fromNode": "a29f27067b8c470f",
+      "fromSide": "top",
+      "toNode": "39c3e687eb0c1afc",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f2436dd1fb116065",
+      "styleAttributes": {},
+      "fromNode": "d16c41e45cfa3852",
+      "fromSide": "top",
+      "toNode": "deb00750cf8b652f",
+      "toSide": "bottom",
+      "label": "?"
+    },
+    {
+      "id": "be90308dbee9928c",
+      "styleAttributes": {},
+      "fromNode": "d16c41e45cfa3852",
+      "fromSide": "right",
+      "toNode": "911b3fd7c9c156ff",
+      "toSide": "bottom"
+    },
+    {
+      "id": "edda09b39ff394c4",
+      "styleAttributes": {},
+      "fromNode": "d94d8eea7a8c8dde",
+      "fromSide": "top",
+      "toNode": "deb00750cf8b652f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "1f49364d8c1978f0",
+      "styleAttributes": {},
+      "fromNode": "43ba48cb1b16cd9c",
+      "fromSide": "top",
+      "toNode": "883a89abe12e44a3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "301887eb774f5d2b",
+      "styleAttributes": {},
+      "fromNode": "43ba48cb1b16cd9c",
+      "fromSide": "left",
+      "toNode": "38a472f658979ec5",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a6af6c6052c933cc",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "62814d2ca8bd558f",
+      "fromSide": "top",
+      "toNode": "fec0c2e1832ae026",
+      "toSide": "bottom"
+    },
+    {
+      "id": "1befc60404096ce5",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "38a472f658979ec5",
+      "fromSide": "top",
+      "toNode": "fec0c2e1832ae026",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d2dcdf35bd5409e9",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "883a89abe12e44a3",
+      "fromSide": "top",
+      "toNode": "fec0c2e1832ae026",
+      "toSide": "bottom"
+    },
+    {
+      "id": "4a7d9cc577a0c7e9",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "deb00750cf8b652f",
+      "fromSide": "top",
+      "toNode": "fec0c2e1832ae026",
+      "toSide": "bottom",
+      "label": "?"
+    },
+    {
+      "id": "42c8388f14579e6a",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "e105bbae6ea8e103",
+      "fromSide": "top",
+      "toNode": "fec0c2e1832ae026",
+      "toSide": "bottom"
+    },
+    {
+      "id": "36df661229499198",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "67c4a3434974391e",
+      "fromSide": "top",
+      "toNode": "fec0c2e1832ae026",
+      "toSide": "bottom",
+      "label": "?"
+    },
+    {
+      "id": "2b47007196623718",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "c78a1bb5a9705c97",
+      "fromSide": "top",
+      "toNode": "fec0c2e1832ae026",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b8a0ca432d19335a",
+      "styleAttributes": {},
+      "fromNode": "a665d51259618e95",
+      "fromSide": "top",
+      "toNode": "deb00750cf8b652f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "3a28ee43ad73deca",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "a29f27067b8c470f",
+      "fromSide": "left",
+      "toNode": "ef857a427e4d83c6",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e9c2ceac1c1f6b44",
+      "styleAttributes": {},
+      "fromNode": "32350188826ea92b",
+      "fromSide": "top",
+      "toNode": "84a7bdc497ae0216",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f3862a8561c883e8",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "eb1c308835a464fc",
+      "fromSide": "top",
+      "toNode": "84a7bdc497ae0216",
+      "toSide": "right"
+    },
+    {
+      "id": "09847a591d7affad",
+      "styleAttributes": {},
+      "fromNode": "6074a79c08f23e54",
+      "fromSide": "top",
+      "toNode": "4ac7c7d6336362c0",
+      "toSide": "bottom"
+    },
+    {
+      "id": "081e5a36830ea2f6",
+      "styleAttributes": {},
+      "fromNode": "911b3fd7c9c156ff",
+      "fromSide": "top",
+      "toNode": "e105bbae6ea8e103",
+      "toSide": "bottom"
+    },
+    {
+      "id": "05fa5b7fa743302e",
+      "styleAttributes": {},
+      "fromNode": "4ac7c7d6336362c0",
+      "fromSide": "top",
+      "toNode": "dfcd00abff6849ac",
+      "toSide": "bottom"
+    },
+    {
+      "id": "619841621cc030a9",
+      "styleAttributes": {},
+      "fromNode": "b30413406ea3d598",
+      "fromSide": "top",
+      "toNode": "4ac7c7d6336362c0",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e4ecd9fee5018b87",
+      "styleAttributes": {},
+      "fromNode": "b30413406ea3d598",
+      "fromSide": "top",
+      "toNode": "32350188826ea92b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "dfce8cd1509f4915",
+      "styleAttributes": {},
+      "fromNode": "ef857a427e4d83c6",
+      "fromSide": "top",
+      "toNode": "b30413406ea3d598",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b23ddf856f1b6782",
+      "styleAttributes": {},
+      "fromNode": "4804e33131e8532c",
+      "fromSide": "top",
+      "toNode": "b30413406ea3d598",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5a069a582296e51a",
+      "styleAttributes": {},
+      "fromNode": "37eb8480b840a3c9",
+      "fromSide": "top",
+      "toNode": "b30413406ea3d598",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}

@@ -1,0 +1,9 @@
+## By means of an updated and harmonised list of pollutants affecting surface and groundwater, updated existing quality standards, new monitoring requirements, improved and more accessible data, and a more flexible framework for addressing pollutants of emerging concerns, the proposal aims at setting new high standards for a series of chemical substances of concern to address chemical pollution in water. Proposal for a Directive amending the Water Framework Directive, the Groundwater Directive, and the Environmental Quality Standards Directive
+
+Thematic area: #TA7_Towards_a_zero_pollution_ambition_for_a_toxic_free_environment
+
+Assessment: Micro-pollutants pose a significant challenge. The necessity of removing them
+at wastewater treatment facilities increases treatment costs, and complete removal is not always feasible. The proposal encourages more proactive measures upstream by reducing emissions at their source. By avoiding water pollution, the proposal will also benefit the potential for water reuse. The enhanced watch list mechanism requiring Member States to monitor new substances, will enable
+the Commission, with the support of the European Chemicals Agency and the Member States, to determine the need for additional or stricter quality standards. More frequent reporting of actual monitoring data, and its analysis by the EEA, will provide the EU Institutions, Member States, and the general public with a more precise and current understanding of the status of surface and groundwater bodies in the EU. The analysis of more regular monitoring and status data will effectively feed into the broader Zero Pollution Monitoring and Outlook framework
+
+Colour: #grey

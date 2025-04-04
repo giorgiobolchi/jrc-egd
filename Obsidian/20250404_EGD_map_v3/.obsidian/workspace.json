@@ -1,0 +1,328 @@
+{
+  "main": {
+    "id": "4ca0926b5f7a4c7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "93b8889d65661387",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3b8172b63f7c436",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "aa7a9a7004ddefbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TA6_Preserving and protecting biodiversity/TA6.53.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "TA6.53"
+            }
+          },
+          {
+            "id": "a3b227e4c3a37eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TA2_Clean, affordable and secure energy/TA2.41.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "TA2.41"
+            }
+          },
+          {
+            "id": "894b7674d117d4e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sub-themes/20250319 sub-themes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "20250319 sub-themes"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54222f040af84bf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e65621838ef9c58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4328394f735289a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ae313138d5d803a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f97410a113a37a2a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "e4646417ca593b96",
+    "type": "split",
+    "children": [
+      {
+        "id": "913d8c41544a8586",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f4f3456e2031c64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sub-themes/TA5_sub-themes.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TA5_sub-themes"
+            }
+          },
+          {
+            "id": "3b88c71b10adc9f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sub-themes/TA5_sub-themes.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TA5_sub-themes"
+            }
+          },
+          {
+            "id": "095198143a48896b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "0685e00d45aa7045",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TA4_Sustainable and smart mobility.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TA4_Sustainable and smart mobility"
+            }
+          },
+          {
+            "id": "d475c3f8e6aff4c0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c6a533bee1db2550",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8c38653d1aa4f994",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "75e6b9d4ad732423",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e11e6b922bc5bcfc",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "f64766037f3ba234",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "juggl:Juggl global graph": false,
+      "excel:Create Excel File": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "peerdraft:Show my Peerdraft Shares": false
+    }
+  },
+  "active": "894b7674d117d4e5",
+  "lastOpenFiles": [
+    "TA1_Climate ambition/TA1.8.md",
+    "readme.txt.md",
+    "TA2_Clean, affordable and secure energy/TA2.11.md",
+    "TA2_Clean, affordable and secure energy/TA2.3.md",
+    "TA1_Climate ambition/TA1.10.md",
+    "TA1_Climate ambition/TA1.5.md",
+    "TA6_Preserving and protecting biodiversity/TA6.53.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.6.md",
+    "TA2_Clean, affordable and secure energy/TA2.41.md",
+    "TA1_Climate ambition/TA1.7.md",
+    "Sub-themes/TA3_sub-themes.canvas",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.38.md",
+    "TA4_Sustainable and smart mobility/TA4.42.md",
+    "TA4_Sustainable and smart mobility/TA4.49.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.11.md",
+    "TA4_Sustainable and smart mobility/TA4.18.md",
+    "TA4_Sustainable and smart mobility/TA4.41.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.46.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.28.md",
+    "TA4_Sustainable and smart mobility/TA4.19.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.13.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.9.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.8.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.7.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.6.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.36.md",
+    "TA4_Sustainable and smart mobility/TA4.48.md",
+    "Sub-themes/TA7_sub-themes.canvas",
+    "Sub-themes/TA1_sub-themes.canvas",
+    "Sub-themes/TA2_sub-themes.canvas",
+    "Sub-themes/TA4_sub-themes.canvas",
+    "Sub-themes/TA5_sub-themes.canvas",
+    "Sub-themes/TA6_sub-themes.canvas",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment.canvas",
+    "TA6_Preserving and protecting biodiversity.canvas",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy.canvas",
+    "Sub-themes",
+    "ADD_TO_CANVAS",
+    "TA2_Clean, affordable and secure energy",
+    "TA3_Industrial strategy for a clean and circular economy",
+    "TA4_Sustainable and smart mobility",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy",
+    "TA6_Preserving and protecting biodiversity",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment",
+    "TA_data",
+    "Progress/Progress_data"
+  ]
+}

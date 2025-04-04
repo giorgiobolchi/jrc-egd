@@ -1,5 +1,5 @@
 
-subthemes_list = [          # manually selected sub-themes list used in LLM_subthemes.ipynb 
+subthemes_list = [          # manually selected sub-themes list used in LLM_subthemes.ipynb some
 	
 	"Climate Resilience",
 	"GHG Reduction",

@@ -1,0 +1,13 @@
+{
+  "newFileLocation": 0,
+  "customFileLocation": "",
+  "cardDefault": "cards",
+  "fileDefault": "files",
+  "urlDefault": "urls",
+  "groupDefault": "groups",
+  "useCards": true,
+  "useUrls": true,
+  "useFiles": true,
+  "useGroups": false,
+  "excludeKeys": "alias,aliases,tags,cssClasses"
+}

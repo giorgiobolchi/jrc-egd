@@ -1,0 +1,1036 @@
+{
+  "nodes": [
+    {
+      "id": "06c2f26724c300f2",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -3580,
+      "y": -2435,
+      "width": 7160,
+      "height": 4870,
+      "label": "TA3_Industrial strategy for a clean and circular economy"
+    },
+    {
+      "id": "afbb19ca06f0512e",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.4.md",
+      "styleAttributes": {},
+      "x": 180,
+      "y": -1415,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8fddd0833b3559d4",
+      "type": "text",
+      "text": "# FOOD WASTE",
+      "styleAttributes": {},
+      "x": 580,
+      "y": -416,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "8d4db97c89eab64b",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.29.md",
+      "styleAttributes": {},
+      "x": 1086,
+      "y": 255,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "726d695ba48a6c2e",
+      "type": "text",
+      "text": "# PLASTIC & PACKAGING ",
+      "styleAttributes": {},
+      "x": 1556,
+      "y": -523,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "54a5ea38ce41575b",
+      "type": "text",
+      "text": "# WASTE REDUCTION",
+      "styleAttributes": {},
+      "x": -341,
+      "y": -1151,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "c55d431d90109d56",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.2.md",
+      "styleAttributes": {},
+      "x": 34,
+      "y": 216,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "0c21de683c1a3ba9",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.1.md",
+      "styleAttributes": {},
+      "x": -220,
+      "y": -283,
+      "width": 400,
+      "height": 163,
+      "color": "1"
+    },
+    {
+      "id": "14d1e6d02b4770ab",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.24.md",
+      "styleAttributes": {},
+      "x": 802,
+      "y": -283,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "e2d0c3ae3c5f82f0",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.25.md",
+      "styleAttributes": {},
+      "x": 380,
+      "y": -283,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "47a44f2effdb13c0",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.5.md",
+      "styleAttributes": {},
+      "x": 640,
+      "y": -1415,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "bc60073dfeadef7e",
+      "type": "text",
+      "text": "# SUSTAINABLE CARBON IN BIO-BASE, BIODEGRADABLE\n",
+      "styleAttributes": {},
+      "x": -1225,
+      "y": -894,
+      "width": 458,
+      "height": 146,
+      "color": "5"
+    },
+    {
+      "id": "246b4410b05cc2ef",
+      "type": "text",
+      "text": "# CRITICAL RAW MATERIALS\n",
+      "styleAttributes": {},
+      "x": -1253,
+      "y": -2299,
+      "width": 260,
+      "height": 138,
+      "color": "5"
+    },
+    {
+      "id": "00722d844cbc9272",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.18.md",
+      "styleAttributes": {},
+      "x": -411,
+      "y": -1030,
+      "width": 400,
+      "height": 272
+    },
+    {
+      "id": "20100df650d841b6",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.17.md",
+      "styleAttributes": {},
+      "x": -3083,
+      "y": 800,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8d6df558deba5021",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.30.md",
+      "styleAttributes": {},
+      "x": 1433,
+      "y": -283,
+      "width": 400,
+      "height": 243,
+      "color": "1"
+    },
+    {
+      "id": "8e3ec21bb4c310da",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.27.md",
+      "styleAttributes": {},
+      "x": 1889,
+      "y": -283,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1e389067f0ccdf50",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.31.md",
+      "styleAttributes": {},
+      "x": 1556,
+      "y": 330,
+      "width": 400,
+      "height": 235
+    },
+    {
+      "id": "160dcd6ae1ecb5cb",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.47.md",
+      "styleAttributes": {},
+      "x": -420,
+      "y": 216,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "e4ef28b73431e689",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.11.md",
+      "styleAttributes": {},
+      "x": -967,
+      "y": -93,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "c7fc1397ed797748",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.8.md",
+      "styleAttributes": {},
+      "x": -967,
+      "y": -623,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "ee2acfcd4ef8d909",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.16.md",
+      "styleAttributes": {},
+      "x": -3529,
+      "y": 800,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b9d10ac8a4dd6d1d",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.19.md",
+      "styleAttributes": {},
+      "x": -2647,
+      "y": 800,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "49f68b496bb87202",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.28.md",
+      "styleAttributes": {},
+      "x": 2224,
+      "y": 1934,
+      "width": 400,
+      "height": 419,
+      "color": "2"
+    },
+    {
+      "id": "86caba42efc880a3",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.32.md",
+      "styleAttributes": {},
+      "x": 1956,
+      "y": 1565,
+      "width": 400,
+      "height": 142,
+      "color": "2"
+    },
+    {
+      "id": "cd8a57e99eec6cbc",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.18.md",
+      "styleAttributes": {},
+      "x": -2207,
+      "y": 800,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a2d720dd5578f88e",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.40.md",
+      "styleAttributes": {},
+      "x": 1556,
+      "y": 1934,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "685abbc942437935",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.23.md",
+      "styleAttributes": {},
+      "x": -3129,
+      "y": -156,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "ff5c02fc07ad4cf3",
+      "type": "text",
+      "text": "## By 2030, EU **recycling capacity**, [...] should be able of **producing at least 25% of the EU’s annual consumption of CRM** and should be able of recycling significantly increasing amounts of each strategic raw material from waste.",
+      "styleAttributes": {},
+      "x": -1453,
+      "y": -93,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0195fa1003dd23ea",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.22.md",
+      "styleAttributes": {},
+      "x": -2683,
+      "y": -156,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "19f0af3e2eebdd9f",
+      "type": "text",
+      "text": "# BATTERIES RECYCLING",
+      "styleAttributes": {},
+      "x": -2813,
+      "y": -1032,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "a6ac80f623555afe",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.20.md",
+      "styleAttributes": {},
+      "x": -2683,
+      "y": -644,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "7b7361270a9c1f27",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.21.md",
+      "styleAttributes": {},
+      "x": -3129,
+      "y": -644,
+      "width": 400,
+      "height": 357,
+      "color": "2"
+    },
+    {
+      "id": "0dd7bd8097027829",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.9.md",
+      "styleAttributes": {},
+      "x": -1453,
+      "y": -623,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "e373dc15f30fd644",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.12.md",
+      "styleAttributes": {},
+      "x": 2460,
+      "y": -1158,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "730359ed91ee0e2e",
+      "type": "text",
+      "text": "# TEXTILE WASTE",
+      "styleAttributes": {},
+      "x": 329,
+      "y": -1475,
+      "width": 321,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "7d4eb5aba40367bc",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.50.md",
+      "styleAttributes": {},
+      "x": 3704,
+      "y": -1015,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4f1777d1e4cdc397",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.38.md",
+      "styleAttributes": {},
+      "x": 4164,
+      "y": -1015,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c4196e00fd24c053",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.51.md",
+      "styleAttributes": {},
+      "x": 4604,
+      "y": -1015,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7e26b2260dfd41f3",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.49.md",
+      "styleAttributes": {},
+      "x": 5040,
+      "y": -1015,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fcef7d093364827e",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.34.md",
+      "styleAttributes": {},
+      "x": 1956,
+      "y": 1202,
+      "width": 400,
+      "height": 141,
+      "color": "4"
+    },
+    {
+      "id": "17d8f37219f2c926",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.33.md",
+      "styleAttributes": {},
+      "x": 1956,
+      "y": 1382,
+      "width": 400,
+      "height": 147,
+      "color": "4"
+    },
+    {
+      "id": "3443b789e50e8851",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.36.md",
+      "styleAttributes": {},
+      "x": 1956,
+      "y": 1023,
+      "width": 400,
+      "height": 143,
+      "color": "4"
+    },
+    {
+      "id": "d012889521b57398",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.37.md",
+      "styleAttributes": {},
+      "x": 1956,
+      "y": 655,
+      "width": 400,
+      "height": 143,
+      "color": "4"
+    },
+    {
+      "id": "6ddabf7ee8ee1056",
+      "type": "text",
+      "text": "# VEHICLE CIRCULARITY",
+      "styleAttributes": {},
+      "x": 3184,
+      "y": -1265,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "cd2ca24420432669",
+      "type": "text",
+      "text": "# INDUSTRIAL STRATEGY ",
+      "styleAttributes": {},
+      "x": 2530,
+      "y": -1265,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "601a157bd65302e2",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.39.md",
+      "styleAttributes": {},
+      "x": 2482,
+      "y": 1456,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "e8150bab1d34df25",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.48.md",
+      "styleAttributes": {},
+      "x": 3244,
+      "y": -1015,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5633c8b1db19702c",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.52.md",
+      "styleAttributes": {},
+      "x": 2860,
+      "y": 55,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1e7d2924f2bcbfe7",
+      "type": "text",
+      "text": "# BIO-BASED PLASTIC",
+      "styleAttributes": {},
+      "x": 2924,
+      "y": -90,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "80bef0eb667ce8c6",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.35.md",
+      "styleAttributes": {},
+      "x": 1956,
+      "y": 840,
+      "width": 400,
+      "height": 149,
+      "color": "4"
+    },
+    {
+      "id": "2f9316c363279c1f",
+      "type": "text",
+      "text": "## MS shall ensure that **waste management** operators achieve a yearly target for the **recycling** of **plastics** of at least 30 % of the total weight of plastics contained in the **vehicles** delivered to the waste management operators.",
+      "styleAttributes": {},
+      "x": 2433,
+      "y": -709,
+      "width": 453,
+      "height": 293
+    },
+    {
+      "id": "2b03ead0b0ad2488",
+      "type": "text",
+      "text": "# RIGHT TO REPAIR\n",
+      "styleAttributes": {},
+      "x": 710,
+      "y": -2345,
+      "width": 260,
+      "height": 280,
+      "color": "6"
+    },
+    {
+      "id": "2c7c1ed0e5b510a3",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.45.md",
+      "styleAttributes": {},
+      "x": 1833,
+      "y": -1565,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "f72391a3012b1593",
+      "type": "file",
+      "file": "TA3_Industrial strategy for a clean and circular economy/TA3.3.md",
+      "styleAttributes": {},
+      "x": 1216,
+      "y": -1944,
+      "width": 400,
+      "height": 197,
+      "color": "1"
+    },
+    {
+      "id": "9262863e40e4575c",
+      "type": "text",
+      "text": "# CIRCULAR ECONOMY",
+      "styleAttributes": {},
+      "x": 1286,
+      "y": -2115,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "7a2e56fef1ba90a5",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "2b03ead0b0ad2488",
+      "fromSide": "bottom",
+      "toNode": "47a44f2effdb13c0",
+      "toSide": "top"
+    },
+    {
+      "id": "2cac67c7f6bcda18",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "fcef7d093364827e",
+      "fromSide": "left",
+      "toNode": "1e389067f0ccdf50",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e5ff4f563b5d9a0d",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "17d8f37219f2c926",
+      "fromSide": "left",
+      "toNode": "1e389067f0ccdf50",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9fd4c45e9021716f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "3443b789e50e8851",
+      "fromSide": "left",
+      "toNode": "1e389067f0ccdf50",
+      "toSide": "bottom"
+    },
+    {
+      "id": "dce0431c5c77d162",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "e2d0c3ae3c5f82f0",
+      "fromSide": "top",
+      "toNode": "00722d844cbc9272",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f96893c1445002c8",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "2f9316c363279c1f",
+      "fromSide": "left",
+      "toNode": "00722d844cbc9272",
+      "toSide": "right"
+    },
+    {
+      "id": "2780b00b00ceb190",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "a2d720dd5578f88e",
+      "fromSide": "top",
+      "toNode": "86caba42efc880a3",
+      "toSide": "left"
+    },
+    {
+      "id": "0148c1caa629e5bc",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "a2d720dd5578f88e",
+      "fromSide": "top",
+      "toNode": "8d4db97c89eab64b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "938ddd20caab5c65",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "1e389067f0ccdf50",
+      "fromSide": "top",
+      "toNode": "8e3ec21bb4c310da",
+      "toSide": "bottom"
+    },
+    {
+      "id": "316c463cc1699d09",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "d012889521b57398",
+      "fromSide": "left",
+      "toNode": "1e389067f0ccdf50",
+      "toSide": "bottom"
+    },
+    {
+      "id": "7f4576897f342ab3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "80bef0eb667ce8c6",
+      "fromSide": "left",
+      "toNode": "1e389067f0ccdf50",
+      "toSide": "bottom"
+    },
+    {
+      "id": "3d25b66e883e13e5",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "86caba42efc880a3",
+      "fromSide": "left",
+      "toNode": "1e389067f0ccdf50",
+      "toSide": "bottom"
+    },
+    {
+      "id": "09106b8e0900d678",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "20100df650d841b6",
+      "fromSide": "top",
+      "toNode": "685abbc942437935",
+      "toSide": "bottom"
+    },
+    {
+      "id": "7dbbbd551399180d",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "20100df650d841b6",
+      "fromSide": "top",
+      "toNode": "0195fa1003dd23ea",
+      "toSide": "bottom"
+    },
+    {
+      "id": "55cd4345dfbe5bbc",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "49f68b496bb87202",
+      "fromSide": "top",
+      "toNode": "86caba42efc880a3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "223eac686a720d75",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "49f68b496bb87202",
+      "fromSide": "top",
+      "toNode": "8e3ec21bb4c310da",
+      "toSide": "right"
+    },
+    {
+      "id": "27efce9997ff6ec2",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "601a157bd65302e2",
+      "fromSide": "bottom",
+      "toNode": "49f68b496bb87202",
+      "toSide": "right"
+    },
+    {
+      "id": "4669e972ff5b743b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "601a157bd65302e2",
+      "fromSide": "top",
+      "toNode": "8e3ec21bb4c310da",
+      "toSide": "right"
+    },
+    {
+      "id": "e8d88a3eb6dcbae5",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "8d4db97c89eab64b",
+      "fromSide": "top",
+      "toNode": "8d6df558deba5021",
+      "toSide": "bottom"
+    },
+    {
+      "id": "38ea06fe751c6491",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "14d1e6d02b4770ab",
+      "fromSide": "top",
+      "toNode": "00722d844cbc9272",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8abb33c4e29d9571",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "a6ac80f623555afe",
+      "fromSide": "top",
+      "toNode": "ff5c02fc07ad4cf3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "84b8e572dbe851dc",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "0195fa1003dd23ea",
+      "fromSide": "top",
+      "toNode": "a6ac80f623555afe",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8a3edbb147c20af9",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "f72391a3012b1593",
+      "fromSide": "left",
+      "toNode": "00722d844cbc9272",
+      "toSide": "top"
+    },
+    {
+      "id": "ef6b250fbcfc8a47",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "2c7c1ed0e5b510a3",
+      "fromSide": "top",
+      "toNode": "f72391a3012b1593",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a0195ced1dfd7fce",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "47a44f2effdb13c0",
+      "fromSide": "top",
+      "toNode": "f72391a3012b1593",
+      "toSide": "bottom"
+    },
+    {
+      "id": "18ee8a4928efad1a",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "8e3ec21bb4c310da",
+      "fromSide": "top",
+      "toNode": "f72391a3012b1593",
+      "toSide": "bottom"
+    },
+    {
+      "id": "08ad25cd6e136410",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "afbb19ca06f0512e",
+      "fromSide": "top",
+      "toNode": "f72391a3012b1593",
+      "toSide": "left"
+    },
+    {
+      "id": "8e34957ef438dcbb",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "ee2acfcd4ef8d909",
+      "fromSide": "top",
+      "toNode": "0195fa1003dd23ea",
+      "toSide": "bottom"
+    },
+    {
+      "id": "4a15d806729ab51f",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "b9d10ac8a4dd6d1d",
+      "fromSide": "top",
+      "toNode": "0195fa1003dd23ea",
+      "toSide": "bottom"
+    },
+    {
+      "id": "13f047486fb1b3f7",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "cd8a57e99eec6cbc",
+      "fromSide": "top",
+      "toNode": "0195fa1003dd23ea",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d15e9eeea65d0510",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "7b7361270a9c1f27",
+      "fromSide": "top",
+      "toNode": "ff5c02fc07ad4cf3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "31b8cd854c8ec736",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "685abbc942437935",
+      "fromSide": "top",
+      "toNode": "7b7361270a9c1f27",
+      "toSide": "bottom"
+    },
+    {
+      "id": "bfba8f3f3afb5ccb",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "2c7c1ed0e5b510a3",
+      "fromSide": "bottom",
+      "toNode": "00722d844cbc9272",
+      "toSide": "right"
+    },
+    {
+      "id": "164d7e1d41c97028",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "8d6df558deba5021",
+      "fromSide": "top",
+      "toNode": "00722d844cbc9272",
+      "toSide": "right"
+    },
+    {
+      "id": "0068f6b0340e4985",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "b9d10ac8a4dd6d1d",
+      "fromSide": "top",
+      "toNode": "685abbc942437935",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ea5c453a0e082023",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "cd8a57e99eec6cbc",
+      "fromSide": "top",
+      "toNode": "685abbc942437935",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ab0e2a87ad3078f4",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "160dcd6ae1ecb5cb",
+      "fromSide": "top",
+      "toNode": "0c21de683c1a3ba9",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9ae8ab8e7c0b1ed9",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "ff5c02fc07ad4cf3",
+      "fromSide": "top",
+      "toNode": "0dd7bd8097027829",
+      "toSide": "bottom",
+      "label": "?"
+    },
+    {
+      "id": "9f2639a026b1f049",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "c55d431d90109d56",
+      "fromSide": "top",
+      "toNode": "0c21de683c1a3ba9",
+      "toSide": "bottom"
+    },
+    {
+      "id": "0e1b25a5442eebcf",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "47a44f2effdb13c0",
+      "fromSide": "bottom",
+      "toNode": "c55d431d90109d56",
+      "toSide": "top"
+    },
+    {
+      "id": "22f3d8feaa24b687",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "ee2acfcd4ef8d909",
+      "fromSide": "top",
+      "toNode": "685abbc942437935",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f634932b6254734f",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "0c21de683c1a3ba9",
+      "fromSide": "top",
+      "toNode": "00722d844cbc9272",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c5d0c542f95f74bd",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "47a44f2effdb13c0",
+      "fromSide": "left",
+      "toNode": "afbb19ca06f0512e",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {}
+}

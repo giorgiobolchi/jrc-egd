@@ -1,0 +1,620 @@
+{
+  "nodes": [
+    {
+      "id": "de0b74b76d3bfe7e",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4360,
+      "y": 1120,
+      "width": 6270,
+      "height": 1730,
+      "color": "5",
+      "label": "Net-Zero Technology"
+    },
+    {
+      "id": "5f9c9bda40b07798",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -3760,
+      "y": 0,
+      "width": 1830,
+      "height": 4490,
+      "color": "5",
+      "label": "Road Vehicles"
+    },
+    {
+      "id": "03531c260f13c716",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 0,
+      "width": 1830,
+      "height": 3900,
+      "color": "5",
+      "label": "Aviation"
+    },
+    {
+      "id": "cb8f9046252e7edb",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1880,
+      "y": 0,
+      "width": 1830,
+      "height": 3900,
+      "color": "5",
+      "label": "Maritime Transport"
+    },
+    {
+      "id": "6c3bb86e7e15721e",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -6930,
+      "y": 3015,
+      "width": 8840,
+      "height": 755,
+      "color": "5",
+      "label": "Fuels"
+    },
+    {
+      "id": "3e431f29c5eddfb6",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4263,
+      "y": 1225,
+      "width": 6173,
+      "height": 1000,
+      "color": "5",
+      "label": "TENT-T"
+    },
+    {
+      "id": "27350167b9f0cc3a",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -6480,
+      "y": 0,
+      "width": 1280,
+      "height": 1720,
+      "color": "3",
+      "label": "?"
+    },
+    {
+      "id": "c0c0fb690f35b73e",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -5200,
+      "y": 3900,
+      "width": 3195,
+      "height": 540,
+      "color": "5",
+      "label": "Urban mobility"
+    },
+    {
+      "id": "c818d06291fb6fff",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -5280,
+      "y": 3120,
+      "width": 1440,
+      "height": 550,
+      "color": "5",
+      "label": "Hydrogen"
+    },
+    {
+      "id": "01ac0211b9e582f5",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -6800,
+      "y": 3120,
+      "width": 1440,
+      "height": 550,
+      "color": "5",
+      "label": "Biofuels"
+    },
+    {
+      "id": "a5b2ced9c85fef2d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4520,
+      "y": 0,
+      "width": 680,
+      "height": 1000,
+      "color": "5",
+      "label": "Rail"
+    },
+    {
+      "id": "bfe17db552a9aff1",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -520,
+      "y": 3160,
+      "width": 440,
+      "height": 440,
+      "color": "5",
+      "label": "Fisheries"
+    },
+    {
+      "id": "007a3a81f7294286",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.26.md",
+      "styleAttributes": {},
+      "x": -3600,
+      "y": 1315,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "5b3abad4ad9fe1bf",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.39.md",
+      "styleAttributes": {},
+      "x": -4223,
+      "y": 1335,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "970396b85addc051",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.44.md",
+      "styleAttributes": {},
+      "x": -3640,
+      "y": 2365,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "201869b8e1adcb0e",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.27.md",
+      "styleAttributes": {},
+      "x": -3600,
+      "y": 1805,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "45b3725a7d8334b1",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.47.md",
+      "styleAttributes": {},
+      "x": -3680,
+      "y": 537,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b253d30414a0e7df",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.38.md",
+      "styleAttributes": {},
+      "x": -4463,
+      "y": 120,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d15183e3f3f39f0d",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.28.md",
+      "styleAttributes": {},
+      "x": -3160,
+      "y": 1335,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fe8ea7a7c0e049c5",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.10.md",
+      "styleAttributes": {},
+      "x": -500,
+      "y": 3180,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "78cb3a6d3d8a3b27",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.40.md",
+      "styleAttributes": {},
+      "x": -4463,
+      "y": 537,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6a813bbb51379e9c",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.54.md",
+      "styleAttributes": {},
+      "x": -4240,
+      "y": 3980,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ac810ac1c8d7cc97",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.30.md",
+      "styleAttributes": {},
+      "x": -2725,
+      "y": 3980,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "16c8624f34a99295",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.31.md",
+      "styleAttributes": {},
+      "x": -4760,
+      "y": 3180,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0cfa5761735c8ce7",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.23.md",
+      "styleAttributes": {},
+      "x": -5200,
+      "y": 3180,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f4cb537db81630ae",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.30.md",
+      "styleAttributes": {},
+      "x": -4320,
+      "y": 3180,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f3fd5dbdab518260",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.55.md",
+      "styleAttributes": {},
+      "x": -4720,
+      "y": 3980,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3de656b252332a19",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.9.md",
+      "styleAttributes": {},
+      "x": -6320,
+      "y": 1130,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f800c1cd5d5f97ae",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.50.md",
+      "styleAttributes": {},
+      "x": -5858,
+      "y": 230,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "cd18d805bd1c4885",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.43.md",
+      "styleAttributes": {},
+      "x": -6320,
+      "y": 230,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ee504f8bec0a036c",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.53.md",
+      "styleAttributes": {},
+      "x": -5858,
+      "y": 680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c5222c1545d7a773",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.51.md",
+      "styleAttributes": {},
+      "x": -5858,
+      "y": 1120,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "73084268bf627e6d",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.11.md",
+      "styleAttributes": {},
+      "x": -6320,
+      "y": 680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a44fd7fcfb64ff0b",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.3.md",
+      "styleAttributes": {},
+      "x": -960,
+      "y": 37,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3ecae6b59befb4d0",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.56.md",
+      "styleAttributes": {},
+      "x": -520,
+      "y": 37,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "330806539ae40de7",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.18.md",
+      "styleAttributes": {},
+      "x": -6760,
+      "y": 3180,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4cdf1f42be376955",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.1.md",
+      "styleAttributes": {},
+      "x": -6320,
+      "y": 3180,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "244dea2455d6c799",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.7.md",
+      "styleAttributes": {},
+      "x": -5840,
+      "y": 3180,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8e63d9582425c3a6",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.8.md",
+      "styleAttributes": {},
+      "x": -960,
+      "y": 3180,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0aa7ab0b6a708590",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.32.md",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 1345,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7eda08dff0cf0a2f",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.19.md",
+      "styleAttributes": {},
+      "x": 960,
+      "y": 3170,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "33cde179fb4ef008",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.46.md",
+      "styleAttributes": {},
+      "x": 240,
+      "y": 2365,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "841eeb235510cde4",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.33.md",
+      "styleAttributes": {},
+      "x": -1760,
+      "y": 1345,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6e8752042b1233dc",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.45.md",
+      "styleAttributes": {},
+      "x": -1800,
+      "y": 2365,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "dc6e1afdab2c5e9d",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.14.md",
+      "styleAttributes": {},
+      "x": -1400,
+      "y": 3180,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "18c228ee22e68688",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.4.md",
+      "styleAttributes": {},
+      "x": -1840,
+      "y": 3180,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "412758ea1062bdde",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.36.md",
+      "styleAttributes": {},
+      "x": -1840,
+      "y": 37,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "83b314b4bad0a043",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.57.md",
+      "styleAttributes": {},
+      "x": -1400,
+      "y": 37,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5566bfdfcfaed151",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.37.md",
+      "styleAttributes": {},
+      "x": -1840,
+      "y": 490,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "93fb094b791e00cf",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.5.md",
+      "styleAttributes": {},
+      "x": 80,
+      "y": 3170,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c73fdb174b841eaa",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.6.md",
+      "styleAttributes": {},
+      "x": 520,
+      "y": 3170,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "75e21438c7e3516a",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.15.md",
+      "styleAttributes": {},
+      "x": -3680,
+      "y": 90,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "caa7a14d4b76b784",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.16.md",
+      "styleAttributes": {},
+      "x": -3240,
+      "y": 90,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "789c8dca271c4227",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.25.md",
+      "styleAttributes": {},
+      "x": -2680,
+      "y": 1335,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "baf4d45c38fae46c",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.13.md",
+      "styleAttributes": {},
+      "x": -3605,
+      "y": 3980,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "217898c1ca42be28",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.29.md",
+      "styleAttributes": {},
+      "x": -3125,
+      "y": 3980,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "dcd87028dbefbe39",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.34.md",
+      "styleAttributes": {},
+      "x": -1280,
+      "y": 1345,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d8ed1cac3419d7ee",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.58.md",
+      "styleAttributes": {},
+      "x": -1360,
+      "y": 2365,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e86cb6b670e9cf12",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.22.md",
+      "styleAttributes": {},
+      "x": -3160,
+      "y": 1805,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9b14fc6c86a7df83",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.31.md",
+      "styleAttributes": {},
+      "x": -2680,
+      "y": 1805,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

@@ -1,0 +1,118 @@
+{
+  "TagColors": {
+    "ColorPicker": [
+      {
+        "tag_name": "green",
+        "color": {
+          "r": 0,
+          "g": 204,
+          "b": 109
+        },
+        "background_color": {
+          "r": 24,
+          "g": 217,
+          "b": 128
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "orange",
+        "color": {
+          "r": 211,
+          "g": 135,
+          "b": 3
+        },
+        "background_color": {
+          "r": 106,
+          "g": 68,
+          "b": 1
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "red",
+        "color": {
+          "r": 195,
+          "g": 29,
+          "b": 29
+        },
+        "background_color": {
+          "r": 172,
+          "g": 2,
+          "b": 2
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "grey",
+        "color": {
+          "r": 163,
+          "g": 163,
+          "b": 163
+        },
+        "background_color": {
+          "r": 82,
+          "g": 82,
+          "b": 82
+        },
+        "luminance_offset": 0.15
+      }
+    ],
+    "EnableMultipleTags": true,
+    "EnableSeparateBackground": true,
+    "EnableBackgroundOpacity": true,
+    "Values": {
+      "BackgroundOpacity": 0.45,
+      "LuminanceOffset": 0.15
+    }
+  },
+  "CSS": {
+    "NoteTags": true,
+    "NoteProperties": true,
+    "NoteBackgrounds": false,
+    "TagsNoWrap": true,
+    "TagsNoWrapText": "pre"
+  },
+  "FolderNote": {
+    "Enable": false,
+    "FolderTagLinks": [],
+    "EnableAutoDetect": true,
+    "EnableBackgroundOpacity": false,
+    "Values": {
+      "BackgroundOpacity": 0.45,
+      "ForceImportant": true,
+      "BorderRadius": "12px",
+      "Padding": "5px"
+    }
+  },
+  "Kanban": {
+    "Enable": true,
+    "EnableCards": false,
+    "EnableLists": false,
+    "HideHashtags": false,
+    "EnableBackgroundOpacity": false,
+    "Values": {
+      "BackgroundOpacity": 0.45,
+      "CardBackgroundOpacity": 0.2,
+      "CardBorderOpacity": 0.3,
+      "ListBackgroundOpacity": 0.2,
+      "ListBorderOpacity": 0.3
+    }
+  },
+  "Canvas": {
+    "Enable": true,
+    "EnableBackgroundOpacity": true,
+    "Values": {
+      "BackgroundOpacity": 0.8,
+      "CardBorderOpacity": 0.3,
+      "CardBackgroundLuminanceOffset": 0.15
+    }
+  },
+  "Debug": {
+    "Enable": false,
+    "EnableExperimentalCommands": false
+  },
+  "Info": {
+    "SettingsVersion": 14
+  }
+}

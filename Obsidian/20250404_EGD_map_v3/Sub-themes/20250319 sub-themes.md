@@ -1,0 +1,170 @@
+  ```python
+# manually selected sub-themes list used in LLM_subthemes.ipynb 
+
+subthemes_list = [ 
+
+"Climate Resilience",
+"GHG Reduction",
+"GHG Reduction - Buildings",
+"GHG Reduction - Transports"
+
+"GHG Removal",
+"Renewable Energy",
+"Renewable Energy - Heating & Cooling",
+"Renewable Energy - Hydrogen Production",
+"Renewable Energy - Ocean/Offshore",
+"Renewable Energy - Solar",
+"Energy Efficiency",
+"Energy Efficiency - Buildings",
+"Energy Infrastructure",
+"Methane",
+"Social Security - Energy",
+"Waste Reduction",
+"Waste Reduction - Municipal Waste",
+"Waste Reduction - Food Waste",
+"Waste Reduction - Plastic & Packaging",
+"Circularity/Recycling",
+"Circularity/Recycling - Municipal Waste",
+"Circularity/Recycling - Textile Waste",
+"Circularity/Recycling - Plastic & Packaging",
+"Circularity/Recycling - Plastic & Packaging - Bio-based plastics",
+"Circularity/Recycling - Vehicle Circularity",
+"Circularity/Recycling - Critical Raw Materials - Batteries Recycling",
+"Critical Raw Materials - Extraction & Import",
+"Net-Zero Technology - Manufacturing",
+"Rail",
+"Net-Zero Technology - Road Vehicles",
+"Net-Zero Technology - Maritime Transport",
+"Net-Zero Technology - Aviation",
+"Biofuels",
+"Other Low-Carbon Fuels",
+"Hydrogen Distribution",
+"Urban Mobility",
+"Transport Logistics",
+"Food quality",
+"Food quality - Animal Welfare",
+"Food quality - Healthy Food",
+"Food affordability",
+"Pesticides Reduction",
+"Competitive Agriculture",
+"Social Security - Workers Protection",
+"Terrestrial Ecosystems Restoration",
+"Terrestrial Ecosystems Restoration - Rivers",
+"Terrestrial Ecosystems Restoration - Agricultural Ecosystems",
+"Terrestrial Ecosystems Restoration - Forests",
+"Marine Ecosystem Restoration",
+"Biodiversity Protection & Conservation",
+"Biodiversity Protection & Conservation - Fisheries",
+"Biodiversity Protection & Conservation - Monitoring",
+"Biodiversity Protection & Conservation - Urban Nature",
+"Forest Bioeconomy",
+"Improve Air Quality",
+"Improve Water Quality",
+"Improve Soils Health",
+"Noise Reduction",
+"Social Security - Sanitation"
+
+]
+
+  
+  
+
+subthemes_perTA_list = { # manually selected sub-themes list sorted per TA,to be used in LLM_network_TAsplit.ipynb
+
+'TA1': [
+
+"Climate Resilience",
+"GHG Reduction",
+"GHG Reduction - Buildings",
+"GHG Reduction - Transports"
+
+"GHG Removal",
+],
+'TA2': [
+
+"Renewable Energy",
+"Renewable Energy - Heating & Cooling",
+"Renewable Energy - Hydrogen Production",
+"Renewable Energy - Ocean/Offshore",
+"Renewable Energy - Solar",
+"Energy Efficiency",
+"Energy Efficiency - Buildings",
+"Energy Infrastructure",
+"Social Security - Energy",
+],
+'TA3': [
+
+"Waste Reduction",
+"Waste Reduction - Municipal Waste",
+"Waste Reduction - Food Waste",
+"Waste Reduction - Plastic & Packaging",
+"Circularity/Recycling",
+"Circularity/Recycling - Municipal Waste",
+"Circularity/Recycling - Textile Waste",
+"Circularity/Recycling - Plastic & Packaging",
+"Circularity/Recycling - Plastic & Packaging - Bio-based plastics",
+"Circularity/Recycling - Vehicle Circularity",
+"Circularity/Recycling - Critical Raw Materials - Batteries Recycling",
+"Critical Raw Materials - Extraction & Import",
+"Net-Zero Technology - Manufacturing",
+],
+'TA4': [
+
+"Rail",
+"Net-Zero Technology - Road Vehicles",
+"Net-Zero Technology - Maritime Transport",
+"Net-Zero Technology - Aviation",
+"Biofuels",
+"Other Low-Carbon Fuels",
+"Hydrogen Distribution",
+"Urban Mobility",
+"Transport Logistics",
+],
+'TA5': [
+
+"Food quality",
+"Food quality - Animal Welfare",
+"Food quality - Healthy Food",
+"Food affordability",
+"Pesticides Reduction",
+"Competitive Agriculture",
+"Social Security - Workers Protection",
+],
+'TA6': [
+
+"Terrestrial Ecosystems Restoration",
+"Terrestrial Ecosystems Restoration - Rivers",
+"Terrestrial Ecosystems Restoration - Agricultural Ecosystems",
+"Terrestrial Ecosystems Restoration - Forests",
+"Marine Ecosystem Restoration",
+"Biodiversity Protection & Conservation",
+"Biodiversity Protection & Conservation - Fisheries",
+"Biodiversity Protection & Conservation - Monitoring",
+"Biodiversity Protection & Conservation - Urban Nature",
+],
+'TA7': [
+
+"Forest Bioeconomy",
+"Improve Air Quality",
+"Improve Water Quality",
+"Improve Soils Health",
+"Noise Reduction",
+"Social Security - Sanitation"
+
+],
+}
+
+  
+
+thematic_areas = {
+
+'TA1': 'TA1_Climate ambition',
+'TA2': 'TA2_Clean,affordable and secure energy',
+'TA3': 'TA3_Industrial strategy for a clean and circular economy',
+'TA4': 'TA4_Sustainable and smart mobility',
+'TA5': 'TA5_Greening the Common Agricultural Policy - Farm to Fork Strategy',
+'TA6': 'TA6_Preserving and protecting biodiversity',
+'TA7': 'TA7_Towards a zero-pollution ambition for a toxic free environment',
+}
+
+```
