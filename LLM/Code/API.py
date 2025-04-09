@@ -7,8 +7,10 @@ import time
 import tiktoken
 
 
+token_dir = '/Users/giorgiobolchi2/Documents/GitHub/jrc-egd/LLM/Code/token.txt'
+
 # Set API token
-with open("token.txt", "r") as tf:
+with open(token_dir, "r") as tf:
     TOKEN = tf.read().strip()  # Removes unwanted newline characters
 
 
@@ -30,10 +32,11 @@ def get_chat_response(prompt, seed, model, temperature):
         start_time = time.time()
         try:
             response = client.chat.completions.create(
-                messages=[{"role": "user", "content": prompt}],
-                model=model,
-                seed=seed,
-                temperature=temperature
+                messages=[{"role": "user", "content": prompt}], 
+                model=model, # The model parameter specifies which language model to use for generating responses.
+                seed=seed, # The seed parameter is used to initialize the random number generator for generating responses. It ensures that the same input will produce the same output each time.
+                temperature=temperature # The temperature parameter influences the randomness of the generated responses. A higher value, such as 0.8, makes the answers more diverse, while a lower value, like 0.2, makes them more focused and deterministic.
+                            
             )
             end_time = time.time()
             response_time = end_time - start_time
