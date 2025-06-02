@@ -2,11 +2,11 @@
 
 Giorgio Bolchi
 
-*December 2024 - April 2025*
+date: *December 2024 - April 2025*
+corresponding email: *giorgiobolchi@protonmail.com*
+supervisors: Chiara Gastaldi, Luisa Marelli
 
 ------------------------------------------------------------------------
-
-
 ## Table of Contents
 1. [Part 1 - Assign NACE categories to targets](#part-1)
 	- Goal
@@ -46,7 +46,8 @@ Giorgio Bolchi
 
 #### Code
 - `LLM_NACE_to_targets.ipynb`: script to split the data per TA, and automatically assign NACE categories to each EGD targets based on their content and the context of report 1.
-- `LLM_NACE_chunks.ipynb`: this was an alternative script, to split the data in equally-sized chunks (i.e, smaller than by thematic areas), and automatically assign NACE categories to each EGD targets based on their content and the context of report 1.
+
+- `other_code/LLM_NACE_chunks.ipynb`: this was an alternative script, to split the data in equally-sized chunks (i.e, smaller than by thematic areas), and automatically assign NACE categories to each EGD targets based on their content and the context of report 1.
 
 
 
@@ -80,30 +81,29 @@ Giorgio Bolchi
 
 ### Relevant Folders & Files
 #### Input Data
-- `targets_data_150.csv` = data from targets assessed in report 1 (used to generate the network that was sent to the experts)
+- `targets_data_150.csv` = main dataset from targets assessed in report 1 (used to generate the network that was sent to the experts)
+
 - `targets_data_250.csv` = all target data, including some that have no assessment.
 - `REPORT_2/`
 - ```subthemes.py```
 
 #### Code
 - `LLM_network_generation.ipynb`: Main script to generate a network of weighted and directed interlinkages between EGD targets, either individually, or grouped by subthemes or policy documents. It is done using an LLM available through GPT@JRC.
-- `network_analysis.ipynb`: Small script to load the formatted network tables into the networkx Python package and perform basic network analysis.
-- `LLM_subthemes.ipynb`: Small script that was used to automatically assign targets into pre-defined sub-themes.
+
+- `network_analysis.ipynb`: Small script to load the formatted network tables into the networkx Python package and perform basic network analysis. But the whole network analysis was not done and has yet to be done using Verdiana's code (cf: other_code/Verdiana)
+- `subthemes_to_targets.ipynb`: Small script that was used to automatically assign targets into pre-defined sub-themes.
 
 
 #### Output Data
-- `Data/Outputs/`: Main output folders for generated results.
+- `Data/Outputs/{date}`: Main output folders for generated results.
 
-### Pipeline
-1. Double-check the list of manually selected sub-themes in `subthemes_list.py`.
-2. Run `LLM_subthemes.ipynb` to automatically assign each target into sub-themes.
-3. Manually review the sub-themes assignations.
-4. Select a targets dataset: `targets_data_150.csv` or `targets_data_250.csv`.
-5. Gather the API requirements, the desired input data, adjust the file paths and model parameters, and run `LLM_network_TAsplit.ipynb`.
-6. Manually format and clean the aggregated results.
-7. Manually review the interlinkages.
-8. Cross-validate with expert knowledge.
-9. Perform a network analysis with Verdiana's code.
+### Wokflow
+1. Select a targets dataset: `targets_data_150.csv` (or `targets_data_250.csv`).
+2. Gather the API requirements, the desired input data, adjust the file paths and model parameters, and follow the instructions in `LLM_network_generation.ipynbb`.
+3. Manually format and clean the aggregated results.
+4. optional: Manually review the interlinkages.
+5. Cross-validate with expert knowledge.
+6. Perform a network analysis with Verdiana's code.
 
 
 ------------------------------------------------------------------------
@@ -112,17 +112,31 @@ Giorgio Bolchi
 - ```Code/```:
 	- `token.txt`: Text file containing access token for the LLM.
 	- `API.py`: Script to access the LLM API via GPT@JRC and define useful related functions.
-	- `LLM_NACE_TAsplit.ipynb`: Script to use the LLM to generate the data for Part 1 of this project: automatically assigns NACE categories to EGD targets.
-	- `LLM_NACE_chunks.ipynb`: Script that splits the data into equally-sized chunks and automatically assigns NACE categories to EGD targets.
-	- `LLM_network_chunks.ipynb`: Script that splits the data into equally-sized chunks, generate all potential pairs of chunks, and determines the interlinkages between targets within each chunk pairs using a LLM. I wrote it but did not end up using it as this creates intra-TA interlinkages. Instead, I split the data per TA (see `LLM_network_TAsplit.ipynb`).
-	- `LLM_network_TAsplit.ipynb`: Script that splits the data by thematic areas, generate all potential pairs of TA, and determines the interlinkages between targets within each TA pairs using a LLM. Splitting per TA avoid the generation of intra-TA interlinkages.
-	- `LLM_subthemes.ipynb`: Small script to automatically assign targets to pre-defined sub-themes using a LLM.
-	- `network_analysis.ipynb`: Small script to load the formatted network tables into the networkx Python package and perform basic network analysis.
+	- `tools.py`: script that contains all useful functions that are called in other scripts for the network generation.
+
+	- `LLM_NACE_to_targets.ipynb`: script used in Part 1, to split the data per TA, and automatically assign NACE categories to each EGD targets based on their content and the context of report 1.
+	- `LLM_network_generation.ipynb`: script used in Part 2, to generate a network of weighted and directed interlinkages between EGD targets, either individually, or grouped by subthemes or policy documents. It is done using an LLM available through GPT@JRC.
+	- `network_analysis.ipynb`: Small script to load the formatted network tables into the networkx Python package and perform basic network analysis. But the whole network analysis was not done and has yet to be done using Verdiana's code (cf: other_code/Verdiana)
+
+
+	- ```other_code/```: folder with other codes that I used at first but then condensed into a more general script, draft codes, or codes from other people
+		- `LLM_NACE_chunks.ipynb`: Script that splits the data into equally-sized chunks and automatically assigns NACE categories to EGD targets.
+		- `LLM_network_chunks.ipynb`: Script that splits the data into equally-sized chunks, generate all potential pairs of chunks, and determines the interlinkages between targets within each chunk pairs using a LLM. I wrote it but did not end up using it as this creates intra-TA interlinkages. Instead, I split the data per TA (see `LLM_network_TAsplit.ipynb`).
+		- `LLM_network_TAsplit.ipynb`: Script that splits the data by thematic areas, generate all potential pairs of TA, and determines the interlinkages between targets within each TA pairs using a LLM. Splitting per TA avoid the generation of intra-TA interlinkages.
+
+	- ```other_tools/```: folder containing other tools and small scripts
+		- `subthemes_to_targets.ipynb`: Small script to automatically assign targets to pre-defined sub-themes using a LLM.
+		- `deduct_target_subthemes.ipynb`: script used to automatically assign a subtheme for each target using a LLM.
+		- `experts_to_subthemes.ipynb`: script used to automatically assign an expert for each subthemes based on their job description on Who is Who.
+		- `target_to_obsidian`: script used to automatically format each targets from an excel sheet into Obsidian notes (markdown format).
+		- `json_to_gexf`: just to play around with network file formats. Didnt end up using it.
+
+
 
  - ```Data/```:
 	- `backups/`: Backup data that is nice to keep but not necessary anymore.
 	- `ESTAT/`: Contains the ESTAT dataset inventory and the downloaded datasets (GHG, GVA, employment).
-	- `Outputs/`: Main output folders for generated results.
+	- `Outputs/`: Main output folders for generated results. The days were relevant results were generated have a longer title with a short description.
 	- `targets_data_150.csv`: list of targets that are in report 1 (i.e., that have been assessed) and associated data.
 	- `targets_data_250.csv`: list of all targets and associated data.
 	- `target_NACE_classification.xlsx`: Initial dataset I was provided with.
@@ -134,6 +148,9 @@ Giorgio Bolchi
  - ```Documentation/```:
 	- `JRC_chat_models.csv`: List of available models at the JRC.
 	- Other files.
+
+- ```Obsidian/```:
+	- Folder with all obsidian vaults, which include all target data and canvases with manuammy-drawn interlinkages for within each thematic area.
 
 ## Notes on File Names
 - "*network_150*" = Interlinkages based on the ~150 targets from report 1.

@@ -1,2 +1,12 @@
-*/__pycache__/*
-token.txt
+__pycache__/ 
+LLM/Code/__pycache__/
+LLM/Data/__pycache__/
+
+LLM/Code/token.txt
+
+#report2 chapters
+LLM/Data/REPORT_2/access_20250310/
+LLM/Data/REPORT_2/access_20250417/ 
+
+.DS_Store
+.vscode/
