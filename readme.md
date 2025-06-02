@@ -2,9 +2,9 @@
 
 Giorgio Bolchi
 
-date: *December 2024 - April 2025*
-corresponding email: *giorgiobolchi@protonmail.com*
-supervisors: Chiara Gastaldi, Luisa Marelli
+- date: *December 2024 - April 2025*
+- corresponding email: *giorgiobolchi@protonmail.com*
+- supervisors: Chiara Gastaldi, Luisa Marelli
 
 ------------------------------------------------------------------------
 ## Table of Contents
