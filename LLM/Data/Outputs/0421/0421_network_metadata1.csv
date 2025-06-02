@@ -1,0 +1,22 @@
+ta_pairs_nbr;ta_pairs_pairs;model;seed;temperature;system_fingerprint;prompt_tokens;completion_tokens
+0;['TA1', 'TA2'];llama-3.3-70b-instruct;;0.1;;99061;5885
+1;['TA1', 'TA3'];llama-3.3-70b-instruct;;0.1;;100988;2207
+2;['TA1', 'TA4'];llama-3.3-70b-instruct;;0.1;;99222;2197
+3;['TA1', 'TA5'];llama-3.3-70b-instruct;;0.1;;98660;2828
+4;['TA1', 'TA6'];llama-3.3-70b-instruct;;0.1;;99931;5432
+5;['TA1', 'TA7'];llama-3.3-70b-instruct;;0.1;;94670;1842
+6;['TA2', 'TA1'];llama-3.3-70b-instruct;;0.1;;99061;3006
+7;['TA2', 'TA3'];llama-3.3-70b-instruct;;0.1;;102497;703
+8;['TA2', 'TA4'];llama-3.3-70b-instruct;;0.1;;100731;1613
+9;['TA2', 'TA5'];llama-3.3-70b-instruct;;0.1;;100169;2159
+10;['TA2', 'TA6'];llama-3.3-70b-instruct;;0.1;;101440;6020
+11;['TA2', 'TA7'];llama-3.3-70b-instruct;;0.1;;96179;1054
+12;['TA3', 'TA1'];llama-3.3-70b-instruct;;0.1;;100988;5242
+13;['TA3', 'TA2'];llama-3.3-70b-instruct;;0.1;;102497;6192
+20;['TA4', 'TA3'];llama-3.3-70b-instruct;;0.1;;102657;4494
+21;['TA4', 'TA5'];llama-3.3-70b-instruct;;0.1;;100329;4139
+22;['TA4', 'TA6'];llama-3.3-70b-instruct;;0.1;;101600;3925
+23;['TA4', 'TA7'];llama-3.3-70b-instruct;;0.1;;96339;3583
+24;['TA5', 'TA1'];llama-3.3-70b-instruct;;0.1;;98660;3336
+25;['TA5', 'TA2'];llama-3.3-70b-instruct;;0.1;;100169;3657
+26;['TA5', 'TA3'];llama-3.3-70b-instruct;;0.1;;102096;3797

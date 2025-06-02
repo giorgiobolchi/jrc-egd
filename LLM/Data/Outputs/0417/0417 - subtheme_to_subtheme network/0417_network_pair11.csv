@@ -1,0 +1,19 @@
+source_subtheme;impact_subtheme;impact_type;impact_weight ; justification 
+Renewable Energy;Renewable Energy - Heating & Cooling;+3;Inextricably linked to the achievement of another target. 
+Renewable Energy;Energy Efficiency ;+2 ;Aids the achievement of another target. 
+Renewable Energy;Energy Infrastructure ; +1 ;Creates conditions that further another target. 
+Renewable Energy - Hydrogen Production;Renewable Energy - Ocean/Offshore ; -1 ;Limits options on another target. 
+Renewable Energy - Solar;Renewable Energy - Heating & Cooling ; -2 ;Clashes with another target. 
+Renewable Energy;Renewable Energy - Ocean/Offshore ; -3 ;Makes it impossible to reach another goal. 
+Renewable Energy - Hydrogen Production;Energy Efficiency - Buildings ; +3 ;Inextricably linked to the achievement of another target. 
+Renewable Energy - Ocean/Offshore;Energy Infrastructure ; +2 ;Aids the achievement of another target. 
+Renewable Energy - Solar;Renewable Energy - Heating & Cooling ; +1 ;Creates conditions that further another target. 
+Renewable Energy;Renewable Energy - Heating & Cooling ; -1 ;Limits options on another target. 
+Renewable Energy - Hydrogen Production;Renewable Energy - Ocean/Offshore ; -2 ;Clashes with another target. 
+Renewable Energy - Solar;Renewable Energy - Heating & Cooling ; -3 ;Makes it impossible to reach another goal. 
+Forest Bioeconomy;Improve Air Quality ; +3 ;Inextricably linked to the achievement of another target. 
+Forest Bioeconomy;Improve Water Quality ; +2 ;Aids the achievement of another target. 
+Forest Bioeconomy;Improve Soils Health ; +1 ;Creates conditions that further another target. 
+Forest Bioeconomy;Noise Reduction ; -1 ;Limits options on another target. 
+Forest Bioeconomy;Social Security - Sanitation ; -2 ;Clashes with another target. 
+Forest Bioeconomy;Improve Soils Health ; -3 ;Makes it impossible to reach another goal.

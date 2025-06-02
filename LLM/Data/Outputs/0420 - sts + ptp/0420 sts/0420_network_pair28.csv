@@ -1,0 +1,27 @@
+source_subtheme;impact_subtheme;impact_type;impact_weight;justification
+GHG Reduction;Food affordability;+;2;Implementing GHG reduction targets can lead to increased costs for food production, which may impact food affordability.
+GHG Reduction;Food quality;+;1;Reducing GHG emissions can lead to more sustainable food production practices, positively impacting food quality.
+GHG Reduction;Pesticides Reduction;+;2;Reducing GHG emissions can lead to more sustainable agricultural practices, reducing the need for pesticides and positively impacting pesticide reduction.
+GHG Reduction;Competitive Agriculture;+;1;Reducing GHG emissions can lead to more sustainable agricultural practices, positively impacting agricultural competitiveness.
+GHG Reduction;Social Security - Workers Protection;+;1;Reducing GHG emissions can lead to job creation in the renewable energy sector, positively impacting social security and worker protection.
+Food affordability;Food quality;+;1;Improving food affordability can lead to increased access to healthy and nutritious food, positively impacting food quality.
+Food affordability;Pesticides Reduction;+;2;Improving food affordability can lead to increased demand for sustainable food production practices, reducing the need for pesticides and positively impacting pesticide reduction.
+Food affordability;Competitive Agriculture;+;1;Improving food affordability can lead to increased competitiveness in the agricultural sector, positively impacting agricultural competitiveness.
+Food affordability;Social Security - Workers Protection;+;1;Improving food affordability can lead to job creation in the food sector, positively impacting social security and worker protection.
+Food quality;Pesticides Reduction;+;2;Improving food quality can lead to reduced pesticide use, positively impacting pesticide reduction.
+Food quality;Competitive Agriculture;+;1;Improving food quality can lead to increased competitiveness in the agricultural sector, positively impacting agricultural competitiveness.
+Food quality;Social Security - Workers Protection;+;1;Improving food quality can lead to job creation in the food sector, positively impacting social security and worker protection.
+Pesticides Reduction;Competitive Agriculture;+;1;Reducing pesticide use can lead to increased competitiveness in the agricultural sector, positively impacting agricultural competitiveness.
+Pesticides Reduction;Social Security - Workers Protection;+;1;Reducing pesticide use can lead to job creation in the sustainable agriculture sector, positively impacting social security and worker protection.
+Competitive Agriculture;Social Security - Workers Protection;+;1;Improving agricultural competitiveness can lead to job creation in the agricultural sector, positively impacting social security and worker protection.
+Terrestrial Ecosystems Restoration;Biodiversity Protection & Conservation;+;3;Restoring terrestrial ecosystems can lead to increased biodiversity, positively impacting biodiversity protection and conservation.
+Terrestrial Ecosystems Restoration;Biodiversity Protection & Conservation - Fisheries;+;2;Restoring terrestrial ecosystems can lead to increased biodiversity in aquatic ecosystems, positively impacting biodiversity protection and conservation in fisheries.
+Terrestrial Ecosystems Restoration;Biodiversity Protection & Conservation - Monitoring;+;1;Restoring terrestrial ecosystems can lead to improved biodiversity monitoring, positively impacting biodiversity protection and conservation monitoring.
+Terrestrial Ecosystems Restoration;Biodiversity Protection & Conservation - Urban Nature;+;1;Restoring terrestrial ecosystems can lead to increased urban biodiversity, positively impacting biodiversity protection and conservation in urban nature.
+Terrestrial Ecosystems Restoration - Rivers;Biodiversity Protection & Conservation;+;2;Restoring rivers can lead to increased biodiversity, positively impacting biodiversity protection and conservation.
+Terrestrial Ecosystems Restoration - Agricultural Ecosystems;Biodiversity Protection & Conservation;+;2;Restoring agricultural ecosystems can lead to increased biodiversity, positively impacting biodiversity protection and conservation.
+Terrestrial Ecosystems Restoration - Forests;Biodiversity Protection & Conservation;+;2;Restoring forests can lead to increased biodiversity, positively impacting biodiversity protection and conservation.
+Marine Ecosystem Restoration;Biodiversity Protection & Conservation;+;2;Restoring marine ecosystems can lead to increased biodiversity, positively impacting biodiversity protection and conservation.
+Biodiversity Protection & Conservation;Biodiversity Protection & Conservation - Fisheries;+;1;Protecting biodiversity can lead to increased biodiversity in aquatic ecosystems, positively impacting biodiversity protection and conservation in fisheries.
+Biodiversity Protection & Conservation;Biodiversity Protection & Conservation - Monitoring;+;1;Protecting biodiversity can lead to improved biodiversity monitoring, positively impacting biodiversity protection and conservation monitoring.
+Biodiversity Protection & Conservation;Biodiversity Protection & Conservation - Urban Nature;+;1;Protecting biodiversity can lead to increased urban biodiversity, positively impacting biodiversity protection and conservation in urban nature.

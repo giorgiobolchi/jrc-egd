@@ -1,0 +1,4 @@
+
+
+note on 18/04:
+the network was generated with the old code version where the target contents were truncated! So I will probably re-generate it with the updated code today or tomorrow! I keep it just in case for now, but it will eventually become useless as it is probably not the most accurate.

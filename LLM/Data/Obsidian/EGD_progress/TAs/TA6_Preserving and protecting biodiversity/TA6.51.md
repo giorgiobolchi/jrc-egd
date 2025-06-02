@@ -1,0 +1,15 @@
+---
+files:
+  - "[[TA6.7]]"
+"?":
+  - "[[TA6.59]]"
+---
+## (forest ecosystems) Member States shall achieve an increasing trend at national level of at least six out of seven of the following indicators in forest ecosystems, as further set out in Annex VI, chosen on the basis of their ability to demonstrate the enhancement of biodiversity of forest ecosystems within the Member State concerned. The trend shall be measured in the period from the date of entry into force of this Regulation until 31 December 2030, and every six years thereafter, until the satisfactory levels identified in accordance with Article 11(3) are reached: (a) standing deadwood (b) lying deadwood (c) share of forests with uneven-aged structure, (d) forest connectivity, (e) stock of organic carbon, (f) share of forests dominated by native tree species, (g) tree species diversity
+
+thematic area: #TA6_Preserving_and_protecting_biodiversity
+
+Tags: nan
+
+links:
+  - "[[TA6.7]]"
+  - "[[TA6.59]]"

@@ -1,0 +1,29 @@
+source_subtheme;impact_subtheme;impact_type;impact_weight;justification
+GHG Reduction;Food affordability;+;1;Implementing GHG reduction targets can lead to increased food prices, affecting food affordability.
+GHG Reduction;Food quality;+;1;Reducing GHG emissions can lead to changes in agricultural practices, potentially affecting food quality.
+GHG Reduction;Food quality - Animal Welfare;+;1;GHG reduction targets may lead to changes in animal farming practices, impacting animal welfare.
+GHG Reduction;Food quality - Healthy Food;+;1;Reducing GHG emissions can lead to increased consumption of plant-based diets, promoting healthy food options.
+GHG Reduction;Pesticides Reduction;-;1;Implementing GHG reduction targets may lead to increased use of pesticides, hindering pesticide reduction efforts.
+GHG Reduction;Competitive Agriculture;+;1;Reducing GHG emissions can lead to increased focus on sustainable agriculture, supporting competitive agriculture.
+GHG Reduction;Social Security - Workers Protection;+;1;Implementing GHG reduction targets can lead to job creation in the renewable energy sector, supporting social security and worker protection.
+Food affordability;Waste Reduction;-;1;Reducing food waste can lead to increased food prices, affecting food affordability.
+Food affordability;Waste Reduction - Municipal Waste;-;1;Implementing waste reduction targets can lead to increased costs for food production and distribution, affecting food affordability.
+Food affordability;Waste Reduction - Food Waste;-;1;Reducing food waste can lead to increased food prices, affecting food affordability.
+Food affordability;Waste Reduction - Plastic & Packaging;-;1;Implementing waste reduction targets can lead to increased costs for food packaging, affecting food affordability.
+Food quality;Circularity/Recycling;+;1;Implementing food quality targets can lead to increased demand for sustainable food production, supporting circularity and recycling efforts.
+Food quality - Animal Welfare;Circularity/Recycling;+;1;Promoting animal welfare in food production can lead to increased adoption of circular and recycling practices.
+Food quality - Healthy Food;Circularity/Recycling;+;1;Promoting healthy food options can lead to increased demand for sustainable food production, supporting circularity and recycling efforts.
+Pesticides Reduction;Competitive Agriculture;+;2;Reducing pesticide use can lead to increased adoption of sustainable agricultural practices, supporting competitive agriculture.
+Pesticides Reduction;Social Security - Workers Protection;+;1;Reducing pesticide use can lead to improved working conditions for farmers and agricultural workers, supporting social security and worker protection.
+Competitive Agriculture;Social Security - Workers Protection;+;2;Supporting competitive agriculture can lead to increased income and job opportunities for farmers and agricultural workers, supporting social security and worker protection.
+Social Security - Workers Protection;Waste Reduction;+;1;Implementing social security and worker protection measures can lead to increased adoption of waste reduction and recycling practices.
+Social Security - Workers Protection;Waste Reduction - Municipal Waste;+;1;Supporting worker protection can lead to increased adoption of waste reduction and recycling practices in the municipal waste sector.
+Social Security - Workers Protection;Waste Reduction - Food Waste;+;1;Implementing social security and worker protection measures can lead to increased adoption of food waste reduction and recycling practices.
+Social Security - Workers Protection;Waste Reduction - Plastic & Packaging;+;1;Supporting worker protection can lead to increased adoption of waste reduction and recycling practices in the plastic and packaging sector.
+Circularity/Recycling;Waste Reduction;+;3;Implementing circularity and recycling targets can lead to significant reductions in waste, supporting waste reduction efforts.
+Circularity/Recycling - Municipal Waste;Waste Reduction - Municipal Waste;+;2;Implementing circularity and recycling targets in the municipal waste sector can lead to significant reductions in municipal waste, supporting waste reduction efforts.
+Circularity/Recycling - Textile Waste;Waste Reduction - Municipal Waste;+;1;Implementing circularity and recycling targets in the textile waste sector can lead to increased adoption of waste reduction practices in the municipal waste sector.
+Circularity/Recycling - Plastic & Packaging;Waste Reduction - Plastic & Packaging;+;2;Implementing circularity and recycling targets in the plastic and packaging sector can lead to significant reductions in plastic waste, supporting waste reduction efforts.
+Circularity/Recycling - Vehicle Circularity;Waste Reduction;+;1;Implementing circularity and recycling targets in the vehicle sector can lead to increased adoption of waste reduction practices.
+Circularity/Recycling - Critical Raw Materials - Batteries Recycling;Waste Reduction;+;2;Implementing circularity and recycling targets for critical raw materials can lead to significant reductions in waste, supporting waste reduction efforts.
+Critical Raw Materials - Extraction & Import;Net-Zero Technology - Manufacturing;+;1;Implementing critical raw material extraction and import targets can lead to increased adoption of net-zero technology manufacturing.

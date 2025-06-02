@@ -1,0 +1,358 @@
+{
+  "nodes": [
+    {
+      "id": "ed3658b62f6f4631",
+      "type": "group",
+      "styleAttributes": {
+        "border": null
+      },
+      "x": -1049,
+      "y": -786,
+      "width": 4169,
+      "height": 1826,
+      "label": "TA1_Climate Ambition"
+    },
+    {
+      "id": "0ab84a5652cb3984",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.11.md",
+      "styleAttributes": {},
+      "x": -221,
+      "y": -318,
+      "width": 458,
+      "height": 433,
+      "color": "2"
+    },
+    {
+      "id": "f045aa9209d1b1d3",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.15.md",
+      "styleAttributes": {},
+      "x": 1880,
+      "y": -350,
+      "width": 424,
+      "height": 400
+    },
+    {
+      "id": "0309844a678b9748",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.4.md",
+      "styleAttributes": {},
+      "x": -983,
+      "y": -508,
+      "width": 375,
+      "height": 290,
+      "color": "#ffffff"
+    },
+    {
+      "id": "92ea400c378bea5f",
+      "type": "text",
+      "text": "# RESILIENCE ",
+      "styleAttributes": {},
+      "x": -874,
+      "y": -598,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "f51ec38e35e1258a",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.9.md",
+      "styleAttributes": {},
+      "x": -744,
+      "y": 105,
+      "width": 449,
+      "height": 366,
+      "color": "4"
+    },
+    {
+      "id": "0e00987b6fd6aede",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.14.md",
+      "styleAttributes": {},
+      "x": 2442,
+      "y": -4,
+      "width": 547,
+      "height": 399,
+      "color": "2"
+    },
+    {
+      "id": "74ee9b796b74b771",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.12.md",
+      "styleAttributes": {},
+      "x": 2448,
+      "y": -351,
+      "width": 529,
+      "height": 271,
+      "color": "1"
+    },
+    {
+      "id": "1e1522edfcf9ccb5",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.1-3.md",
+      "styleAttributes": {},
+      "x": 529,
+      "y": -682,
+      "width": 368,
+      "height": 260,
+      "color": "2"
+    },
+    {
+      "id": "8baef804e093fa58",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.13.md",
+      "styleAttributes": {},
+      "x": 2440,
+      "y": 477,
+      "width": 549,
+      "height": 417,
+      "color": "2"
+    },
+    {
+      "id": "cbdb03a591be5c04",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.8.md",
+      "styleAttributes": {},
+      "x": 1880,
+      "y": 77,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f3dfbe69a43af8ec",
+      "type": "text",
+      "text": "# REDUCTION ",
+      "styleAttributes": {},
+      "x": 594,
+      "y": -759,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "d58631818da7fe0d",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.7.md",
+      "styleAttributes": {},
+      "x": 1080,
+      "y": 115,
+      "width": 460,
+      "height": 227,
+      "color": "2"
+    },
+    {
+      "id": "77fd8fbd1732ec1d",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.16.md",
+      "styleAttributes": {},
+      "x": 1110,
+      "y": 494,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0779c723ff318013",
+      "type": "text",
+      "text": "# REMOVAL ",
+      "styleAttributes": {},
+      "x": 2518,
+      "y": -422,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "fbf655ef22da9564",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.5.md",
+      "styleAttributes": {},
+      "x": -995,
+      "y": 721,
+      "width": 240,
+      "height": 100,
+      "color": "#ffffff"
+    },
+    {
+      "id": "bdea7e468d216738",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.6.md",
+      "styleAttributes": {},
+      "x": -965,
+      "y": 861,
+      "width": 180,
+      "height": 100
+    },
+    {
+      "id": "aac45ba92e659f14",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.23.md",
+      "styleAttributes": {},
+      "x": 460,
+      "y": 115,
+      "width": 529,
+      "height": 356,
+      "color": "2"
+    },
+    {
+      "id": "1976586af2212ce9",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.10.md",
+      "styleAttributes": {},
+      "x": -260,
+      "y": 536,
+      "width": 536,
+      "height": 470
+    }
+  ],
+  "edges": [
+    {
+      "id": "6f182a5bf128dab7",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "aac45ba92e659f14",
+      "fromSide": "top",
+      "toNode": "1e1522edfcf9ccb5",
+      "toSide": "bottom"
+    },
+    {
+      "id": "566d7b1f8d732946",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "aac45ba92e659f14",
+      "fromSide": "top",
+      "toNode": "0ab84a5652cb3984",
+      "toSide": "right"
+    },
+    {
+      "id": "fc3fb4d62a1133d6",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "f51ec38e35e1258a",
+      "fromSide": "right",
+      "toNode": "aac45ba92e659f14",
+      "toSide": "left"
+    },
+    {
+      "id": "f99bf1d04c7ee437",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "1976586af2212ce9",
+      "fromSide": "right",
+      "toNode": "aac45ba92e659f14",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6f5d7ac1ef9764b6",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "0ab84a5652cb3984",
+      "fromSide": "top",
+      "toNode": "1e1522edfcf9ccb5",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8964725527ed0de1",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "1976586af2212ce9",
+      "fromSide": "top",
+      "toNode": "0ab84a5652cb3984",
+      "toSide": "bottom"
+    },
+    {
+      "id": "80b82f649361fccc",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "74ee9b796b74b771",
+      "fromSide": "top",
+      "toNode": "1e1522edfcf9ccb5",
+      "toSide": "bottom"
+    },
+    {
+      "id": "1b97c3d42e7fdd84",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "f51ec38e35e1258a",
+      "fromSide": "top",
+      "toNode": "1e1522edfcf9ccb5",
+      "toSide": "left"
+    },
+    {
+      "id": "bf396131c5624bac",
+      "fromNode": "8baef804e093fa58",
+      "fromSide": "top",
+      "toNode": "0e00987b6fd6aede",
+      "toSide": "bottom"
+    },
+    {
+      "id": "30ccf0013578558d",
+      "fromNode": "0e00987b6fd6aede",
+      "fromSide": "top",
+      "toNode": "74ee9b796b74b771",
+      "toSide": "bottom"
+    },
+    {
+      "id": "0613a9087496c661",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "fromNode": "fbf655ef22da9564",
+      "fromSide": "right",
+      "toNode": "1976586af2212ce9",
+      "toSide": "left"
+    },
+    {
+      "id": "5601225af77ae6dd",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "fromNode": "fbf655ef22da9564",
+      "fromSide": "top",
+      "toNode": "f51ec38e35e1258a",
+      "toSide": "left"
+    },
+    {
+      "id": "d11ae18617b6c007",
+      "styleAttributes": {},
+      "fromNode": "d58631818da7fe0d",
+      "fromSide": "top",
+      "toNode": "1e1522edfcf9ccb5",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6dbff6fd918d4f58",
+      "styleAttributes": {},
+      "fromNode": "cbdb03a591be5c04",
+      "fromSide": "left",
+      "toNode": "1e1522edfcf9ccb5",
+      "toSide": "right"
+    },
+    {
+      "id": "4c4761cc9b2a869c",
+      "styleAttributes": {},
+      "fromNode": "77fd8fbd1732ec1d",
+      "fromSide": "top",
+      "toNode": "d58631818da7fe0d",
+      "toSide": "bottom"
+    },
+    {
+      "id": "1d9ecdcb7bd04ed5",
+      "styleAttributes": {},
+      "fromNode": "f045aa9209d1b1d3",
+      "fromSide": "left",
+      "toNode": "1e1522edfcf9ccb5",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {}
+}

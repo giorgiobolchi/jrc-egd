@@ -1,0 +1,12 @@
+---
+files:
+  - "[[TA7.2]]"
+---
+## The obligation to set up urban wastewater collecting systems is extended to all agglomerations with a p.e. of 1.000 or more and all source of urban wastewater should be connected to them
+
+thematic area: #TA6_Preserving_and_protecting_biodiversity
+
+Tags: #green
+
+links:
+  - "[[TA7.2]]"

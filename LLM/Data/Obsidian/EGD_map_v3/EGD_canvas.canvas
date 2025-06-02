@@ -1,0 +1,2688 @@
+{
+  "nodes": [
+    {
+      "id": "0157f6e1915199fc",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1760,
+      "y": 9920,
+      "width": 9260,
+      "height": 5280,
+      "label": "TA6_Preserving and protecting biodiversity"
+    },
+    {
+      "id": "d5f043775837b62f",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -8260,
+      "y": 1660,
+      "width": 6385,
+      "height": 6610,
+      "label": "TA4_Sustainable and smart mobility"
+    },
+    {
+      "id": "62942e475a78dd3f",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1760,
+      "y": 3360,
+      "width": 6735,
+      "height": 6240,
+      "label": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy"
+    },
+    {
+      "id": "8560019a81bca38c",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -8240,
+      "y": 8480,
+      "width": 6365,
+      "height": 5480,
+      "label": "TA7_Towards a zero-pollution ambition for a toxic free environment"
+    },
+    {
+      "id": "c5ea1b8468d3c9da",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1760,
+      "y": -2201,
+      "width": 7160,
+      "height": 4870,
+      "label": "TA3_Industrial strategy for a clean and circular economy"
+    },
+    {
+      "id": "5dfe05bc886701ea",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -8480,
+      "y": -1920,
+      "width": 5718,
+      "height": 3345,
+      "label": "TA2_Clean, affordable and secure energy"
+    },
+    {
+      "id": "4b8157c4f212e215",
+      "type": "group",
+      "styleAttributes": {
+        "border": null
+      },
+      "x": -1920,
+      "y": -3680,
+      "width": 2439,
+      "height": 1479,
+      "label": "TA1_Climate Ambition"
+    },
+    {
+      "id": "48d9cb1120ea0ee7",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.28.md",
+      "styleAttributes": {},
+      "x": 5340,
+      "y": 14120,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a8608fe7daee38ff",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.42.md",
+      "styleAttributes": {},
+      "x": 6110,
+      "y": 14437,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "24a2d8faf21dcc1f",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.60.md",
+      "styleAttributes": {},
+      "x": 8630,
+      "y": 14370,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c909da406dfd747e",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.57.md",
+      "styleAttributes": {},
+      "x": 8360,
+      "y": 14370,
+      "width": 220,
+      "height": 400
+    },
+    {
+      "id": "95c37bff5ce0badc",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.36.md",
+      "styleAttributes": {},
+      "x": -6760,
+      "y": 5960,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1ab4e1b79f72033a",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.56.md",
+      "styleAttributes": {},
+      "x": -6760,
+      "y": 4630,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0a37c27801f376b3",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.10.md",
+      "styleAttributes": {},
+      "x": -7200,
+      "y": 4630,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "77aecda05282c863",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.8.md",
+      "styleAttributes": {},
+      "x": -7000,
+      "y": 3470,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1246577ab9a69d6e",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.3.md",
+      "styleAttributes": {},
+      "x": -7000,
+      "y": 3010,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "713ae0813b903b80",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.14.md",
+      "styleAttributes": {},
+      "x": -7200,
+      "y": 5510,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f80bcb5fc751c077",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.45.md",
+      "styleAttributes": {},
+      "x": -7200,
+      "y": 5070,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "173e39aff7542937",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.57.md",
+      "styleAttributes": {},
+      "x": -6760,
+      "y": 5070,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7bfb5c7f2687ed9a",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.58.md",
+      "styleAttributes": {},
+      "x": -6760,
+      "y": 5510,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "88f065d31a6cec5c",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.4.md",
+      "styleAttributes": {},
+      "x": -7800,
+      "y": 3970,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f66e03357874929e",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.53.md",
+      "styleAttributes": {},
+      "x": -7270,
+      "y": 7840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d8e2d4cc38437f5a",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.50.md",
+      "styleAttributes": {},
+      "x": -7760,
+      "y": 7840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f061490ae9123c66",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.31.md",
+      "styleAttributes": {},
+      "x": -7600,
+      "y": 3510,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c1209d493ffade7e",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.30.md",
+      "styleAttributes": {},
+      "x": -7600,
+      "y": 3010,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fdfb875d469c4d02",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.23.md",
+      "styleAttributes": {},
+      "x": -8240,
+      "y": 3970,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "03e3b705e7b5da07",
+      "type": "text",
+      "text": "# MARITIME TRANSPORT",
+      "styleAttributes": {},
+      "x": -6930,
+      "y": 2810,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "846ed5c784e93cd2",
+      "type": "text",
+      "text": "# HYDROGEN",
+      "styleAttributes": {},
+      "x": -7530,
+      "y": 2810,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "711c1268201efbd9",
+      "type": "text",
+      "text": "# AVIATION",
+      "styleAttributes": {},
+      "x": -6410,
+      "y": 2810,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "4d10d6a15424ff64",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.6.md",
+      "styleAttributes": {},
+      "x": -6480,
+      "y": 3570,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6ebd04a7ca239633",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.5.md",
+      "styleAttributes": {},
+      "x": -6480,
+      "y": 3010,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8d3f48828263e589",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.33.md",
+      "styleAttributes": {},
+      "x": 9790,
+      "y": 10480,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "635d5a08932b74a6",
+      "type": "text",
+      "text": "# FOREST BIOECONOMY",
+      "styleAttributes": {},
+      "x": 8500,
+      "y": 13520,
+      "width": 420,
+      "height": 120,
+      "color": "5"
+    },
+    {
+      "id": "d4916e2b3228ebff",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.48.md",
+      "styleAttributes": {},
+      "x": 7360,
+      "y": 13160,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9f637866c924bba8",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.15.md",
+      "styleAttributes": {},
+      "x": 6850,
+      "y": 12720,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d5997c00b6bde4ec",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.27.md",
+      "styleAttributes": {},
+      "x": 5340,
+      "y": 13720,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "bb5d2619658f60ec",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.54.md",
+      "styleAttributes": {},
+      "x": 8160,
+      "y": 13670,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6a6de122ce0738d7",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.49.md",
+      "styleAttributes": {},
+      "x": 6850,
+      "y": 13560,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "10ed4f0d12ae1e12",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.10.md",
+      "styleAttributes": {},
+      "x": 6850,
+      "y": 13160,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b9c927ae08a9146f",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.13.md",
+      "styleAttributes": {},
+      "x": 9070,
+      "y": 12000,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1d8ee663a608dd1e",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.63.md",
+      "styleAttributes": {},
+      "x": 8560,
+      "y": 12040,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "bcf8836bd1ccc5b1",
+      "type": "text",
+      "text": "# SEA",
+      "styleAttributes": {},
+      "x": 9790,
+      "y": 10080,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "bd602f02049021e9",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.21.md",
+      "styleAttributes": {},
+      "x": 8560,
+      "y": 12560,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fe64d4d41e41f56f",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.43.md",
+      "styleAttributes": {},
+      "x": 7320,
+      "y": 12280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f84fc3bcd0ee92d8",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.36.md",
+      "styleAttributes": {},
+      "x": 9340,
+      "y": 10480,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3d67855200683823",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.35.md",
+      "styleAttributes": {},
+      "x": 8900,
+      "y": 10480,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1cceac8fca6a1678",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.55.md",
+      "styleAttributes": {},
+      "x": 9030,
+      "y": 13670,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6070d65400d42f0b",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.56.md",
+      "styleAttributes": {},
+      "x": 8580,
+      "y": 13670,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2f893935c6afd552",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.14.md",
+      "styleAttributes": {},
+      "x": 9990,
+      "y": 12080,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "51dcbc18072d9348",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.45.md",
+      "styleAttributes": {},
+      "x": 9990,
+      "y": 11000,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "01ade5faa2b893b4",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.44.md",
+      "styleAttributes": {},
+      "x": 9990,
+      "y": 11500,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "04b342dfc20688ec",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.12.md",
+      "styleAttributes": {},
+      "x": 8560,
+      "y": 11600,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4822a9f9a1bc60ac",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.38.md",
+      "styleAttributes": {},
+      "x": 9070,
+      "y": 11580,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e1ddb08fd10690d4",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.34.md",
+      "styleAttributes": {},
+      "x": 9240,
+      "y": 11120,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "44862900b729a03a",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.32.md",
+      "styleAttributes": {},
+      "x": 8571,
+      "y": 11095,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e8abb0d9f22d6c9e",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.5.md",
+      "styleAttributes": {},
+      "x": -6500,
+      "y": 10120,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ed94c6901f518c28",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.9.md",
+      "styleAttributes": {},
+      "x": 6850,
+      "y": 12280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0d1a73eff4272cb4",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.17.md",
+      "styleAttributes": {},
+      "x": 5060,
+      "y": 12470,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "69992f15256606fe",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.26.md",
+      "styleAttributes": {},
+      "x": 5340,
+      "y": 13320,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e747885473a354f4",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.18.md",
+      "styleAttributes": {},
+      "x": 5340,
+      "y": 12920,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2680374c3461f5e8",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.62.md",
+      "styleAttributes": {},
+      "x": 4480,
+      "y": 12400,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1df1ec3aba9df12a",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.16.md",
+      "styleAttributes": {},
+      "x": -6960,
+      "y": 9680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "27ccf6436a0136fc",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.22.md",
+      "styleAttributes": {},
+      "x": -6960,
+      "y": 10120,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "18907d8dda6d4fc9",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.13.md",
+      "styleAttributes": {},
+      "x": -6500,
+      "y": 9680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c0f73ab5ba395965",
+      "type": "text",
+      "text": "# BIODIVERSITY",
+      "styleAttributes": {},
+      "x": -7680,
+      "y": 9520,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "86df0bf6d2b28a09",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.21.md",
+      "styleAttributes": {},
+      "x": -7750,
+      "y": 9680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "dca8ebca4d05c723",
+      "type": "text",
+      "text": "# AIR",
+      "styleAttributes": {},
+      "x": -6820,
+      "y": 9520,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "b6b1997ad6a72ea2",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.8.md",
+      "styleAttributes": {},
+      "x": 5820,
+      "y": 7860,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "d7d650a528cd41d6",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.6.md",
+      "styleAttributes": {},
+      "x": 6260,
+      "y": 7860,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "1c2780db1b802af0",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.3.md",
+      "styleAttributes": {},
+      "x": 7220,
+      "y": 7860,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "f6f40f0ee3e8025c",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.2.md",
+      "styleAttributes": {},
+      "x": 7660,
+      "y": 7860,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "1331fabbaff9ae19",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.8.md",
+      "styleAttributes": {},
+      "x": 6572,
+      "y": 10820,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e39d4a44c02113ad",
+      "type": "text",
+      "text": "# RESTORATION",
+      "styleAttributes": {},
+      "x": 6914,
+      "y": 9980,
+      "width": 2766,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "598e2e62ccd6eea3",
+      "type": "text",
+      "text": "# LAND & FRESHWATER",
+      "styleAttributes": {},
+      "x": 7840,
+      "y": 10080,
+      "width": 1840,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "164be8aaecc668f6",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.9.md",
+      "styleAttributes": {},
+      "x": 6740,
+      "y": 9060,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "95477afd8204b67a",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.4.md",
+      "styleAttributes": {},
+      "x": 6300,
+      "y": 9060,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "3f34c0c93b79b371",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.5.md",
+      "styleAttributes": {},
+      "x": 7180,
+      "y": 9060,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "bc7df5f65c5a2925",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.37.md",
+      "styleAttributes": {},
+      "x": 6080,
+      "y": 10980,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a1cb8e4a629898e5",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.7.md",
+      "styleAttributes": {},
+      "x": 7280,
+      "y": 10140,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "981934d9afc56ce6",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.51.md",
+      "styleAttributes": {},
+      "x": 7930,
+      "y": 11380,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c965f058373e1fc1",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.52.md",
+      "styleAttributes": {},
+      "x": 7930,
+      "y": 11840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f42faaa582a3f217",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.50.md",
+      "styleAttributes": {},
+      "x": 7320,
+      "y": 11320,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2e5baa1fe41d77e3",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.59.md",
+      "styleAttributes": {},
+      "x": 7930,
+      "y": 10920,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1d6820b622e99383",
+      "type": "text",
+      "text": "# FORESTS",
+      "styleAttributes": {},
+      "x": 8000,
+      "y": 10760,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "fbbd33cd12297462",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.47.md",
+      "styleAttributes": {},
+      "x": 6650,
+      "y": 11790,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b14ef2a97277b007",
+      "type": "text",
+      "text": "#  MONITORING ",
+      "styleAttributes": {},
+      "x": 5806,
+      "y": 10340,
+      "width": 332,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "a00218a72022b712",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.5.md",
+      "styleAttributes": {},
+      "x": 5772,
+      "y": 10400,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "156d029b32c518ba",
+      "type": "text",
+      "text": "# AGRICULTURE",
+      "styleAttributes": {},
+      "x": 7060,
+      "y": 11800,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "c537863a92c2f041",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.11.md",
+      "styleAttributes": {},
+      "x": 7320,
+      "y": 10880,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5849c16e25361b9c",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.11.md",
+      "styleAttributes": {},
+      "x": -4170,
+      "y": 10120,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7953c6c67691755d",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.17.md",
+      "styleAttributes": {},
+      "x": -3550,
+      "y": 9680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3a7198fc911668ac",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.19.md",
+      "styleAttributes": {},
+      "x": -4170,
+      "y": 10560,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1aee4e1b5684ad17",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.12.md",
+      "styleAttributes": {},
+      "x": -4640,
+      "y": 10560,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c3a97b813cdb8d8f",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.10.md",
+      "styleAttributes": {},
+      "x": -4640,
+      "y": 10120,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f1ef2af1e7cecc08",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.20.md",
+      "styleAttributes": {},
+      "x": -4640,
+      "y": 9680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "63e4205208c542b2",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.4.md",
+      "styleAttributes": {},
+      "x": -5480,
+      "y": 9680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "07391b6ff933f704",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.1.md",
+      "styleAttributes": {},
+      "x": -5910,
+      "y": 9680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "42752c841a528091",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.46.md",
+      "styleAttributes": {},
+      "x": 6080,
+      "y": 11380,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7b06c7e4b4606411",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.2.md",
+      "styleAttributes": {},
+      "x": 5280,
+      "y": 11020,
+      "width": 380,
+      "height": 400
+    },
+    {
+      "id": "ecc704039180e2a1",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.39.md",
+      "styleAttributes": {},
+      "x": 2070,
+      "y": 11590,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4906d3eef3c3ffc7",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.41.md",
+      "styleAttributes": {},
+      "x": 2070,
+      "y": 12070,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7392b5384ec18918",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.40.md",
+      "styleAttributes": {},
+      "x": 2550,
+      "y": 11590,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0c33d359157dc388",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.4.md",
+      "styleAttributes": {},
+      "x": 4480,
+      "y": 11650,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ef2e788bbc13a977",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.58.md",
+      "styleAttributes": {},
+      "x": 4910,
+      "y": 11650,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "51de87794321a318",
+      "type": "text",
+      "text": "# URBAN ",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": 10950,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "fd955e06e1b71ae5",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.16.md",
+      "styleAttributes": {},
+      "x": 2310,
+      "y": 11070,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "35cfbcef6645a2fd",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.2.md",
+      "styleAttributes": {},
+      "x": -5910,
+      "y": 10120,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7621bc478e900ab9",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.24.md",
+      "styleAttributes": {},
+      "x": -5910,
+      "y": 11000,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b29abcfa3ff43d72",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.14.md",
+      "styleAttributes": {},
+      "x": -5910,
+      "y": 10560,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6360bd19de46f3bc",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.7.md",
+      "styleAttributes": {},
+      "x": -5480,
+      "y": 10120,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c2aaa39eda3e59e9",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.23.md",
+      "styleAttributes": {},
+      "x": -5480,
+      "y": 10560,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "09f2965beaa10d9a",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.3.md",
+      "styleAttributes": {},
+      "x": 5060,
+      "y": 10390,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b2e4f3698d31b322",
+      "type": "text",
+      "text": "# WATER",
+      "styleAttributes": {},
+      "x": -5840,
+      "y": 9520,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "e078fa9b6784c76f",
+      "type": "text",
+      "text": "# PROTECTION  & CONSERVATION",
+      "styleAttributes": {},
+      "x": 4800,
+      "y": 10200,
+      "width": 1720,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "e2870ff059eab99d",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.1.md",
+      "styleAttributes": {},
+      "x": 4820,
+      "y": 11020,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5f75e0b34a31eb6a",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.10.md",
+      "styleAttributes": {},
+      "x": 5540,
+      "y": 5680,
+      "width": 400,
+      "height": 360,
+      "color": "1"
+    },
+    {
+      "id": "6d6423a22c5409fd",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.34.md",
+      "styleAttributes": {},
+      "x": 5580,
+      "y": 4460,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "6f69328b0cf5fbb7",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.7.md",
+      "styleAttributes": {},
+      "x": 5060,
+      "y": 4460,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "7b596fd2ba01ae93",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.22.md",
+      "styleAttributes": {},
+      "x": 4920,
+      "y": 5020,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "1facf4a819f245f7",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.31.md",
+      "styleAttributes": {},
+      "x": 4660,
+      "y": 5640,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3020ffd509081810",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.18.md",
+      "styleAttributes": {},
+      "x": 2660,
+      "y": 4980,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "d0264d77751279f2",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.23.md",
+      "styleAttributes": {},
+      "x": 2140,
+      "y": 4340,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "77401509cc9b0ad6",
+      "type": "text",
+      "text": "# NOISE",
+      "styleAttributes": {},
+      "x": -3480,
+      "y": 9520,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "1fab27e07d638914",
+      "type": "text",
+      "text": "# SOILS",
+      "styleAttributes": {},
+      "x": -4640,
+      "y": 9520,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "e7bdb55eff15ad37",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.3.md",
+      "styleAttributes": {},
+      "x": -6160,
+      "y": 8800,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d488b9089b453b5c",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.33.md",
+      "styleAttributes": {},
+      "x": -2495,
+      "y": 6450,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "562d80d2a6d6591e",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.30.md",
+      "styleAttributes": {},
+      "x": 6500,
+      "y": 5020,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "243c2f6a5cd94be1",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.32.md",
+      "styleAttributes": {},
+      "x": 6500,
+      "y": 4460,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "8ad9e564928515e1",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.29.md",
+      "styleAttributes": {},
+      "x": 5940,
+      "y": 5020,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "6b843d1720febbe2",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.35.md",
+      "styleAttributes": {},
+      "x": 6500,
+      "y": 6620,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "8c86214f3c1f5873",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.12.md",
+      "styleAttributes": {},
+      "x": 6300,
+      "y": 7260,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "c3264bdb7b24abda",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.11.md",
+      "styleAttributes": {},
+      "x": 6740,
+      "y": 7260,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "7c3644c3dd8e9294",
+      "type": "text",
+      "text": "# FOOD AVAILABILITY ",
+      "styleAttributes": {},
+      "x": 6080,
+      "y": 4680,
+      "width": 260,
+      "height": 120,
+      "color": "5"
+    },
+    {
+      "id": "4938503de8eab0fa",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.21.md",
+      "styleAttributes": {},
+      "x": 3800,
+      "y": 4980,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "a2ddc3e867db48dd",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.16.md",
+      "styleAttributes": {},
+      "x": 3340,
+      "y": 4980,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "afa7b2fe2d0bcd1e",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.32.md",
+      "styleAttributes": {},
+      "x": -2495,
+      "y": 6890,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "05f794676ca3bae3",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.27.md",
+      "styleAttributes": {},
+      "x": -2495,
+      "y": 7770,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6b45bc60a0f013cc",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.27.md",
+      "styleAttributes": {},
+      "x": -2495,
+      "y": 7330,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "000a5b17c25c55d3",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.28.md",
+      "styleAttributes": {},
+      "x": -3936,
+      "y": 3360,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "54100e5815b1852c",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.26.md",
+      "styleAttributes": {},
+      "x": -3496,
+      "y": 2910,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "f6fff05d27789c6f",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.29.md",
+      "styleAttributes": {},
+      "x": -3496,
+      "y": 3360,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "24da4865398c497d",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.54.md",
+      "styleAttributes": {},
+      "x": -2295,
+      "y": 4270,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ae6b8c026cb6bb1b",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.46.md",
+      "styleAttributes": {},
+      "x": -6040,
+      "y": 4030,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "77550bf52f4861d4",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.25.md",
+      "styleAttributes": {},
+      "x": -3936,
+      "y": 2910,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "791da488947832c0",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.40.md",
+      "styleAttributes": {},
+      "x": -2906,
+      "y": 4270,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f755d443368ac5be",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.16.md",
+      "styleAttributes": {},
+      "x": -3936,
+      "y": 4270,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a416bf2335eb32ff",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.47.md",
+      "styleAttributes": {},
+      "x": -3936,
+      "y": 3820,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c495f2eada0b968c",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.39.md",
+      "styleAttributes": {},
+      "x": -2895,
+      "y": 5560,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5ede6efc26b3b03f",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.34.md",
+      "styleAttributes": {},
+      "x": -2495,
+      "y": 6010,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4fc9f22907e88bc3",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.15.md",
+      "styleAttributes": {},
+      "x": -3496,
+      "y": 4270,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "04a4387a0635efc8",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.44.md",
+      "styleAttributes": {},
+      "x": -3496,
+      "y": 3820,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ea5612d11116e740",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.31.md",
+      "styleAttributes": {},
+      "x": -3936,
+      "y": 4710,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "602abd8180a5a750",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.22.md",
+      "styleAttributes": {},
+      "x": -3496,
+      "y": 4710,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5d4fbf6edd28d0fa",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.51.md",
+      "styleAttributes": {},
+      "x": -2906,
+      "y": 3820,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "06eaa07adcba4b71",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.37.md",
+      "styleAttributes": {},
+      "x": -2906,
+      "y": 2910,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2192711f378ccdbe",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.38.md",
+      "styleAttributes": {},
+      "x": -5410,
+      "y": 3010,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "40b369e6b9ed6a44",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.19.md",
+      "styleAttributes": {},
+      "x": 6740,
+      "y": 5940,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "18c6b3eef0f242c6",
+      "type": "text",
+      "text": "more sustainable diets (e.g., vegetarian) = more food produced (e.g., land use for edible crops instead of feedstock crops) = more accessible & healthy food",
+      "styleAttributes": {},
+      "x": 6660,
+      "y": 4260,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "9101b99df565bb20",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.13.md",
+      "styleAttributes": {},
+      "x": 7500,
+      "y": 5020,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "8740297429aa863a",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.27.md",
+      "styleAttributes": {},
+      "x": 7180,
+      "y": 5940,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2134b68acab07a6e",
+      "type": "text",
+      "text": "# RAIL",
+      "styleAttributes": {},
+      "x": -5340,
+      "y": 2820,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "d81ff49b269a48df",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.9.md",
+      "styleAttributes": {},
+      "x": -3941,
+      "y": 1670,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "17f71acf040dff1e",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.11.md",
+      "styleAttributes": {},
+      "x": -3096,
+      "y": 1670,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2dba6600efc026cc",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.15.md",
+      "styleAttributes": {},
+      "x": -2636,
+      "y": 1670,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9cc72300cd2acec1",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.43.md",
+      "styleAttributes": {},
+      "x": -3096,
+      "y": 2120,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "74b2ddd9bfcc56a4",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.7.md",
+      "styleAttributes": {},
+      "x": -4655,
+      "y": 2930,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a28cc7a7607cd18b",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.1.md",
+      "styleAttributes": {},
+      "x": -4655,
+      "y": 3390,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "534757672f2e9050",
+      "type": "text",
+      "text": "# BIOFUELS",
+      "styleAttributes": {},
+      "x": -4585,
+      "y": 2760,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "e1c7cd56efbb2a8e",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.20.md",
+      "styleAttributes": {},
+      "x": 2340,
+      "y": 3820,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "3abe59c590880209",
+      "type": "text",
+      "text": "#   LOGISTIC-RELATED",
+      "styleAttributes": {},
+      "x": -2826,
+      "y": 2720,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "9b799da973c098ca",
+      "type": "text",
+      "text": "#  VEHICLES",
+      "styleAttributes": {},
+      "x": -3576,
+      "y": 2720,
+      "width": 260,
+      "height": 120,
+      "color": "5"
+    },
+    {
+      "id": "88b45418fab8e15f",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.13.md",
+      "styleAttributes": {},
+      "x": -2295,
+      "y": 3360,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "77c850e89f2c6f57",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.30.md",
+      "styleAttributes": {},
+      "x": -2295,
+      "y": 3820,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1e68e23d69456311",
+      "type": "file",
+      "file": "TA4_Sustainable and smart mobility/TA4.55.md",
+      "styleAttributes": {},
+      "x": -2295,
+      "y": 2910,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d30706739878064f",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.33.md",
+      "styleAttributes": {},
+      "x": 6020,
+      "y": 3860,
+      "width": 400,
+      "height": 360,
+      "color": "2"
+    },
+    {
+      "id": "02f1f3283c0fca03",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.15.md",
+      "styleAttributes": {},
+      "x": 5060,
+      "y": 3820,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "c19afa40d774dabb",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.25.md",
+      "styleAttributes": {},
+      "x": 4560,
+      "y": 3820,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d7a939ecd2f55fbc",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.24.md",
+      "styleAttributes": {},
+      "x": 3980,
+      "y": 3820,
+      "width": 440,
+      "height": 400
+    },
+    {
+      "id": "3fdd5f9e6c423584",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.14.md",
+      "styleAttributes": {},
+      "x": 3340,
+      "y": 3820,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d5ab25c41a642293",
+      "type": "text",
+      "text": "# FOOD ECONOMICS",
+      "styleAttributes": {},
+      "x": 2410,
+      "y": 3600,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e8cb84abd6512320",
+      "styleAttributes": {},
+      "fromNode": "c537863a92c2f041",
+      "fromSide": "left",
+      "toNode": "a1cb8e4a629898e5",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e34a6f0d242e09f2",
+      "styleAttributes": {},
+      "fromNode": "1331fabbaff9ae19",
+      "fromSide": "right",
+      "toNode": "a1cb8e4a629898e5",
+      "toSide": "left"
+    },
+    {
+      "id": "11e1c7c912ea3eff",
+      "styleAttributes": {},
+      "fromNode": "e747885473a354f4",
+      "fromSide": "left",
+      "toNode": "0d1a73eff4272cb4",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a1cbc19a21ef3117",
+      "styleAttributes": {},
+      "fromNode": "69992f15256606fe",
+      "fromSide": "left",
+      "toNode": "0d1a73eff4272cb4",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c64f977e20602bd8",
+      "styleAttributes": {},
+      "fromNode": "d5997c00b6bde4ec",
+      "fromSide": "left",
+      "toNode": "0d1a73eff4272cb4",
+      "toSide": "bottom"
+    },
+    {
+      "id": "711c80d2c73276b3",
+      "styleAttributes": {},
+      "fromNode": "48d9cb1120ea0ee7",
+      "fromSide": "left",
+      "toNode": "0d1a73eff4272cb4",
+      "toSide": "bottom"
+    },
+    {
+      "id": "082b0312fabd6dbf",
+      "styleAttributes": {},
+      "fromNode": "04b342dfc20688ec",
+      "fromSide": "left",
+      "toNode": "44862900b729a03a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d586f3f3a8bd34d0",
+      "styleAttributes": {},
+      "fromNode": "b9c927ae08a9146f",
+      "fromSide": "left",
+      "toNode": "e1ddb08fd10690d4",
+      "toSide": "bottom"
+    },
+    {
+      "id": "18f82f7d0560f1db",
+      "styleAttributes": {},
+      "fromNode": "e1ddb08fd10690d4",
+      "fromSide": "top",
+      "toNode": "3d67855200683823",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f48e0da590b3801f",
+      "styleAttributes": {},
+      "fromNode": "e1ddb08fd10690d4",
+      "fromSide": "top",
+      "toNode": "f84fc3bcd0ee92d8",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e8d0a312615cc373",
+      "styleAttributes": {},
+      "fromNode": "4822a9f9a1bc60ac",
+      "fromSide": "left",
+      "toNode": "e1ddb08fd10690d4",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9da29bec17aa7e02",
+      "styleAttributes": {},
+      "fromNode": "bc7df5f65c5a2925",
+      "fromSide": "left",
+      "toNode": "a00218a72022b712",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6adae2244157160a",
+      "styleAttributes": {},
+      "fromNode": "a8608fe7daee38ff",
+      "fromSide": "left",
+      "toNode": "a00218a72022b712",
+      "toSide": "bottom"
+    },
+    {
+      "id": "cd23a6f0db918714",
+      "styleAttributes": {},
+      "fromNode": "a8608fe7daee38ff",
+      "fromSide": "right",
+      "toNode": "b9c927ae08a9146f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e85f5ae1d94952c5",
+      "styleAttributes": {},
+      "fromNode": "51dcbc18072d9348",
+      "fromSide": "left",
+      "toNode": "8d3f48828263e589",
+      "toSide": "bottom"
+    },
+    {
+      "id": "543d882b5202d4a5",
+      "styleAttributes": {},
+      "fromNode": "01ade5faa2b893b4",
+      "fromSide": "top",
+      "toNode": "51dcbc18072d9348",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d8e679ebc39e7cac",
+      "styleAttributes": {},
+      "fromNode": "42752c841a528091",
+      "fromSide": "left",
+      "toNode": "a00218a72022b712",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6acd86d6b5c0c93d",
+      "styleAttributes": {},
+      "fromNode": "fbbd33cd12297462",
+      "fromSide": "top",
+      "toNode": "1331fabbaff9ae19",
+      "toSide": "bottom"
+    },
+    {
+      "id": "03d714b26a6394b8",
+      "styleAttributes": {},
+      "fromNode": "fe64d4d41e41f56f",
+      "fromSide": "top",
+      "toNode": "1331fabbaff9ae19",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d11d379e2cd7a841",
+      "styleAttributes": {},
+      "fromNode": "fe64d4d41e41f56f",
+      "fromSide": "top",
+      "toNode": "fbbd33cd12297462",
+      "toSide": "right"
+    },
+    {
+      "id": "bb819447506efec6",
+      "styleAttributes": {},
+      "fromNode": "fe64d4d41e41f56f",
+      "fromSide": "left",
+      "toNode": "ed94c6901f518c28",
+      "toSide": "right"
+    },
+    {
+      "id": "6472681afe0f65ce",
+      "styleAttributes": {},
+      "fromNode": "ed94c6901f518c28",
+      "fromSide": "left",
+      "toNode": "fbbd33cd12297462",
+      "toSide": "bottom"
+    },
+    {
+      "id": "684aa3b2e95c32d4",
+      "styleAttributes": {},
+      "fromNode": "10ed4f0d12ae1e12",
+      "fromSide": "left",
+      "toNode": "fbbd33cd12297462",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b7c0297e56e9add2",
+      "styleAttributes": {},
+      "fromNode": "9f637866c924bba8",
+      "fromSide": "left",
+      "toNode": "fbbd33cd12297462",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b81a177bc7bfd507",
+      "styleAttributes": {},
+      "fromNode": "d4916e2b3228ebff",
+      "fromSide": "left",
+      "toNode": "10ed4f0d12ae1e12",
+      "toSide": "right"
+    },
+    {
+      "id": "ac966f47cf3d29d1",
+      "styleAttributes": {},
+      "fromNode": "6a6de122ce0738d7",
+      "fromSide": "left",
+      "toNode": "fbbd33cd12297462",
+      "toSide": "bottom"
+    },
+    {
+      "id": "89cebdcea07be578",
+      "styleAttributes": {},
+      "fromNode": "f42faaa582a3f217",
+      "fromSide": "top",
+      "toNode": "c537863a92c2f041",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8830dd404c61cf91",
+      "styleAttributes": {},
+      "fromNode": "981934d9afc56ce6",
+      "fromSide": "left",
+      "toNode": "a1cb8e4a629898e5",
+      "toSide": "right"
+    },
+    {
+      "id": "97734501916d748c",
+      "styleAttributes": {},
+      "fromNode": "c965f058373e1fc1",
+      "fromSide": "left",
+      "toNode": "a1cb8e4a629898e5",
+      "toSide": "right"
+    },
+    {
+      "id": "d81afcdae5fc745e",
+      "styleAttributes": {},
+      "fromNode": "c909da406dfd747e",
+      "fromSide": "top",
+      "toNode": "bb5d2619658f60ec",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a02b7951ab731130",
+      "styleAttributes": {},
+      "fromNode": "c909da406dfd747e",
+      "fromSide": "top",
+      "toNode": "6070d65400d42f0b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "06ab37ec633cd572",
+      "styleAttributes": {},
+      "fromNode": "ef2e788bbc13a977",
+      "fromSide": "left",
+      "toNode": "0c33d359157dc388",
+      "toSide": "right"
+    },
+    {
+      "id": "2dd2feb8967a7e3b",
+      "styleAttributes": {},
+      "fromNode": "2e5baa1fe41d77e3",
+      "fromSide": "left",
+      "toNode": "a1cb8e4a629898e5",
+      "toSide": "right"
+    },
+    {
+      "id": "5a2c3976cd9e5dab",
+      "styleAttributes": {},
+      "fromNode": "24a2d8faf21dcc1f",
+      "fromSide": "top",
+      "toNode": "1cceac8fca6a1678",
+      "toSide": "bottom"
+    },
+    {
+      "id": "09d59c3659ff6c18",
+      "styleAttributes": {},
+      "fromNode": "24a2d8faf21dcc1f",
+      "fromSide": "top",
+      "toNode": "bb5d2619658f60ec",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e5308f78ff0b5084",
+      "styleAttributes": {},
+      "fromNode": "1d8ee663a608dd1e",
+      "fromSide": "left",
+      "toNode": "44862900b729a03a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6305f58922649728",
+      "styleAttributes": {},
+      "fromNode": "bd602f02049021e9",
+      "fromSide": "top",
+      "toNode": "1d8ee663a608dd1e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "539e0a46ef983698",
+      "styleAttributes": {},
+      "fromNode": "e2870ff059eab99d",
+      "fromSide": "top",
+      "toNode": "09f2965beaa10d9a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "93b505a5143d61e3",
+      "styleAttributes": {},
+      "fromNode": "0c33d359157dc388",
+      "fromSide": "top",
+      "toNode": "e2870ff059eab99d",
+      "toSide": "bottom"
+    },
+    {
+      "id": "88ede0be17ae0716",
+      "styleAttributes": {},
+      "fromNode": "3d67855200683823",
+      "fromSide": "top",
+      "toNode": "a1cb8e4a629898e5",
+      "toSide": "right"
+    },
+    {
+      "id": "5169d96fbe6da9c6",
+      "styleAttributes": {},
+      "fromNode": "8d3f48828263e589",
+      "fromSide": "top",
+      "toNode": "a1cb8e4a629898e5",
+      "toSide": "right"
+    },
+    {
+      "id": "116d6b1d90caf486",
+      "styleAttributes": {},
+      "fromNode": "7b06c7e4b4606411",
+      "fromSide": "top",
+      "toNode": "09f2965beaa10d9a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e54e127effabddc4",
+      "styleAttributes": {},
+      "fromNode": "44862900b729a03a",
+      "fromSide": "right",
+      "toNode": "e1ddb08fd10690d4",
+      "toSide": "left"
+    },
+    {
+      "id": "16cf9f7dff84794b",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "d30706739878064f",
+      "fromSide": "right",
+      "toNode": "243c2f6a5cd94be1",
+      "toSide": "top",
+      "label": "?"
+    },
+    {
+      "id": "2d1c2b920593bcc0",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "d30706739878064f",
+      "fromSide": "left",
+      "toNode": "6d6423a22c5409fd",
+      "toSide": "top"
+    },
+    {
+      "id": "265a20f132f0a57c",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "562d80d2a6d6591e",
+      "fromSide": "top",
+      "toNode": "243c2f6a5cd94be1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "eda183b5b119c259",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "562d80d2a6d6591e",
+      "fromSide": "left",
+      "toNode": "d30706739878064f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "186e03d2f4e41684",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "d30706739878064f",
+      "fromSide": "left",
+      "toNode": "02f1f3283c0fca03",
+      "toSide": "right"
+    },
+    {
+      "id": "3ca9299ffd606cff",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "40b369e6b9ed6a44",
+      "fromSide": "top",
+      "toNode": "562d80d2a6d6591e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "083ee9b64d1cab3d",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "8ad9e564928515e1",
+      "fromSide": "top",
+      "toNode": "243c2f6a5cd94be1",
+      "toSide": "left"
+    },
+    {
+      "id": "19c4434b48586802",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "6b843d1720febbe2",
+      "fromSide": "top",
+      "toNode": "562d80d2a6d6591e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e6b392d823c69810",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "6b843d1720febbe2",
+      "fromSide": "top",
+      "toNode": "40b369e6b9ed6a44",
+      "toSide": "bottom"
+    },
+    {
+      "id": "214bcf15c10776d5",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "8ad9e564928515e1",
+      "fromSide": "right",
+      "toNode": "562d80d2a6d6591e",
+      "toSide": "left",
+      "fromEnd": "arrow"
+    },
+    {
+      "id": "c3c663a347ce0341",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "6b843d1720febbe2",
+      "fromSide": "top",
+      "toNode": "8ad9e564928515e1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "37b4e87865bd2df8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "8740297429aa863a",
+      "fromSide": "top",
+      "toNode": "d30706739878064f",
+      "toSide": "right"
+    },
+    {
+      "id": "e18d0267e37e4f51",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "6f69328b0cf5fbb7",
+      "fromSide": "top",
+      "toNode": "02f1f3283c0fca03",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b116919ee8d38a85",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "5f75e0b34a31eb6a",
+      "fromSide": "top",
+      "toNode": "6f69328b0cf5fbb7",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ebd513a9feced074",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "5f75e0b34a31eb6a",
+      "fromSide": "top",
+      "toNode": "8ad9e564928515e1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "7e4a2c2cd3ecd201",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "7b596fd2ba01ae93",
+      "fromSide": "top",
+      "toNode": "6f69328b0cf5fbb7",
+      "toSide": "bottom"
+    },
+    {
+      "id": "0f86023a2a10a8a0",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "d7a939ecd2f55fbc",
+      "fromSide": "left",
+      "toNode": "3fdd5f9e6c423584",
+      "toSide": "right"
+    },
+    {
+      "id": "82af4ec80ab001fa",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "8740297429aa863a",
+      "fromSide": "top",
+      "toNode": "8ad9e564928515e1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "cf8f30c3226b99f6",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "8ad9e564928515e1",
+      "fromSide": "top",
+      "toNode": "d30706739878064f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "81542fb8336f5a76",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "d0264d77751279f2",
+      "fromSide": "top",
+      "toNode": "e1c7cd56efbb2a8e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "383d0c18cc009652",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "1facf4a819f245f7",
+      "fromSide": "top",
+      "toNode": "8ad9e564928515e1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "7acdbf4969874aba",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "a2ddc3e867db48dd",
+      "fromSide": "top",
+      "toNode": "3fdd5f9e6c423584",
+      "toSide": "bottom"
+    },
+    {
+      "id": "3a35eec09fffd39d",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "3020ffd509081810",
+      "fromSide": "top",
+      "toNode": "e1c7cd56efbb2a8e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "254867fe8d43d92c",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "3020ffd509081810",
+      "fromSide": "top",
+      "toNode": "3fdd5f9e6c423584",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d4ce2977f15d5595",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "1facf4a819f245f7",
+      "fromSide": "top",
+      "toNode": "3fdd5f9e6c423584",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f636e012652564e8",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "a2ddc3e867db48dd",
+      "fromSide": "left",
+      "toNode": "3020ffd509081810",
+      "toSide": "right"
+    },
+    {
+      "id": "fd1daf1cff03a512",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "d0264d77751279f2",
+      "fromSide": "bottom",
+      "toNode": "3020ffd509081810",
+      "toSide": "left"
+    },
+    {
+      "id": "419294e1dc4774cc",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "c19afa40d774dabb",
+      "fromSide": "top",
+      "toNode": "3fdd5f9e6c423584",
+      "toSide": "top"
+    },
+    {
+      "id": "51a43b4cb70f28f2",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "3fdd5f9e6c423584",
+      "fromSide": "left",
+      "toNode": "e1c7cd56efbb2a8e",
+      "toSide": "right"
+    },
+    {
+      "id": "7a093d4dbfaff6eb",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "3fdd5f9e6c423584",
+      "fromSide": "left",
+      "toNode": "d0264d77751279f2",
+      "toSide": "right"
+    },
+    {
+      "id": "aaad1559816d544d",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "d30706739878064f",
+      "fromSide": "top",
+      "toNode": "c19afa40d774dabb",
+      "toSide": "top"
+    },
+    {
+      "id": "18323deca04debad",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "8c86214f3c1f5873",
+      "fromSide": "top",
+      "toNode": "6b843d1720febbe2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e8822d0645b7fc44",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "c3264bdb7b24abda",
+      "fromSide": "top",
+      "toNode": "6b843d1720febbe2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8c89895bae7a761b",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "b6b1997ad6a72ea2",
+      "fromSide": "top",
+      "toNode": "c3264bdb7b24abda",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b75b1d2c8e16d69e",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "d7d650a528cd41d6",
+      "fromSide": "top",
+      "toNode": "c3264bdb7b24abda",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d18a23f0afb75800",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "9101b99df565bb20",
+      "fromSide": "left",
+      "toNode": "562d80d2a6d6591e",
+      "toSide": "right"
+    },
+    {
+      "id": "c6ae956247828ed0",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "f6f40f0ee3e8025c",
+      "fromSide": "top",
+      "toNode": "c3264bdb7b24abda",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8024392befb34e3a",
+      "styleAttributes": {},
+      "fromNode": "1c2780db1b802af0",
+      "fromSide": "top",
+      "toNode": "c3264bdb7b24abda",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c1ae6b60f9dfc4ce",
+      "styleAttributes": {},
+      "fromNode": "95477afd8204b67a",
+      "fromSide": "top",
+      "toNode": "c3264bdb7b24abda",
+      "toSide": "bottom"
+    },
+    {
+      "id": "7eee4be0048427b7",
+      "styleAttributes": {},
+      "fromNode": "164be8aaecc668f6",
+      "fromSide": "top",
+      "toNode": "c3264bdb7b24abda",
+      "toSide": "bottom"
+    },
+    {
+      "id": "477357177c18db2c",
+      "styleAttributes": {},
+      "fromNode": "3f34c0c93b79b371",
+      "fromSide": "top",
+      "toNode": "c3264bdb7b24abda",
+      "toSide": "bottom"
+    },
+    {
+      "id": "24b7402343c75560",
+      "styleAttributes": {},
+      "fromNode": "4938503de8eab0fa",
+      "fromSide": "top",
+      "toNode": "e1c7cd56efbb2a8e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ffff07ba7cc3f333",
+      "styleAttributes": {},
+      "fromNode": "4938503de8eab0fa",
+      "fromSide": "top",
+      "toNode": "d7a939ecd2f55fbc",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e49181ff208e323a",
+      "styleAttributes": {},
+      "fromNode": "f061490ae9123c66",
+      "fromSide": "top",
+      "toNode": "c1209d493ffade7e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f8951cf71c7dcc4b",
+      "styleAttributes": {},
+      "fromNode": "4d10d6a15424ff64",
+      "fromSide": "top",
+      "toNode": "6ebd04a7ca239633",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a0669ce5f8bd8bec",
+      "styleAttributes": {},
+      "fromNode": "afa7b2fe2d0bcd1e",
+      "fromSide": "left",
+      "toNode": "c495f2eada0b968c",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9459296848fc162a",
+      "styleAttributes": {},
+      "fromNode": "d488b9089b453b5c",
+      "fromSide": "left",
+      "toNode": "c495f2eada0b968c",
+      "toSide": "bottom"
+    },
+    {
+      "id": "0316cfc55b5b3757",
+      "styleAttributes": {},
+      "fromNode": "5ede6efc26b3b03f",
+      "fromSide": "left",
+      "toNode": "c495f2eada0b968c",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9912c147e69baba1",
+      "styleAttributes": {},
+      "fromNode": "6b45bc60a0f013cc",
+      "fromSide": "left",
+      "toNode": "c495f2eada0b968c",
+      "toSide": "bottom"
+    },
+    {
+      "id": "721de57807b6d0ad",
+      "styleAttributes": {},
+      "fromNode": "05f794676ca3bae3",
+      "fromSide": "left",
+      "toNode": "c495f2eada0b968c",
+      "toSide": "bottom"
+    },
+    {
+      "id": "07677037714a2170",
+      "styleAttributes": {},
+      "fromNode": "c495f2eada0b968c",
+      "fromSide": "left",
+      "toNode": "f061490ae9123c66",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}

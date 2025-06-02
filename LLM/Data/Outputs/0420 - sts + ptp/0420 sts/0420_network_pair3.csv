@@ -1,0 +1,26 @@
+source_subtheme;impact_subtheme;impact_type;impact_weight;justification
+GHG Reduction;GHG Reduction - Buildings;+;2;Implementing GHG reduction targets can reinforce the achievement of GHG reduction targets in buildings by promoting energy-efficient practices and reducing emissions from the building sector.
+GHG Reduction;GHG Reduction - Transports;+;2;Implementing GHG reduction targets can reinforce the achievement of GHG reduction targets in transport by promoting low-carbon fuels and reducing emissions from the transport sector.
+GHG Reduction;Food affordability;-;1;Implementing GHG reduction targets may constrain food affordability by increasing costs for low-income households and affecting food security.
+GHG Reduction;Pesticides Reduction;+;1;Implementing GHG reduction targets can enable the reduction of pesticides by promoting sustainable agricultural practices and reducing emissions from agriculture.
+GHG Reduction;Competitive Agriculture;+;1;Implementing GHG reduction targets can enable competitive agriculture by promoting sustainable agricultural practices and reducing emissions from agriculture.
+GHG Reduction;Social Security - Workers Protection;+;1;Implementing GHG reduction targets can enable social security for workers by promoting sustainable employment and reducing emissions from industry.
+GHG Reduction - Buildings;GHG Reduction;-;1;Implementing GHG reduction targets in buildings may constrain overall GHG reduction by limiting the potential for emissions reduction in other sectors.
+GHG Reduction - Transports;Food quality;-;1;Implementing GHG reduction targets in transport may constrain food quality by affecting the production and distribution of food products.
+GHG Reduction - Transports;Food affordability;-;1;Implementing GHG reduction targets in transport may constrain food affordability by increasing costs for low-income households and affecting food security.
+GHG Removal;GHG Reduction;+;3;Implementing GHG removal targets can reinforce the achievement of GHG reduction targets by promoting carbon sequestration and reducing net emissions.
+GHG Removal;Food quality;+;1;Implementing GHG removal targets can enable food quality by promoting sustainable land use and reducing emissions from agriculture.
+GHG Removal;Food affordability;-;1;Implementing GHG removal targets may constrain food affordability by increasing costs for low-income households and affecting food security.
+Food quality;GHG Reduction;+;1;Implementing food quality targets can enable GHG reduction by promoting sustainable agricultural practices and reducing emissions from agriculture.
+Food quality;GHG Reduction - Buildings;+;1;Implementing food quality targets can enable GHG reduction in buildings by promoting sustainable food systems and reducing emissions from the food sector.
+Food quality;Food affordability;-;1;Implementing food quality targets may constrain food affordability by increasing costs for low-income households and affecting food security.
+Food affordability;GHG Reduction;-;1;Implementing food affordability targets may constrain GHG reduction by limiting the potential for emissions reduction in the food sector.
+Food affordability;GHG Reduction - Buildings;-;1;Implementing food affordability targets may constrain GHG reduction in buildings by affecting the production and distribution of food products.
+Pesticides Reduction;GHG Reduction;+;1;Implementing pesticides reduction targets can enable GHG reduction by promoting sustainable agricultural practices and reducing emissions from agriculture.
+Pesticides Reduction;Food quality;+;2;Implementing pesticides reduction targets can enable food quality by reducing the use of harmful pesticides and promoting sustainable agricultural practices.
+Pesticides Reduction;Food affordability;-;1;Implementing pesticides reduction targets may constrain food affordability by increasing costs for low-income households and affecting food security.
+Competitive Agriculture;GHG Reduction;+;1;Implementing competitive agriculture targets can enable GHG reduction by promoting sustainable agricultural practices and reducing emissions from agriculture.
+Competitive Agriculture;Food quality;+;1;Implementing competitive agriculture targets can enable food quality by promoting sustainable agricultural practices and reducing emissions from agriculture.
+Competitive Agriculture;Food affordability;-;1;Implementing competitive agriculture targets may constrain food affordability by increasing costs for low-income households and affecting food security.
+Social Security - Workers Protection;GHG Reduction;+;1;Implementing social security targets can enable GHG reduction by promoting sustainable employment and reducing emissions from industry.
+Social Security - Workers Protection;Food quality;+;1;Implementing social security targets can enable food quality by promoting sustainable food systems and reducing emissions from the food sector.

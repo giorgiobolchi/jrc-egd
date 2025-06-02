@@ -1,4 +1,11 @@
 
+# This script is used to interact with the GPT@JRC API. 
+# It includes functions to send requests to the API, handle responses, and manage token usage.
+
+# Important: set the right path to the token file in the token_dir variable !
+
+
+
 # Load libraries
 import openai
 from openai import OpenAI
@@ -7,7 +14,10 @@ import time
 import tiktoken
 
 
+# Set the path to the token file
 token_dir = '/Users/giorgiobolchi2/Documents/GitHub/jrc-egd/LLM/Code/token.txt'
+
+
 
 # Set API token
 with open(token_dir, "r") as tf:

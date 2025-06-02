@@ -1,0 +1,13 @@
+---
+files:
+  - "[[TA6.54]]"
+  - "[[TA6.56]]"
+  - "[[TA6.59]]"
+---
+## Developing skills and empowering people for sustainable forest-based bioeconomy
+
+Thematic area: #TA6_Preserving_and_protecting_biodiversity
+
+Assessment: nan
+
+Colour: nan

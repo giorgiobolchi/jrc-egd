@@ -1,0 +1,1296 @@
+{
+  "nodes": [
+    {
+      "id": "77d27f2e89ab1912",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4630,
+      "y": -2639,
+      "width": 9950,
+      "height": 5280,
+      "label": "TA6_Preserving and protecting biodiversity"
+    },
+    {
+      "id": "5264df81999283cb",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4480,
+      "y": -2428,
+      "width": 960,
+      "height": 959,
+      "color": "3",
+      "label": "?"
+    },
+    {
+      "id": "d14eb502a98f246a",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.44.md",
+      "styleAttributes": {},
+      "x": 4630,
+      "y": -948,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "017ee5584ed8d23f",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.7.md",
+      "styleAttributes": {},
+      "x": 1310,
+      "y": -2298,
+      "width": 400,
+      "height": 418
+    },
+    {
+      "id": "5989ef3598b7e41b",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.55.md",
+      "styleAttributes": {},
+      "x": 3460,
+      "y": 937,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f71a191099cb18ad",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.63.md",
+      "styleAttributes": {},
+      "x": 2890,
+      "y": -398,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2d07e33b5dc94e8d",
+      "type": "text",
+      "text": "#  ?",
+      "styleAttributes": {},
+      "x": 3710,
+      "y": -906,
+      "width": 100,
+      "height": 96,
+      "color": "3"
+    },
+    {
+      "id": "6dbe7a24805849a0",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.12.md",
+      "styleAttributes": {},
+      "x": 2890,
+      "y": -858,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "50b95b609c2613da",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.59.md",
+      "styleAttributes": {},
+      "x": 1960,
+      "y": -458,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "ab91c102fe4dda3e",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.8.md",
+      "styleAttributes": {},
+      "x": 1310,
+      "y": -1058,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "c1a2c3a6539f6ccd",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.43.md",
+      "styleAttributes": {},
+      "x": 1310,
+      "y": -598,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "a2455affe2682eb1",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.52.md",
+      "styleAttributes": {},
+      "x": 1960,
+      "y": -1008,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "a6a37cbedb2724dc",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.2.md",
+      "styleAttributes": {},
+      "x": -950,
+      "y": -1408,
+      "width": 380,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "a6fd8d9bf2eb2b94",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.1.md",
+      "styleAttributes": {},
+      "x": -1410,
+      "y": -1408,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "72daefc55b224149",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.62.md",
+      "styleAttributes": {},
+      "x": -2520,
+      "y": -1400,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "20b988c1be3e7a17",
+      "type": "text",
+      "text": "# URBAN ",
+      "styleAttributes": {},
+      "x": -2450,
+      "y": -1548,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "f71e064f57786c7b",
+      "type": "text",
+      "text": "# AGRICULTURE",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -458,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "c105c37a2d23e4ee",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.4.md",
+      "styleAttributes": {},
+      "x": -1840,
+      "y": -758,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "83ae4145be41e72a",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.58.md",
+      "styleAttributes": {},
+      "x": -1410,
+      "y": -758,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "ebb139632add9d08",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.46.md",
+      "styleAttributes": {},
+      "x": -520,
+      "y": -1208,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "1fe124dd28bcadbb",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.13.md",
+      "styleAttributes": {},
+      "x": 3840,
+      "y": -858,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ffed723558de6f89",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.38.md",
+      "styleAttributes": {},
+      "x": 3400,
+      "y": -858,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "944d450cafa5c972",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.39.md",
+      "styleAttributes": {},
+      "x": -2840,
+      "y": -916,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "bae641c734451ec3",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.40.md",
+      "styleAttributes": {},
+      "x": -2840,
+      "y": 2,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "59fd898a07a424dc",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.41.md",
+      "styleAttributes": {},
+      "x": -2840,
+      "y": -466,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7de810aaf2dbb29b",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.45.md",
+      "styleAttributes": {},
+      "x": 4630,
+      "y": -1448,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "1fcb4f3812f3a25f",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.33.md",
+      "styleAttributes": {},
+      "x": 4300,
+      "y": -1968,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "112b532a1f02186a",
+      "type": "text",
+      "text": "#  ?",
+      "styleAttributes": {},
+      "x": 2931,
+      "y": -1421,
+      "width": 100,
+      "height": 96,
+      "color": "3"
+    },
+    {
+      "id": "344b9e0471342f98",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.35.md",
+      "styleAttributes": {},
+      "x": 2631,
+      "y": -1968,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "658d0abca7060d6a",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.36.md",
+      "styleAttributes": {},
+      "x": 3160,
+      "y": -1968,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "cbeeb45817b9119f",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.51.md",
+      "styleAttributes": {},
+      "x": 1960,
+      "y": -1468,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0c5f9df109ef30ee",
+      "type": "text",
+      "text": "#  ?",
+      "styleAttributes": {},
+      "x": 2310,
+      "y": -1517,
+      "width": 100,
+      "height": 96,
+      "color": "3"
+    },
+    {
+      "id": "8b012b3e24826309",
+      "type": "text",
+      "text": "# RESTORATION",
+      "styleAttributes": {},
+      "x": 680,
+      "y": -2458,
+      "width": 4350,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "402561b761cd5b17",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.37.md",
+      "styleAttributes": {},
+      "x": -520,
+      "y": -1608,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "1d723da2a87836ae",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.5.md",
+      "styleAttributes": {},
+      "x": -198,
+      "y": -2038,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5446006a71bd8d52",
+      "type": "text",
+      "text": "# SEA",
+      "styleAttributes": {},
+      "x": 4240,
+      "y": -2358,
+      "width": 790,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "cd061b6ca4208885",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.34.md",
+      "styleAttributes": {},
+      "x": 3160,
+      "y": -1373,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7496d0d27f5ffa6e",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.32.md",
+      "styleAttributes": {},
+      "x": 2631,
+      "y": -1373,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d4d127b4b1434b42",
+      "type": "text",
+      "text": "# LAND & FRESHWATER",
+      "styleAttributes": {},
+      "x": 1870,
+      "y": -2358,
+      "width": 1840,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "0e7914230ce4e00d",
+      "type": "text",
+      "text": "# FORESTS",
+      "styleAttributes": {},
+      "x": 2030,
+      "y": -1678,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "4fc5be0a286f2079",
+      "type": "text",
+      "text": "#  ?",
+      "styleAttributes": {},
+      "x": 3500,
+      "y": -2016,
+      "width": 100,
+      "height": 96,
+      "color": "3"
+    },
+    {
+      "id": "4eee0652af3274d2",
+      "type": "text",
+      "text": "#  ?",
+      "styleAttributes": {},
+      "x": 2981,
+      "y": -2016,
+      "width": 100,
+      "height": 96,
+      "color": "3"
+    },
+    {
+      "id": "15ef169e709d9079",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.15.md",
+      "styleAttributes": {},
+      "x": 1020,
+      "y": 574,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "cec59897f0c949b4",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.10.md",
+      "styleAttributes": {},
+      "x": 1020,
+      "y": 1002,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "785e82b9ac585bc1",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.9.md",
+      "styleAttributes": {},
+      "x": 1020,
+      "y": 134,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "249ef4e45001c0b2",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.3.md",
+      "styleAttributes": {},
+      "x": -1170,
+      "y": -2038,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "68d5230352306890",
+      "type": "text",
+      "text": "# PROTECTION  & CONSERVATION",
+      "styleAttributes": {},
+      "x": -1840,
+      "y": -2238,
+      "width": 2720,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "48dbe458bbbc79f4",
+      "type": "text",
+      "text": "#  MONITORING ",
+      "styleAttributes": {},
+      "x": -164,
+      "y": -2128,
+      "width": 332,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "745e61e5b85021d3",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.14.md",
+      "styleAttributes": {},
+      "x": -4320,
+      "y": -2320,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4566a1346fa44e53",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.16.md",
+      "styleAttributes": {},
+      "x": -3520,
+      "y": -466,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "725fb2c16557e200",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.48.md",
+      "styleAttributes": {},
+      "x": 1520,
+      "y": 1002,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "c1cee77a2dcf0be6",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.50.md",
+      "styleAttributes": {},
+      "x": 200,
+      "y": 117,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "3ac123c677e54683",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.42.md",
+      "styleAttributes": {},
+      "x": 40,
+      "y": 1972,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "070a14e08d706da0",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.49.md",
+      "styleAttributes": {},
+      "x": 1020,
+      "y": 1437,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b55acc8b69b26cef",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.18.md",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 784,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e123ebf0033beaa5",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.27.md",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 1720,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "cd457570ddb2ac74",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.26.md",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 1280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "67eb31fc7c36bc5e",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.21.md",
+      "styleAttributes": {},
+      "x": 2890,
+      "y": 77,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "1d303e860f2be4c8",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.57.md",
+      "styleAttributes": {},
+      "x": 2590,
+      "y": 1637,
+      "width": 420,
+      "height": 400
+    },
+    {
+      "id": "1a38088632b1504d",
+      "type": "text",
+      "text": "# FOREST BIOECONOMY",
+      "styleAttributes": {},
+      "x": 2930,
+      "y": 787,
+      "width": 420,
+      "height": 120,
+      "color": "5"
+    },
+    {
+      "id": "cb97fcd6a4388386",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.11.md",
+      "styleAttributes": {},
+      "x": 200,
+      "y": -323,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "c0384e5a930d3e34",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.47.md",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -323,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a5d39f24e0bf3b06",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.17.md",
+      "styleAttributes": {},
+      "x": -960,
+      "y": 334,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "d682b27fac2d8036",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.28.md",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 2172,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "ffc53f44a60468da",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.60.md",
+      "styleAttributes": {},
+      "x": 3060,
+      "y": 1637,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "7135ee1142d974d3",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.54.md",
+      "styleAttributes": {},
+      "x": 2590,
+      "y": 937,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5f2fa45e4ff61eea",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.56.md",
+      "styleAttributes": {},
+      "x": 3010,
+      "y": 937,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "e18498fb472ea208",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "1fcb4f3812f3a25f",
+      "fromSide": "top",
+      "toNode": "017ee5584ed8d23f",
+      "toSide": "right"
+    },
+    {
+      "id": "9da987c3d8ddc28c",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "7de810aaf2dbb29b",
+      "fromSide": "left",
+      "toNode": "1fcb4f3812f3a25f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "05ea14290ad37188",
+      "styleAttributes": {},
+      "fromNode": "d14eb502a98f246a",
+      "fromSide": "top",
+      "toNode": "7de810aaf2dbb29b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f9ec5e1a995d60bc",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "cd061b6ca4208885",
+      "fromSide": "top",
+      "toNode": "344b9e0471342f98",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ec2bf23e97bda936",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "ffed723558de6f89",
+      "fromSide": "left",
+      "toNode": "cd061b6ca4208885",
+      "toSide": "bottom"
+    },
+    {
+      "id": "2724885f1c74bdb7",
+      "styleAttributes": {},
+      "fromNode": "7496d0d27f5ffa6e",
+      "fromSide": "right",
+      "toNode": "cd061b6ca4208885",
+      "toSide": "left"
+    },
+    {
+      "id": "e813b47d99df9dbb",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "6dbe7a24805849a0",
+      "fromSide": "left",
+      "toNode": "7496d0d27f5ffa6e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "96ac425fd7b7b60f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "f71a191099cb18ad",
+      "fromSide": "left",
+      "toNode": "7496d0d27f5ffa6e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a18ff170c8e440e4",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "3ac123c677e54683",
+      "fromSide": "right",
+      "toNode": "1fe124dd28bcadbb",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ad5b69209871fabd",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "344b9e0471342f98",
+      "fromSide": "top",
+      "toNode": "017ee5584ed8d23f",
+      "toSide": "right"
+    },
+    {
+      "id": "6e8810104196476f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "50b95b609c2613da",
+      "fromSide": "left",
+      "toNode": "017ee5584ed8d23f",
+      "toSide": "right"
+    },
+    {
+      "id": "7d7c402bf983eed8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "cbeeb45817b9119f",
+      "fromSide": "left",
+      "toNode": "017ee5584ed8d23f",
+      "toSide": "right"
+    },
+    {
+      "id": "546f2b4c8492b4d3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "a2455affe2682eb1",
+      "fromSide": "left",
+      "toNode": "017ee5584ed8d23f",
+      "toSide": "right"
+    },
+    {
+      "id": "00870d45ddd439bf",
+      "styleAttributes": {},
+      "fromNode": "67eb31fc7c36bc5e",
+      "fromSide": "top",
+      "toNode": "f71a191099cb18ad",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e58760dcb48c27bf",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "ebb139632add9d08",
+      "fromSide": "right",
+      "toNode": "1d723da2a87836ae",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ee2272f21ccc64f3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "402561b761cd5b17",
+      "fromSide": "right",
+      "toNode": "1d723da2a87836ae",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f1c56670b81deffe",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "c105c37a2d23e4ee",
+      "fromSide": "top",
+      "toNode": "a6fd8d9bf2eb2b94",
+      "toSide": "bottom"
+    },
+    {
+      "id": "7a67cae625c9379a",
+      "styleAttributes": {},
+      "fromNode": "83ae4145be41e72a",
+      "fromSide": "left",
+      "toNode": "c105c37a2d23e4ee",
+      "toSide": "right"
+    },
+    {
+      "id": "d227ed1e39ebef3b",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "cb97fcd6a4388386",
+      "fromSide": "top",
+      "toNode": "017ee5584ed8d23f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c91cb6a3ce446048",
+      "styleAttributes": {},
+      "fromNode": "c1cee77a2dcf0be6",
+      "fromSide": "top",
+      "toNode": "cb97fcd6a4388386",
+      "toSide": "bottom"
+    },
+    {
+      "id": "52050495b693c35d",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "785e82b9ac585bc1",
+      "fromSide": "left",
+      "toNode": "c0384e5a930d3e34",
+      "toSide": "bottom"
+    },
+    {
+      "id": "20e1abab3eada2d5",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "c0384e5a930d3e34",
+      "fromSide": "top",
+      "toNode": "ab91c102fe4dda3e",
+      "toSide": "left"
+    },
+    {
+      "id": "70de391205ab9c35",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "cec59897f0c949b4",
+      "fromSide": "left",
+      "toNode": "c0384e5a930d3e34",
+      "toSide": "bottom"
+    },
+    {
+      "id": "1ae9d54e6d333f01",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "15ef169e709d9079",
+      "fromSide": "left",
+      "toNode": "c0384e5a930d3e34",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c7a3ff8babaf01f3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "070a14e08d706da0",
+      "fromSide": "left",
+      "toNode": "c0384e5a930d3e34",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5cb1e8fb5969f548",
+      "styleAttributes": {},
+      "fromNode": "c1a2c3a6539f6ccd",
+      "fromSide": "top",
+      "toNode": "ab91c102fe4dda3e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "cd0a194a15410f21",
+      "styleAttributes": {},
+      "fromNode": "ab91c102fe4dda3e",
+      "fromSide": "top",
+      "toNode": "017ee5584ed8d23f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e2ffe0c7f77f1d28",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "b55acc8b69b26cef",
+      "fromSide": "left",
+      "toNode": "a5d39f24e0bf3b06",
+      "toSide": "bottom"
+    },
+    {
+      "id": "21fda127fe585a1a",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "cd457570ddb2ac74",
+      "fromSide": "left",
+      "toNode": "a5d39f24e0bf3b06",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c7847a3f9f1142e3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "e123ebf0033beaa5",
+      "fromSide": "left",
+      "toNode": "a5d39f24e0bf3b06",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5ef7dd98236bd363",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "d682b27fac2d8036",
+      "fromSide": "left",
+      "toNode": "a5d39f24e0bf3b06",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a31ce23d4a5001ac",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "a6a37cbedb2724dc",
+      "fromSide": "top",
+      "toNode": "249ef4e45001c0b2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "61cf8ab843cfad66",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "3ac123c677e54683",
+      "fromSide": "left",
+      "toNode": "1d723da2a87836ae",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6889c211c69a361e",
+      "styleAttributes": {},
+      "fromNode": "725fb2c16557e200",
+      "fromSide": "left",
+      "toNode": "cec59897f0c949b4",
+      "toSide": "right"
+    },
+    {
+      "id": "1f0fac16d8d718df",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "a6fd8d9bf2eb2b94",
+      "fromSide": "top",
+      "toNode": "249ef4e45001c0b2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "dc0339124e19e2aa",
+      "styleAttributes": {},
+      "fromNode": "ffc53f44a60468da",
+      "fromSide": "top",
+      "toNode": "5989ef3598b7e41b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9ce118ed39fb5f43",
+      "styleAttributes": {},
+      "fromNode": "1d303e860f2be4c8",
+      "fromSide": "top",
+      "toNode": "7135ee1142d974d3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "4ff029071dbeded1",
+      "styleAttributes": {},
+      "fromNode": "ffc53f44a60468da",
+      "fromSide": "top",
+      "toNode": "7135ee1142d974d3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e22ac0eda06f5d9f",
+      "styleAttributes": {},
+      "fromNode": "1d303e860f2be4c8",
+      "fromSide": "top",
+      "toNode": "5f2fa45e4ff61eea",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d5bb669eb1160fce",
+      "styleAttributes": {},
+      "fromNode": "a5d39f24e0bf3b06",
+      "fromSide": "top",
+      "toNode": "a6a37cbedb2724dc",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5461321bd9a995f3",
+      "styleAttributes": {},
+      "fromNode": "1d723da2a87836ae",
+      "fromSide": "left",
+      "toNode": "249ef4e45001c0b2",
+      "toSide": "right"
+    },
+    {
+      "id": "48c358caf8a16058",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "a5d39f24e0bf3b06",
+      "fromSide": "top",
+      "toNode": "017ee5584ed8d23f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "70202623e916f8b6",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "944d450cafa5c972",
+      "fromSide": "right",
+      "toNode": "72daefc55b224149",
+      "toSide": "bottom"
+    },
+    {
+      "id": "1c3c71dec2cdecbd",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "59fd898a07a424dc",
+      "fromSide": "right",
+      "toNode": "72daefc55b224149",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6effb93a43fa3772",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "bae641c734451ec3",
+      "fromSide": "right",
+      "toNode": "72daefc55b224149",
+      "toSide": "bottom"
+    },
+    {
+      "id": "eb0a49d52642efa4",
+      "styleAttributes": {},
+      "fromNode": "4566a1346fa44e53",
+      "fromSide": "right",
+      "toNode": "944d450cafa5c972",
+      "toSide": "left"
+    },
+    {
+      "id": "39c58f58b01c2ce8",
+      "styleAttributes": {},
+      "fromNode": "4566a1346fa44e53",
+      "fromSide": "right",
+      "toNode": "59fd898a07a424dc",
+      "toSide": "left"
+    },
+    {
+      "id": "633847027ff2620b",
+      "styleAttributes": {},
+      "fromNode": "4566a1346fa44e53",
+      "fromSide": "right",
+      "toNode": "bae641c734451ec3",
+      "toSide": "left"
+    },
+    {
+      "id": "c17e4b5e612ed2b7",
+      "styleAttributes": {},
+      "fromNode": "59fd898a07a424dc",
+      "fromSide": "right",
+      "toNode": "cb97fcd6a4388386",
+      "toSide": "left"
+    },
+    {
+      "id": "4d79efe2b7583f5e",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "bae641c734451ec3",
+      "fromSide": "right",
+      "toNode": "cb97fcd6a4388386",
+      "toSide": "left"
+    },
+    {
+      "id": "9a85f74a94aa2e7d",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "785e82b9ac585bc1",
+      "fromSide": "right",
+      "toNode": "c1a2c3a6539f6ccd",
+      "toSide": "bottom"
+    },
+    {
+      "id": "1cc482cac2289cf1",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "7135ee1142d974d3",
+      "fromSide": "left",
+      "toNode": "50b95b609c2613da",
+      "toSide": "bottom"
+    },
+    {
+      "id": "82ccda201150e7c2",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "1d303e860f2be4c8",
+      "fromSide": "left",
+      "toNode": "50b95b609c2613da",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e0b5c49bb3334366",
+      "styleAttributes": {},
+      "fromNode": "50b95b609c2613da",
+      "fromSide": "top",
+      "toNode": "a2455affe2682eb1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "cdd45bfcdf74d6ee",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "fromNode": "cbeeb45817b9119f",
+      "fromSide": "right",
+      "toNode": "50b95b609c2613da",
+      "toSide": "right",
+      "toEnd": "none",
+      "label": "?"
+    },
+    {
+      "id": "92aea78ffb54f0fd",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "658d0abca7060d6a",
+      "fromSide": "top",
+      "toNode": "017ee5584ed8d23f",
+      "toSide": "right"
+    },
+    {
+      "id": "025d0789f3a404a8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "1fe124dd28bcadbb",
+      "fromSide": "top",
+      "toNode": "658d0abca7060d6a",
+      "toSide": "right"
+    },
+    {
+      "id": "ea9a9acbbf4f16e3",
+      "styleAttributes": {},
+      "fromNode": "cd061b6ca4208885",
+      "fromSide": "top",
+      "toNode": "658d0abca7060d6a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8815dc0964dcb813",
+      "styleAttributes": {},
+      "fromNode": "cd457570ddb2ac74",
+      "fromSide": "top",
+      "toNode": "b55acc8b69b26cef",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e804db6e33b064df",
+      "styleAttributes": {},
+      "fromNode": "d682b27fac2d8036",
+      "fromSide": "top",
+      "toNode": "e123ebf0033beaa5",
+      "toSide": "bottom"
+    },
+    {
+      "id": "75580ea014425283",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "fromNode": "344b9e0471342f98",
+      "fromSide": "right",
+      "toNode": "658d0abca7060d6a",
+      "toSide": "left",
+      "toEnd": "none",
+      "label": "?"
+    },
+    {
+      "id": "a20de3a02be182bf",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "249ef4e45001c0b2",
+      "fromSide": "left",
+      "toNode": "72daefc55b224149",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {}
+}

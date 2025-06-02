@@ -1,0 +1,15 @@
+ta_pairs_nbr;ta_pairs_pairs;model;seed;temperature;system_fingerprint;prompt_tokens;completion_tokens
+27;['TA5', 'TA4'];llama-3.3-70b-instruct;;0.1;;100330;5430
+28;['TA5', 'TA6'];llama-3.3-70b-instruct;;0.1;;101039;3923
+29;['TA5', 'TA7'];llama-3.3-70b-instruct;;0.1;;95778;3265
+30;['TA6', 'TA1'];llama-3.3-70b-instruct;;0.1;;99931;4374
+31;['TA6', 'TA2'];llama-3.3-70b-instruct;;0.1;;101440;5211
+32;['TA6', 'TA3'];llama-3.3-70b-instruct;;0.1;;103367;6202
+33;['TA6', 'TA4'];llama-3.3-70b-instruct;;0.1;;101601;7342
+34;['TA6', 'TA5'];llama-3.3-70b-instruct;;0.1;;101039;4268
+35;['TA6', 'TA7'];llama-3.3-70b-instruct;;0.1;;97049;4148
+36;['TA7', 'TA1'];llama-3.3-70b-instruct;;0.1;;94670;969
+37;['TA7', 'TA2'];llama-3.3-70b-instruct;;0.1;;96179;5137
+38;['TA7', 'TA3'];llama-3.3-70b-instruct;;0.1;;98106;1444
+39;['TA7', 'TA4'];llama-3.3-70b-instruct;;0.1;;96340;1643
+40;['TA7', 'TA5'];llama-3.3-70b-instruct;;0.1;;95778;1224

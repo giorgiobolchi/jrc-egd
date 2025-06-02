@@ -1,0 +1,5 @@
+## (terrestrial, coastal and freshwater ecosystems) Member States shall ensure that there is: (a) an increase of habitat area in good condition for habitat types listed in Annex I until at least 90 % is in good condition and until the favourable reference area for each habitat type in each biogeographic region of the Member State concerned is reached, (b) an increasing trend towards the sufficient quality and quantity of the terrestrial, coastal and freshwater habitats of the species referred to in Annexes II, IV and V to Directive 92/43/EEC and of the species covered by Directive 2009/147/EC
+
+->[[TA6_Preserving and protecting biodiversity]]
+
+Tags: #orange

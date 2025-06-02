@@ -1,0 +1,319 @@
+{
+  "nodes": [
+    {
+      "id": "61cf5e988d9c08a8",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1060,
+      "y": -5900,
+      "width": 1620,
+      "height": 2050,
+      "color": "5",
+      "label": "Improve Water Quality"
+    },
+    {
+      "id": "a2c107528f27c369",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2160,
+      "y": -5900,
+      "width": 1040,
+      "height": 980,
+      "color": "5",
+      "label": "Improve Air Quality"
+    },
+    {
+      "id": "4b83cafdda559a4d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2160,
+      "y": -4790,
+      "width": 1040,
+      "height": 940,
+      "color": "5",
+      "label": "Improve Soils Health"
+    },
+    {
+      "id": "1b58e7bc20fb12d2",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 640,
+      "y": -5900,
+      "width": 880,
+      "height": 580,
+      "color": "5",
+      "label": "Social Security "
+    },
+    {
+      "id": "7aa06aebd068d7b3",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 640,
+      "y": -5165,
+      "width": 880,
+      "height": 580,
+      "color": "5",
+      "label": "Noise Reduction"
+    },
+    {
+      "id": "a454580ae94a6c7b",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.13.md",
+      "styleAttributes": {},
+      "x": -1630,
+      "y": -5390,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "1d41fbcfa031cffb",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.22.md",
+      "styleAttributes": {},
+      "x": -1630,
+      "y": -5840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4de7cac755434590",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.5.md",
+      "styleAttributes": {},
+      "x": -2090,
+      "y": -5840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e8751c2e67252177",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.16.md",
+      "styleAttributes": {},
+      "x": -2090,
+      "y": -5390,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "d766f138bf1816e4",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.4.md",
+      "styleAttributes": {},
+      "x": -958,
+      "y": -5840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "17852a00b07613e8",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.2.md",
+      "styleAttributes": {},
+      "x": -958,
+      "y": -5390,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "56340d8ae9fa8028",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.7.md",
+      "styleAttributes": {},
+      "x": -456,
+      "y": -5840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "29257707b6c7e67e",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.1.md",
+      "styleAttributes": {},
+      "x": -456,
+      "y": -5390,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b857e4c228bc8d78",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.11.md",
+      "styleAttributes": {},
+      "x": -958,
+      "y": -4940,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "0a2d66d07803ba34",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.14.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -5840,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "73fcc382baaac6a3",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.23.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -5390,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c9e26fac20ada01e",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.3.md",
+      "styleAttributes": {},
+      "x": 720,
+      "y": -5820,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "23be4340d6c5bc44",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.17.md",
+      "styleAttributes": {},
+      "x": 720,
+      "y": -5070,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "87d6ace5d2a4f40a",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.9.md",
+      "styleAttributes": {},
+      "x": -456,
+      "y": -4480,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b0d4c0e580a8e55b",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.21.md",
+      "styleAttributes": {},
+      "x": -456,
+      "y": -4940,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "99f5bb31636387b7",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.6.md",
+      "styleAttributes": {},
+      "x": -958,
+      "y": -4480,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fec2d51c93f55e8f",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.12.md",
+      "styleAttributes": {},
+      "x": -1630,
+      "y": -4740,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c7c42e2ae94f3d1a",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.20.md",
+      "styleAttributes": {},
+      "x": -2090,
+      "y": -4740,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "b3494d39c939500b",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.25.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -4480,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "41adf5f295be4d05",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.24.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -4940,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "b0e8e175be4f9ae5",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.19.md",
+      "styleAttributes": {},
+      "x": -2090,
+      "y": -4280,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "39d2ae09b7ee387a",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.10.md",
+      "styleAttributes": {},
+      "x": -1630,
+      "y": -4280,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "ca816205b924755b",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.8.md",
+      "styleAttributes": {},
+      "x": 720,
+      "y": -4340,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "46fa2d181095e01f",
+      "styleAttributes": {},
+      "fromNode": "29257707b6c7e67e",
+      "fromSide": "left",
+      "toNode": "17852a00b07613e8",
+      "toSide": "right"
+    },
+    {
+      "id": "c1551a31f7d0ed70",
+      "styleAttributes": {},
+      "fromNode": "b0d4c0e580a8e55b",
+      "fromSide": "left",
+      "toNode": "b857e4c228bc8d78",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {}
+}

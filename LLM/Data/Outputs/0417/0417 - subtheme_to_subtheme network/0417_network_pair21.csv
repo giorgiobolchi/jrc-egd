@@ -1,0 +1,21 @@
+source_subtheme;impact_subtheme;impact_type;impact_weight ; justification 
+GHG Reduction; Food quality ; positive ; +3 ; Indivisible 
+GHG Reduction; Transport Logistics ; positive ; +2 ; Reinforcing 
+GHG Reduction; Urban Mobility ; positive ; +1 ; Enabling 
+GHG Reduction; Food affordability ; negative ; -1 ; Constraining 
+GHG Reduction; Pesticides Reduction ; negative ; -2 ; Counteracting 
+GHG Reduction; Competitive Agriculture ; negative ; -3 ; Cancelling 
+Net-Zero Technology - Road Vehicles; Rail ; positive ; +3 ; Indivisible 
+Net-Zero Technology - Maritime Transport; Food quality - Animal Welfare ; positive ; +2 ; Reinforcing 
+Net-Zero Technology - Aviation; Food quality - Healthy Food ; positive ; +1 ; Enabling 
+Biofuels; Rail ; negative ; -1 ; Constraining 
+Other Low-Carbon Fuels; Transport Logistics ; negative ; -2 ; Counteracting 
+Hydrogen Distribution; Urban Mobility ; positive ; +2 ; Reinforcing 
+Urban Mobility; Food quality ; positive ; +1 ; Enabling 
+Transport Logistics; Food affordability ; negative ; -1 ; Constraining 
+Food quality; Net-Zero Technology - Road Vehicles ; positive ; +3 ; Indivisible 
+Food quality - Animal Welfare; Net-Zero Technology - Maritime Transport ; positive ; +2 ; Reinforcing 
+Food quality - Healthy Food; Net-Zero Technology - Aviation ; positive ; +1 ; Enabling 
+Food affordability; GHG Reduction ; negative ; -1 ; Constraining 
+Pesticides Reduction; GHG Reduction ; negative ; -2 ; Counteracting 
+Competitive Agriculture;

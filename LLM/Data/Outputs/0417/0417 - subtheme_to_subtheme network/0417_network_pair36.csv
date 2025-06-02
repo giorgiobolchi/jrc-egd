@@ -1,0 +1,13 @@
+source_subtheme;impact_subtheme;impact_type;impact_weight ;justification 
+GHG Reduction;GHG Reduction - Buildings;+3;Indivisible 
+GHG Reduction;GHG Reduction - Transports;+2 ;Reinforcing 
+GHG Reduction;Noise Reduction;-1;Constraining 
+GHG Reduction;Social Security - Sanitation;-2 ;Counteracting 
+GHG Reduction;Climate Resilience;-3 ;Cancelling 
+Improve Air Quality;GHG Reduction ;+1 ;Enabling 
+Improve Water Quality;GHG Reduction ;+1 ;Enabling 
+Improve Soils Health;GHG Reduction ;+1 ;Enabling 
+Noise Reduction;GHG Reduction ;+1 ;Enabling 
+Social Security - Sanitation;GHG Reduction ;+1 ;Enabling 
+Climate Resilience;GHG Reduction ;+1 ;Enabling 
+Forest Bioeconomy;GHG Reduction ;+1 ;Enabling

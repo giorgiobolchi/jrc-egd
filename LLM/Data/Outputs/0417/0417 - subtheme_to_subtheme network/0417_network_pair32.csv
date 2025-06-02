@@ -1,0 +1,36 @@
+source_subtheme;impact_subtheme;impact_type;impact_weight ;justification 
+GHG Reduction;Terrestrial Ecosystems Restoration - Agricultural Ecosystems ;+3;Indivisible 
+GHG Reduction;Marine Ecosystem Restoration ;+2 ;Reinforcing 
+GHG Reduction;Biodiversity Protection & Conservation - Fisheries ;+1 ;Enabling 
+GHG Reduction;Waste Reduction - Municipal Waste ;-1 ;Constraining 
+GHG Reduction;Circularity/Recycling - Municipal Waste ;-2 ;Counteracting 
+GHG Reduction;Critical Raw Materials - Extraction & Import ;-3 ;Cancelling 
+Terrestrial Ecosystems Restoration - Agricultural Ecosystems ;Waste Reduction - Municipal Waste ;+3 ;Indivisible 
+Terrestrial Ecosystems Restoration - Agricultural Ecosystems ;Marine Ecosystem Restoration ;+2 ;Reinforcing 
+Terrestrial Ecosystems Restoration - Agricultural Ecosystems ;Biodiversity Protection & Conservation - Fisheries ;+1 ;Enabling 
+Terrestrial Ecosystems Restoration - Agricultural Ecosystems ;Waste Reduction - Food Waste ;-1 ;Constraining 
+Terrestrial Ecosystems Restoration - Agricultural Ecosystems ;Circularity/Recycling - Textile Waste ;-2 ;Counteracting 
+Terrestrial Ecosystems Restoration - Agricultural Ecosystems ;Critical Raw Materials - Extraction & Import ;-3 ;Cancelling 
+Marine Ecosystem Restoration ;Waste Reduction - Municipal Waste ;+3 ;Indivisible 
+Marine Ecosystem Restoration ;Terrestrial Ecosystems Restoration - Rivers ;+2 ;Reinforcing 
+Marine Ecosystem Restoration ;Biodiversity Protection & Conservation - Monitoring ;+1 ;Enabling 
+Marine Ecosystem Restoration ;Waste Reduction - Food Waste ;-1 ;Constraining 
+Marine Ecosystem Restoration ;Circularity/Recycling - Municipal Waste ;-2 ;Counteracting 
+Marine Ecosystem Restoration ;Critical Raw Materials - Extraction & Import ;-3 ;Cancelling 
+Biodiversity Protection & Conservation - Fisheries ;Waste Reduction - Municipal Waste ;+3 ;Indivisible 
+Biodiversity Protection & Conservation - Fisheries ;Terrestrial Ecosystems Restoration - Agricultural Ecosystems ;+2 ;Reinforcing 
+Biodiversity Protection & Conservation - Fisheries ;Marine Ecosystem Restoration ;+1 ;Enabling 
+Biodiversity Protection & Conservation - Fisheries ;Waste Reduction - Food Waste ;-1 ;Constraining 
+Biodiversity Protection & Conservation - Fisheries ;Circularity/Recycling - Textile Waste ;-2 ;Counteracting 
+Biodiversity Protection & Conservation - Fisheries ;Critical Raw Materials - Extraction & Import ;-3 ;Cancelling 
+Waste Reduction - Municipal Waste ;Terrestrial Ecosystems Restoration - Agricultural Ecosystems ;+3 ;Indivisible 
+Waste Reduction - Municipal Waste ;Marine Ecosystem Restoration ;+2 ;Reinforcing 
+Waste Reduction - Municipal Waste ;Biodiversity Protection & Conservation - Fisheries ;+1 ;Enabling 
+Waste Reduction - Municipal Waste ;Waste Reduction - Food Waste ;-1 ;Constraining 
+Waste Reduction - Municipal Waste ;Circularity/Recycling - Textile Waste ;-2 ;Counteracting 
+Waste Reduction - Municipal Waste ;Critical Raw Materials - Extraction & Import ;-3 ;Cancelling 
+Circularity/Recycling - Textile Waste ;Terrestrial Ecosystems Restoration - Agricultural Ecosystems ;+3 ;Indivisible 
+Circularity/Recycling - Textile Waste ;Marine Ecosystem Restoration ;+2 ;Reinforcing 
+Circularity/Recycling - Textile Waste ;Biodiversity Protection & Conservation - Fisheries ;+1 ;Enabling 
+Circularity/Recycling - Textile Waste ;Waste Reduction - Food Waste ;-1 ;Constraining 
+Circularity/Recycling

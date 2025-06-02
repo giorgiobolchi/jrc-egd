@@ -1,5 +1,5 @@
 
-subthemes_list = [          # manually selected sub-themes list used in LLM_subthemes.ipynb some
+subthemes_list = [          # manually selected sub-themes list, used in LLM_subthemes.ipynb
 	
 	"Climate Resilience",
 	"GHG Reduction",
@@ -64,7 +64,7 @@ subthemes_list = [          # manually selected sub-themes list used in LLM_subt
 	]
 
 
-subthemes_perTA_list = {        #  manually selected sub-themes list sorted per TA, to be used in LLM_network_TAsplit.ipynb
+subthemes_perTA_list = {        #  manually selected sub-themes list sorted per TA, to be used in LLM_network_*.ipynb scripts.
     'TA1': [
         "Climate Resilience",
         "GHG Reduction",
@@ -148,3 +148,5 @@ thematic_areas = {
     'TA6': 'TA6_Preserving and protecting biodiversity',
     'TA7': 'TA7_Towards a zero-pollution ambition for a toxic free environment',
 }
+
+

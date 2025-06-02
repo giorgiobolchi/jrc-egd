@@ -1,0 +1,43 @@
+source_subtheme;impact_subtheme;impact_type;impact_weight;justification
+GHG Reduction;Food affordability;+;1;Implementing GHG reduction targets can lead to increased food prices, affecting food affordability.
+GHG Reduction;Food affordability;-;1;Reducing GHG emissions can lead to increased energy costs, affecting food affordability.
+GHG Reduction;Pesticides Reduction;+;2;Reducing GHG emissions can lead to the adoption of more sustainable agricultural practices, reducing the use of pesticides.
+GHG Reduction;Competitive Agriculture;+;1;Reducing GHG emissions can lead to increased investments in sustainable agriculture, enhancing competitiveness.
+GHG Reduction;Social Security - Workers Protection;+;1;Reducing GHG emissions can lead to the creation of new job opportunities in the renewable energy sector, enhancing social security.
+Food quality;Food affordability;+;1;Improving food quality can lead to increased food prices, affecting food affordability.
+Food quality;Pesticides Reduction;+;2;Improving food quality can lead to the adoption of more sustainable agricultural practices, reducing the use of pesticides.
+Food quality;Competitive Agriculture;+;1;Improving food quality can lead to increased investments in sustainable agriculture, enhancing competitiveness.
+Food quality;Social Security - Workers Protection;+;1;Improving food quality can lead to the creation of new job opportunities in the food sector, enhancing social security.
+Food quality - Animal Welfare;Food affordability;+;1;Improving animal welfare can lead to increased food prices, affecting food affordability.
+Food quality - Animal Welfare;Pesticides Reduction;+;2;Improving animal welfare can lead to the adoption of more sustainable agricultural practices, reducing the use of pesticides.
+Food quality - Animal Welfare;Competitive Agriculture;+;1;Improving animal welfare can lead to increased investments in sustainable agriculture, enhancing competitiveness.
+Food quality - Animal Welfare;Social Security - Workers Protection;+;1;Improving animal welfare can lead to the creation of new job opportunities in the animal welfare sector, enhancing social security.
+Food quality - Healthy Food;Food affordability;+;1;Promoting healthy food can lead to increased food prices, affecting food affordability.
+Food quality - Healthy Food;Pesticides Reduction;+;2;Promoting healthy food can lead to the adoption of more sustainable agricultural practices, reducing the use of pesticides.
+Food quality - Healthy Food;Competitive Agriculture;+;1;Promoting healthy food can lead to increased investments in sustainable agriculture, enhancing competitiveness.
+Food quality - Healthy Food;Social Security - Workers Protection;+;1;Promoting healthy food can lead to the creation of new job opportunities in the health sector, enhancing social security.
+Food affordability;Pesticides Reduction;+;1;Reducing food waste can lead to the adoption of more sustainable agricultural practices, reducing the use of pesticides.
+Food affordability;Competitive Agriculture;+;1;Reducing food waste can lead to increased investments in sustainable agriculture, enhancing competitiveness.
+Food affordability;Social Security - Workers Protection;+;1;Reducing food waste can lead to the creation of new job opportunities in the food sector, enhancing social security.
+Pesticides Reduction;Competitive Agriculture;+;2;Reducing pesticide use can lead to increased investments in sustainable agriculture, enhancing competitiveness.
+Pesticides Reduction;Social Security - Workers Protection;+;1;Reducing pesticide use can lead to the creation of new job opportunities in the sustainable agriculture sector, enhancing social security.
+Competitive Agriculture;Social Security - Workers Protection;+;1;Enhancing competitiveness can lead to the creation of new job opportunities in the agriculture sector, enhancing social security.
+Social Security - Workers Protection;Food affordability;+;1;Improving social security can lead to increased food affordability, as workers can afford more food.
+Rail;Net-Zero Technology - Road Vehicles;+;2;Developing rail transport can lead to the adoption of net-zero technologies in road vehicles, enhancing sustainability.
+Rail;Net-Zero Technology - Maritime Transport;+;1;Developing rail transport can lead to increased investments in sustainable maritime transport, enhancing sustainability.
+Rail;Net-Zero Technology - Aviation;+;1;Developing rail transport can lead to increased investments in sustainable aviation, enhancing sustainability.
+Biofuels;Net-Zero Technology - Road Vehicles;+;2;Developing biofuels can lead to the adoption of net-zero technologies in road vehicles, enhancing sustainability.
+Biofuels;Net-Zero Technology - Maritime Transport;+;1;Developing biofuels can lead to increased investments in sustainable maritime transport, enhancing sustainability.
+Biofuels;Net-Zero Technology - Aviation;+;1;Developing biofuels can lead to increased investments in sustainable aviation, enhancing sustainability.
+Other Low-Carbon Fuels;Net-Zero Technology - Road Vehicles;+;2;Developing other low-carbon fuels can lead to the adoption of net-zero technologies in road vehicles, enhancing sustainability.
+Other Low-Carbon Fuels;Net-Zero Technology - Maritime Transport;+;1;Developing other low-carbon fuels can lead to increased investments in sustainable maritime transport, enhancing sustainability.
+Other Low-Carbon Fuels;Net-Zero Technology - Aviation;+;1;Developing other low-carbon fuels can lead to increased investments in sustainable aviation, enhancing sustainability.
+Hydrogen Distribution;Net-Zero Technology - Road Vehicles;+;2;Developing hydrogen distribution can lead to the adoption of net-zero technologies in road vehicles, enhancing sustainability.
+Hydrogen Distribution;Net-Zero Technology - Maritime Transport;+;1;Developing hydrogen distribution can lead to increased investments in sustainable maritime transport, enhancing sustainability.
+Hydrogen Distribution;Net-Zero Technology - Aviation;+;1;Developing hydrogen distribution can lead to increased investments in sustainable aviation, enhancing sustainability.
+Urban Mobility;Net-Zero Technology - Road Vehicles;+;2;Developing urban mobility can lead to the adoption of net-zero technologies in road vehicles, enhancing sustainability.
+Urban Mobility;Net-Zero Technology - Maritime Transport;+;1;Developing urban mobility can lead to increased investments in sustainable maritime transport, enhancing sustainability.
+Urban Mobility;Net-Zero Technology - Aviation;+;1;Developing urban mobility can lead to increased investments in sustainable aviation, enhancing sustainability.
+Transport Logistics;Net-Zero Technology - Road Vehicles;+;2;Developing transport logistics can lead to the adoption of net-zero technologies in road vehicles, enhancing sustainability.
+Transport Logistics;Net-Zero Technology - Maritime Transport;+;1;Developing transport logistics can lead to increased investments in sustainable maritime transport, enhancing sustainability.
+Transport Logistics;Net-Zero Technology - Aviation;+;1;Developing transport logistics can lead to increased investments in sustainable aviation, enhancing sustainability.

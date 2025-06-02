@@ -1,0 +1,809 @@
+{
+  "nodes": [
+    {
+      "id": "cb72c00b657daa81",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -3367,
+      "y": -3280,
+      "width": 6735,
+      "height": 6400,
+      "label": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy"
+    },
+    {
+      "id": "81015484b9a6e932",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.23.md",
+      "styleAttributes": {},
+      "x": -3120,
+      "y": -2100,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "1c10ad77eefb6b42",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.20.md",
+      "styleAttributes": {},
+      "x": -2787,
+      "y": -2660,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "eee11ffd16cbbb6b",
+      "type": "text",
+      "text": "#  ECONOMICS & EMPLOYMENT",
+      "styleAttributes": {},
+      "x": -2717,
+      "y": -2880,
+      "width": 330,
+      "height": 120,
+      "color": "5"
+    },
+    {
+      "id": "b1887b4bd15fa0db",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.18.md",
+      "styleAttributes": {},
+      "x": -2587,
+      "y": -1700,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "461b23e2d6d1e2da",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.16.md",
+      "styleAttributes": {},
+      "x": -2040,
+      "y": -1700,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "e69520b77fe5a682",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.14.md",
+      "styleAttributes": {},
+      "x": -1787,
+      "y": -2660,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6ac5152e04db29f6",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.29.md",
+      "styleAttributes": {},
+      "x": 683,
+      "y": -1660,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "4f09812d12f97ba0",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.24.md",
+      "styleAttributes": {},
+      "x": -1147,
+      "y": -2660,
+      "width": 440,
+      "height": 400
+    },
+    {
+      "id": "58e5887fdc7f39a1",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.21.md",
+      "styleAttributes": {},
+      "x": -1127,
+      "y": -1900,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "af855e7bcb5050cf",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.30.md",
+      "styleAttributes": {},
+      "x": 1333,
+      "y": -1660,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "71d6df84c8230f4b",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.27.md",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": -280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "bdb46611cce587ae",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.31.md",
+      "styleAttributes": {},
+      "x": -1787,
+      "y": -540,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "50f81f9080db04c3",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.15.md",
+      "styleAttributes": {},
+      "x": -67,
+      "y": -3200,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "5615f4d19f3cacdd",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.34.md",
+      "styleAttributes": {},
+      "x": 483,
+      "y": -2360,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "075131312c2485bb",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.10.md",
+      "styleAttributes": {},
+      "x": 133,
+      "y": -400,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "2675d457a8b4c832",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.7.md",
+      "styleAttributes": {},
+      "x": -67,
+      "y": -2020,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "778dd84f9553d139",
+      "type": "text",
+      "text": "# FOOD AVAILABILITY ",
+      "styleAttributes": {},
+      "x": 623,
+      "y": -1880,
+      "width": 260,
+      "height": 120,
+      "color": "5"
+    },
+    {
+      "id": "fa5337950e900d67",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.22.md",
+      "styleAttributes": {},
+      "x": -307,
+      "y": -400,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "eef7ecc8ab5a0e87",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.13.md",
+      "styleAttributes": {},
+      "x": 1800,
+      "y": -1660,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "eeb75a335438bbef",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.33.md",
+      "styleAttributes": {},
+      "x": 883,
+      "y": -2840,
+      "width": 400,
+      "height": 360,
+      "color": "2"
+    },
+    {
+      "id": "37d1e87a7824f9d4",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.32.md",
+      "styleAttributes": {},
+      "x": 1333,
+      "y": -2360,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "7a8a1b7a34d548ff",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.5.md",
+      "styleAttributes": {},
+      "x": 2053,
+      "y": 2580,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "73ab825d7c0f3657",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.4.md",
+      "styleAttributes": {},
+      "x": 1173,
+      "y": 2580,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "95b2dc7bcba7658c",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.25.md",
+      "styleAttributes": {},
+      "x": -567,
+      "y": -2660,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "34870a27cf551f1b",
+      "type": "text",
+      "text": "more sustainable diets (e.g., vegetarian) = more food produced (e.g., land use for edible crops instead of feedstock crops) = more accessible & healthy food",
+      "styleAttributes": {},
+      "x": 1533,
+      "y": -2600,
+      "width": 380,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "aa41e75891de419c",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.8.md",
+      "styleAttributes": {},
+      "x": 693,
+      "y": 1380,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "79b36e115b5a5cda",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.6.md",
+      "styleAttributes": {},
+      "x": 1133,
+      "y": 1380,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "ff0c444df9875f44",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.12.md",
+      "styleAttributes": {},
+      "x": 1173,
+      "y": 780,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "2c4cac7510d9a12b",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.2.md",
+      "styleAttributes": {},
+      "x": 2533,
+      "y": 1380,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "254c78e21996d4bf",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.3.md",
+      "styleAttributes": {},
+      "x": 2093,
+      "y": 1380,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "99e43036644eb80f",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.11.md",
+      "styleAttributes": {},
+      "x": 1613,
+      "y": 780,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "2e756e71add897ab",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.19.md",
+      "styleAttributes": {},
+      "x": 1800,
+      "y": -1200,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "61cb100a0c56c821",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.35.md",
+      "styleAttributes": {},
+      "x": 1333,
+      "y": 120,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "2e6ad5d02c78ac04",
+      "type": "file",
+      "file": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.9.md",
+      "styleAttributes": {},
+      "x": 1613,
+      "y": 2580,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "a0ec762aca2555e0",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "e69520b77fe5a682",
+      "fromSide": "left",
+      "toNode": "1c10ad77eefb6b42",
+      "toSide": "right"
+    },
+    {
+      "id": "1db9ec568f7bdc69",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "4f09812d12f97ba0",
+      "fromSide": "left",
+      "toNode": "e69520b77fe5a682",
+      "toSide": "right"
+    },
+    {
+      "id": "ef8dd8a93c4ae846",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "461b23e2d6d1e2da",
+      "fromSide": "top",
+      "toNode": "e69520b77fe5a682",
+      "toSide": "bottom"
+    },
+    {
+      "id": "af651711b37ecab9",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "b1887b4bd15fa0db",
+      "fromSide": "top",
+      "toNode": "e69520b77fe5a682",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d6ee8607f88cb06a",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "bdb46611cce587ae",
+      "fromSide": "top",
+      "toNode": "e69520b77fe5a682",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b6f34c92d90c0a72",
+      "styleAttributes": {
+        "pathfindingMethod": null,
+        "path": "short-dashed"
+      },
+      "fromNode": "95b2dc7bcba7658c",
+      "fromSide": "top",
+      "toNode": "e69520b77fe5a682",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "0f2c276292e46710",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "461b23e2d6d1e2da",
+      "fromSide": "left",
+      "toNode": "b1887b4bd15fa0db",
+      "toSide": "right"
+    },
+    {
+      "id": "bf8e6f394a54bccc",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "fa5337950e900d67",
+      "fromSide": "top",
+      "toNode": "2675d457a8b4c832",
+      "toSide": "bottom"
+    },
+    {
+      "id": "92be73cf8d51fddd",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "eeb75a335438bbef",
+      "fromSide": "top",
+      "toNode": "50f81f9080db04c3",
+      "toSide": "right"
+    },
+    {
+      "id": "45ff641ba4b6dd71",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "2675d457a8b4c832",
+      "fromSide": "top",
+      "toNode": "50f81f9080db04c3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "fd0be4c2213a8dd2",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "075131312c2485bb",
+      "fromSide": "top",
+      "toNode": "2675d457a8b4c832",
+      "toSide": "bottom"
+    },
+    {
+      "id": "58d0f5942f8e3d85",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "bdb46611cce587ae",
+      "fromSide": "top",
+      "toNode": "6ac5152e04db29f6",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8a3ab719c276e664",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "eeb75a335438bbef",
+      "fromSide": "left",
+      "toNode": "95b2dc7bcba7658c",
+      "toSide": "right",
+      "toEnd": "none",
+      "label": "?"
+    },
+    {
+      "id": "eea1712b0b7f177e",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "58e5887fdc7f39a1",
+      "fromSide": "left",
+      "toNode": "1c10ad77eefb6b42",
+      "toSide": "bottom"
+    },
+    {
+      "id": "0d041998360c2cf6",
+      "styleAttributes": {},
+      "fromNode": "58e5887fdc7f39a1",
+      "fromSide": "top",
+      "toNode": "4f09812d12f97ba0",
+      "toSide": "bottom"
+    },
+    {
+      "id": "3e87f7e9d4bc9457",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "6ac5152e04db29f6",
+      "fromSide": "top",
+      "toNode": "37d1e87a7824f9d4",
+      "toSide": "left"
+    },
+    {
+      "id": "4a0371f1290076ef",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "6ac5152e04db29f6",
+      "fromSide": "right",
+      "toNode": "af855e7bcb5050cf",
+      "toSide": "left",
+      "fromEnd": "arrow"
+    },
+    {
+      "id": "c627786b19ec7fcf",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "6ac5152e04db29f6",
+      "fromSide": "top",
+      "toNode": "eeb75a335438bbef",
+      "toSide": "bottom"
+    },
+    {
+      "id": "57c997b287d5fd79",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "61cb100a0c56c821",
+      "fromSide": "top",
+      "toNode": "6ac5152e04db29f6",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f77e20e0e8781c80",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "075131312c2485bb",
+      "fromSide": "top",
+      "toNode": "6ac5152e04db29f6",
+      "toSide": "bottom"
+    },
+    {
+      "id": "3d9f2660dbf5e779",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "71d6df84c8230f4b",
+      "fromSide": "top",
+      "toNode": "6ac5152e04db29f6",
+      "toSide": "bottom"
+    },
+    {
+      "id": "89ccc03854738019",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "eeb75a335438bbef",
+      "fromSide": "left",
+      "toNode": "5615f4d19f3cacdd",
+      "toSide": "top"
+    },
+    {
+      "id": "08bfb527707cefdf",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "61cb100a0c56c821",
+      "fromSide": "top",
+      "toNode": "af855e7bcb5050cf",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d995e84283a8daa6",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "ff0c444df9875f44",
+      "fromSide": "top",
+      "toNode": "61cb100a0c56c821",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e3b0f9907781bdbd",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "99e43036644eb80f",
+      "fromSide": "top",
+      "toNode": "61cb100a0c56c821",
+      "toSide": "bottom"
+    },
+    {
+      "id": "22a50c20a0a769a8",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "af855e7bcb5050cf",
+      "fromSide": "top",
+      "toNode": "37d1e87a7824f9d4",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a3ed37e2fcf68528",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "af855e7bcb5050cf",
+      "fromSide": "left",
+      "toNode": "eeb75a335438bbef",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b00cfe01aa4b970e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "2e756e71add897ab",
+      "fromSide": "left",
+      "toNode": "af855e7bcb5050cf",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6358106ed52f02f8",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "eef7ecc8ab5a0e87",
+      "fromSide": "left",
+      "toNode": "af855e7bcb5050cf",
+      "toSide": "right"
+    },
+    {
+      "id": "e832af53c918187b",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "eeb75a335438bbef",
+      "fromSide": "right",
+      "toNode": "37d1e87a7824f9d4",
+      "toSide": "top",
+      "color": "3",
+      "label": "?"
+    },
+    {
+      "id": "fc94e56874beb4d8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "71d6df84c8230f4b",
+      "fromSide": "top",
+      "toNode": "eeb75a335438bbef",
+      "toSide": "right"
+    },
+    {
+      "id": "7a8bdde239d7964d",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "81015484b9a6e932",
+      "fromSide": "top",
+      "toNode": "1c10ad77eefb6b42",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e981110193082b2a",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "b1887b4bd15fa0db",
+      "fromSide": "top",
+      "toNode": "1c10ad77eefb6b42",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ebafb094042222ba",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "81015484b9a6e932",
+      "fromSide": "bottom",
+      "toNode": "b1887b4bd15fa0db",
+      "toSide": "left"
+    },
+    {
+      "id": "425f525e9aa1b502",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "aa41e75891de419c",
+      "fromSide": "top",
+      "toNode": "99e43036644eb80f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c635bd3408dbfc7f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "79b36e115b5a5cda",
+      "fromSide": "top",
+      "toNode": "99e43036644eb80f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "df1df132fb765979",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "254c78e21996d4bf",
+      "fromSide": "top",
+      "toNode": "99e43036644eb80f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "fcce3b3fd2c7a7eb",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "2c4cac7510d9a12b",
+      "fromSide": "top",
+      "toNode": "99e43036644eb80f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "37d22774c1e71af0",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "73ab825d7c0f3657",
+      "fromSide": "top",
+      "toNode": "99e43036644eb80f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6c0b411f34d1d5e4",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "2e6ad5d02c78ac04",
+      "fromSide": "top",
+      "toNode": "99e43036644eb80f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "87cb6982202c154c",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "fromNode": "7a8a1b7a34d548ff",
+      "fromSide": "top",
+      "toNode": "99e43036644eb80f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "da40d3ee63e467a7",
+      "styleAttributes": {},
+      "fromNode": "58e5887fdc7f39a1",
+      "fromSide": "left",
+      "toNode": "81015484b9a6e932",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {}
+}

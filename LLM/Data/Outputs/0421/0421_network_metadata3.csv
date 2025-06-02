@@ -1,0 +1,5 @@
+ta_pairs_nbr;ta_pairs_pairs;model;seed;temperature;system_fingerprint;prompt_tokens;completion_tokens
+17;['TA3', 'TA7'];llama-3.3-70b-instruct;;0.1;;98106;5282
+18;['TA4', 'TA1'];llama-3.3-70b-instruct;;0.1;;99221;3925
+19;['TA4', 'TA2'];llama-3.3-70b-instruct;;0.1;;100730;4238
+41;['TA7', 'TA6'];llama-3.3-70b-instruct;;0.1;;97049;1251

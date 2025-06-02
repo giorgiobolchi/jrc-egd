@@ -1,0 +1,7 @@
+# TA6.52
+
+(forest ecosystems) Member States shall achieve an increasing trend at national level of the common forest bird index, as further set out in Annex VI, measured in the period from the date of entry into force of this Regulation until 31 December 2030, and every six years thereafter, until the satisfactory levels identified in accordance with Article 11(3) are reached
+
+->[[TA6_Preserving and protecting biodiversity]]
+
+Tags: #green

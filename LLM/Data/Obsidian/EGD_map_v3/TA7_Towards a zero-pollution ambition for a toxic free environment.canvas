@@ -1,0 +1,467 @@
+{
+  "nodes": [
+    {
+      "id": "192a75febee470df",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2240,
+      "y": -4640,
+      "width": 4160,
+      "height": 3840,
+      "label": "TA7_Towards a zero-pollution ambition for a toxic free environment"
+    },
+    {
+      "id": "73fcc382baaac6a3",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.23.md",
+      "styleAttributes": {},
+      "x": -262,
+      "y": -2730,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "41adf5f295be4d05",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.24.md",
+      "styleAttributes": {},
+      "x": -262,
+      "y": -2300,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "0a2d66d07803ba34",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.14.md",
+      "styleAttributes": {},
+      "x": -262,
+      "y": -3150,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "84c91a680fb8a94f",
+      "type": "text",
+      "text": "# AIR",
+      "styleAttributes": {},
+      "x": -1820,
+      "y": -3840,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "c9e26fac20ada01e",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.3.md",
+      "styleAttributes": {},
+      "x": -1120,
+      "y": -4450,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "d766f138bf1816e4",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.4.md",
+      "styleAttributes": {},
+      "x": -1120,
+      "y": -3710,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "cbdc3a403843524c",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.20.md",
+      "styleAttributes": {},
+      "x": 440,
+      "y": -3710,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "aa6ed98bc4d66430",
+      "type": "text",
+      "text": "# WATER",
+      "styleAttributes": {},
+      "x": -760,
+      "y": -3870,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "01141246e36e4542",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.7.md",
+      "styleAttributes": {},
+      "x": -580,
+      "y": -3710,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e8751c2e67252177",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.16.md",
+      "styleAttributes": {},
+      "x": -2090,
+      "y": -2500,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "1d41fbcfa031cffb",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.22.md",
+      "styleAttributes": {},
+      "x": -1860,
+      "y": -3680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "aef952250fbf8bce",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.5.md",
+      "styleAttributes": {},
+      "x": -1860,
+      "y": -3200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c50416928ae0e377",
+      "type": "text",
+      "text": "# SOILS",
+      "styleAttributes": {},
+      "x": 510,
+      "y": -3870,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "b857e4c228bc8d78",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.11.md",
+      "styleAttributes": {},
+      "x": -262,
+      "y": -1400,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "b0d4c0e580a8e55b",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.21.md",
+      "styleAttributes": {},
+      "x": 240,
+      "y": -1400,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a454580ae94a6c7b",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.13.md",
+      "styleAttributes": {},
+      "x": -1630,
+      "y": -2500,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "29257707b6c7e67e",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.1.md",
+      "styleAttributes": {},
+      "x": 240,
+      "y": -1850,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "99f5bb31636387b7",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.6.md",
+      "styleAttributes": {},
+      "x": -2800,
+      "y": -3130,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ca816205b924755b",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.8.md",
+      "styleAttributes": {},
+      "x": -2800,
+      "y": -2600,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "17852a00b07613e8",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.2.md",
+      "styleAttributes": {},
+      "x": -262,
+      "y": -1850,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "b0e8e175be4f9ae5",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.19.md",
+      "styleAttributes": {},
+      "x": -1000,
+      "y": -2300,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "1a99903b9b573198",
+      "type": "text",
+      "text": "# NOISE",
+      "styleAttributes": {},
+      "x": 1430,
+      "y": -3870,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "23be4340d6c5bc44",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.17.md",
+      "styleAttributes": {},
+      "x": 1360,
+      "y": -3710,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "fec2d51c93f55e8f",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.12.md",
+      "styleAttributes": {},
+      "x": 690,
+      "y": -3250,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "39d2ae09b7ee387a",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.10.md",
+      "styleAttributes": {},
+      "x": 690,
+      "y": -2750,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "87d6ace5d2a4f40a",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.9.md",
+      "styleAttributes": {},
+      "x": -2800,
+      "y": -2100,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b3494d39c939500b",
+      "type": "file",
+      "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.25.md",
+      "styleAttributes": {},
+      "x": -2800,
+      "y": -1570,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "0159ba0fa9f0a825",
+      "styleAttributes": {},
+      "fromNode": "aef952250fbf8bce",
+      "fromSide": "top",
+      "toNode": "1d41fbcfa031cffb",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f38386f0b4901203",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "e8751c2e67252177",
+      "fromSide": "top",
+      "toNode": "aef952250fbf8bce",
+      "toSide": "bottom"
+    },
+    {
+      "id": "279ce645b748d0e9",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "a454580ae94a6c7b",
+      "fromSide": "top",
+      "toNode": "aef952250fbf8bce",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6009ad4f362e8dd9",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "0a2d66d07803ba34",
+      "fromSide": "left",
+      "toNode": "01141246e36e4542",
+      "toSide": "bottom"
+    },
+    {
+      "id": "26502ff6fd59eb1b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "73fcc382baaac6a3",
+      "fromSide": "left",
+      "toNode": "01141246e36e4542",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f96918e03a10021d",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "17852a00b07613e8",
+      "fromSide": "left",
+      "toNode": "01141246e36e4542",
+      "toSide": "bottom"
+    },
+    {
+      "id": "46fa2d181095e01f",
+      "styleAttributes": {},
+      "fromNode": "29257707b6c7e67e",
+      "fromSide": "left",
+      "toNode": "17852a00b07613e8",
+      "toSide": "right"
+    },
+    {
+      "id": "5741770b63c3122c",
+      "styleAttributes": {
+        "path": "short-dashed",
+        "arrow": null
+      },
+      "fromNode": "01141246e36e4542",
+      "fromSide": "left",
+      "toNode": "d766f138bf1816e4",
+      "toSide": "right",
+      "toEnd": "none"
+    },
+    {
+      "id": "7d98eddcd72c9675",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "fromNode": "d766f138bf1816e4",
+      "fromSide": "top",
+      "toNode": "c9e26fac20ada01e",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "c1551a31f7d0ed70",
+      "styleAttributes": {},
+      "fromNode": "b0d4c0e580a8e55b",
+      "fromSide": "left",
+      "toNode": "b857e4c228bc8d78",
+      "toSide": "right"
+    },
+    {
+      "id": "f7be51c3c3d37083",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "b857e4c228bc8d78",
+      "fromSide": "left",
+      "toNode": "01141246e36e4542",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e9d625ed6e494319",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "39d2ae09b7ee387a",
+      "fromSide": "left",
+      "toNode": "cbdc3a403843524c",
+      "toSide": "bottom"
+    },
+    {
+      "id": "36e56e5574fb5a56",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "b0d4c0e580a8e55b",
+      "fromSide": "right",
+      "toNode": "39d2ae09b7ee387a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "defb821c07634b2c",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "fec2d51c93f55e8f",
+      "fromSide": "left",
+      "toNode": "cbdc3a403843524c",
+      "toSide": "bottom"
+    },
+    {
+      "id": "0175c2bd1e814ee2",
+      "styleAttributes": {},
+      "fromNode": "41adf5f295be4d05",
+      "fromSide": "left",
+      "toNode": "b0e8e175be4f9ae5",
+      "toSide": "right"
+    },
+    {
+      "id": "b34a46c1a6fe8336",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "b0e8e175be4f9ae5",
+      "fromSide": "right",
+      "toNode": "01141246e36e4542",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d7a7e053d89187b1",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "41adf5f295be4d05",
+      "fromSide": "left",
+      "toNode": "01141246e36e4542",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}
