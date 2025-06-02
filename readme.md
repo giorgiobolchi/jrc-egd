@@ -2,15 +2,18 @@
 
 Giorgio Bolchi
 
+*December 2024 - April 2025*
+
 ------------------------------------------------------------------------
 
+
 ## Table of Contents
-1. [Part 1](#part-1)
+1. [Part 1 - Assign NACE categories to targets](#part-1)
 	- Goal
 	- Methodology
 	- Relevant folders & files
 	- Pipeline
-2. [Part 2](#part-2)
+2. [Part 2 - Generate network of target interlinkages](#part-2)
 	- Goal
 	- Methodology
 	- Relevant folders & files
@@ -42,8 +45,9 @@ Giorgio Bolchi
 - `NACEdata.py`: list of NACE categories (level 0 to 3)
 
 #### Code
-- `LLM_NACE_chunks.ipynb`: script to split the data in equally-sized chunks, and automatically assign NACE categories to each EGD targets based on their content and the context of report 1.
-- `LLM_NACE_TAsplit.ipynb`: script to split the data per TA, and automatically assign NACE categories to each EGD targets based on their content and the context of report 1.
+- `LLM_NACE_to_targets.ipynb`: script to split the data per TA, and automatically assign NACE categories to each EGD targets based on their content and the context of report 1.
+- `LLM_NACE_chunks.ipynb`: this was an alternative script, to split the data in equally-sized chunks (i.e, smaller than by thematic areas), and automatically assign NACE categories to each EGD targets based on their content and the context of report 1.
+
 
 
 
@@ -53,7 +57,7 @@ Giorgio Bolchi
   - `NACE_to_TA_assignations_reviewed_CG_GB.xlsx`: Table containing all targets and their automatically assigned NACE categories.
   - `NACEdata_to_TA.xlsx`: Files where the NACE_to_TA data is put together with data about GHG, GVA, and employment (EMP_DC).
 
-### Pipeline
+### Workflow
 1. Manually format and clean `target_NACE_classification+assessments.xlsx` into `XLSX_target_data_v1.2.csv`. Or select a dataset I have already formatted:  `targets_data_150.csv` or `targets_data_250.csv`. 
 2. Gather the API requirements, the desired input data, and run `LLM_NACE_TAsplit.ipynb`.
 3. The code outputs a list of files (3 replicats per TA).
@@ -67,7 +71,7 @@ Giorgio Bolchi
 ## Part 2 - Interlinkages networks
 
 ### Goal
-- Map the interconnections between targets across thematic areas and perform a network analysis to observe synergies, trade-offs, and other measures such as centralities.
+- Generate a network of weighted and directed interlinkages between targets across thematic areas and perform a network analysis to observe synergies, trade-offs, and other measures such as centralities.
 
 ### Methodology
 1. Use an LLM to automatically assign positive and negative connections between all available targets based on the target content and the context of report 1 and 2.
@@ -76,18 +80,16 @@ Giorgio Bolchi
 
 ### Relevant Folders & Files
 #### Input Data
-- `target_NACE_classification+assessments.xlsx`
-- `targets_data_150.csv` or `targets_data_250.csv`
+- `targets_data_150.csv` = data from targets assessed in report 1 (used to generate the network that was sent to the experts)
+- `targets_data_250.csv` = all target data, including some that have no assessment.
 - `REPORT_2/`
 - ```subthemes.py```
 
 #### Code
-- `LLM_subthemes.ipynb`: Small script to automatically assign targets into pre-defined sub-themes.
-- `LLM_network_TAsplit.ipynb`: Script that splits the data by thematic areas, generate all potential pairs of TA, and determines the interlinkages between targets within each TA pairs using a LLM. Splitting per TA avoid the generation of intra-TA interlinkages.
+- `LLM_network_generation.ipynb`: Main script to generate a network of weighted and directed interlinkages between EGD targets, either individually, or grouped by subthemes or policy documents. It is done using an LLM available through GPT@JRC.
 - `network_analysis.ipynb`: Small script to load the formatted network tables into the networkx Python package and perform basic network analysis.
+- `LLM_subthemes.ipynb`: Small script that was used to automatically assign targets into pre-defined sub-themes.
 
-(optional)
--  `LLM_network_chunks.ipynb`: Script that splits the data into equally-sized chunks, generate all potential pairs of chunks, and determines the interlinkages between targets within each chunk pairs using a LLM. I wrote it but did not end up using it as this creates intra-TA interlinkages. Instead, I split the data per TA (see `LLM_network_TAsplit.ipynb`).
 
 #### Output Data
 - `Data/Outputs/`: Main output folders for generated results.
