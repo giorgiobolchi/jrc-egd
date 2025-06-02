@@ -72,10 +72,10 @@ supervisors: Chiara Gastaldi, Luisa Marelli
 ## Part 2 - Interlinkages networks
 
 ### Goal
-- Generate a network of weighted and directed interlinkages between targets across thematic areas and perform a network analysis to observe synergies, trade-offs, and other measures such as centralities.
+- Generate a network of weighted and directed interlinkages between targets across thematic areas and perform a network analysis to predict synergies, trade-offs, and other measures such as centralities.
 
 ### Methodology
-1. Use an LLM to automatically assign positive and negative connections between all available targets based on the target content and the context of report 1 and 2.
+1. Use an LLM to automatically assign weighted positive and negative connections (from -3 to +3) between all available targets based on the target content and the context of report 1 and 2.
 2. Cross-validate the LLM-generated connections with expert knowledge gathered during expert consultation workshops.
 3. Perform a network analysis using Verdiana's code.
 
