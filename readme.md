@@ -81,11 +81,11 @@ supervisors: Chiara Gastaldi, Luisa Marelli
 
 ### Relevant Folders & Files
 #### Input Data
-- `targets_data_150.csv` = main dataset from targets assessed in report 1 (used to generate the network that was sent to the experts)
+- `targets_data_150.csv`: main dataset from targets assessed in report 1 (used to generate the network that was sent to the experts)
 
-- `targets_data_250.csv` = all target data, including some that have no assessment.
-- `REPORT_2/`
-- ```subthemes.py```
+- `targets_data_250.csv`: all target data, including some that have no assessment.
+- `REPORT_2/`: folder containing chapters of report 2
+- ```subthemes.py``: list of manually selected subthemes
 
 #### Code
 - `LLM_network_generation.ipynb`: Main script to generate a network of weighted and directed interlinkages between EGD targets, either individually, or grouped by subthemes or policy documents. It is done using an LLM available through GPT@JRC.
