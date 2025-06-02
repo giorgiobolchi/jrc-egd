@@ -1,5 +1,0 @@
-## Improve nutrient removal from wastewater. Tertiary treatment should be systematically imposed to all urban wastewater treatment plants of 100 000 p.e. and above, as such plants represent an important remaining source of nitrogen and phosphorus discharge. Tertiary treatment should also be mandatory in agglomerations of 10 000 p.e. and above that are discharging in areas subject to, or at risk of, eutrophication.
-
-->[[TA7_Towards a zero-pollution ambition for a toxic free environment]]
-
-Tags: #green
