@@ -22,388 +22,6 @@
       "label": "?"
     },
     {
-      "id": "d14eb502a98f246a",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.44.md",
-      "styleAttributes": {},
-      "x": 4630,
-      "y": -948,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "017ee5584ed8d23f",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.7.md",
-      "styleAttributes": {},
-      "x": 1310,
-      "y": -2298,
-      "width": 400,
-      "height": 418
-    },
-    {
-      "id": "5989ef3598b7e41b",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.55.md",
-      "styleAttributes": {},
-      "x": 3460,
-      "y": 937,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "f71a191099cb18ad",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.63.md",
-      "styleAttributes": {},
-      "x": 2890,
-      "y": -398,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "2d07e33b5dc94e8d",
-      "type": "text",
-      "text": "#  ?",
-      "styleAttributes": {},
-      "x": 3710,
-      "y": -906,
-      "width": 100,
-      "height": 96,
-      "color": "3"
-    },
-    {
-      "id": "6dbe7a24805849a0",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.12.md",
-      "styleAttributes": {},
-      "x": 2890,
-      "y": -858,
-      "width": 400,
-      "height": 400,
-      "color": "2"
-    },
-    {
-      "id": "50b95b609c2613da",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.59.md",
-      "styleAttributes": {},
-      "x": 1960,
-      "y": -458,
-      "width": 400,
-      "height": 400,
-      "color": "2"
-    },
-    {
-      "id": "ab91c102fe4dda3e",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.8.md",
-      "styleAttributes": {},
-      "x": 1310,
-      "y": -1058,
-      "width": 400,
-      "height": 400,
-      "color": "1"
-    },
-    {
-      "id": "c1a2c3a6539f6ccd",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.43.md",
-      "styleAttributes": {},
-      "x": 1310,
-      "y": -598,
-      "width": 400,
-      "height": 400,
-      "color": "1"
-    },
-    {
-      "id": "a2455affe2682eb1",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.52.md",
-      "styleAttributes": {},
-      "x": 1960,
-      "y": -1008,
-      "width": 400,
-      "height": 400,
-      "color": "4"
-    },
-    {
-      "id": "a6a37cbedb2724dc",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.2.md",
-      "styleAttributes": {},
-      "x": -950,
-      "y": -1408,
-      "width": 380,
-      "height": 400,
-      "color": "2"
-    },
-    {
-      "id": "a6fd8d9bf2eb2b94",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.1.md",
-      "styleAttributes": {},
-      "x": -1410,
-      "y": -1408,
-      "width": 400,
-      "height": 400,
-      "color": "2"
-    },
-    {
-      "id": "72daefc55b224149",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.62.md",
-      "styleAttributes": {},
-      "x": -2520,
-      "y": -1400,
-      "width": 400,
-      "height": 400,
-      "color": "1"
-    },
-    {
-      "id": "20b988c1be3e7a17",
-      "type": "text",
-      "text": "# URBAN ",
-      "styleAttributes": {},
-      "x": -2450,
-      "y": -1548,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "f71e064f57786c7b",
-      "type": "text",
-      "text": "# AGRICULTURE",
-      "styleAttributes": {},
-      "x": 760,
-      "y": -458,
-      "width": 260,
-      "height": 100,
-      "color": "5"
-    },
-    {
-      "id": "c105c37a2d23e4ee",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.4.md",
-      "styleAttributes": {},
-      "x": -1840,
-      "y": -758,
-      "width": 400,
-      "height": 400,
-      "color": "4"
-    },
-    {
-      "id": "83ae4145be41e72a",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.58.md",
-      "styleAttributes": {},
-      "x": -1410,
-      "y": -758,
-      "width": 400,
-      "height": 400,
-      "color": "4"
-    },
-    {
-      "id": "ebb139632add9d08",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.46.md",
-      "styleAttributes": {},
-      "x": -520,
-      "y": -1208,
-      "width": 400,
-      "height": 400,
-      "color": "1"
-    },
-    {
-      "id": "1fe124dd28bcadbb",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.13.md",
-      "styleAttributes": {},
-      "x": 3840,
-      "y": -858,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "ffed723558de6f89",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.38.md",
-      "styleAttributes": {},
-      "x": 3400,
-      "y": -858,
-      "width": 400,
-      "height": 400,
-      "color": "2"
-    },
-    {
-      "id": "944d450cafa5c972",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.39.md",
-      "styleAttributes": {},
-      "x": -2840,
-      "y": -916,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "bae641c734451ec3",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.40.md",
-      "styleAttributes": {},
-      "x": -2840,
-      "y": 2,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "59fd898a07a424dc",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.41.md",
-      "styleAttributes": {},
-      "x": -2840,
-      "y": -466,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "7de810aaf2dbb29b",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.45.md",
-      "styleAttributes": {},
-      "x": 4630,
-      "y": -1448,
-      "width": 400,
-      "height": 400,
-      "color": "1"
-    },
-    {
-      "id": "1fcb4f3812f3a25f",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.33.md",
-      "styleAttributes": {},
-      "x": 4300,
-      "y": -1968,
-      "width": 400,
-      "height": 400,
-      "color": "2"
-    },
-    {
-      "id": "112b532a1f02186a",
-      "type": "text",
-      "text": "#  ?",
-      "styleAttributes": {},
-      "x": 2931,
-      "y": -1421,
-      "width": 100,
-      "height": 96,
-      "color": "3"
-    },
-    {
-      "id": "344b9e0471342f98",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.35.md",
-      "styleAttributes": {},
-      "x": 2631,
-      "y": -1968,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "658d0abca7060d6a",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.36.md",
-      "styleAttributes": {},
-      "x": 3160,
-      "y": -1968,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "cbeeb45817b9119f",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.51.md",
-      "styleAttributes": {},
-      "x": 1960,
-      "y": -1468,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "0c5f9df109ef30ee",
-      "type": "text",
-      "text": "#  ?",
-      "styleAttributes": {},
-      "x": 2310,
-      "y": -1517,
-      "width": 100,
-      "height": 96,
-      "color": "3"
-    },
-    {
-      "id": "8b012b3e24826309",
-      "type": "text",
-      "text": "# RESTORATION",
-      "styleAttributes": {},
-      "x": 680,
-      "y": -2458,
-      "width": 4350,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "402561b761cd5b17",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.37.md",
-      "styleAttributes": {},
-      "x": -520,
-      "y": -1608,
-      "width": 400,
-      "height": 400,
-      "color": "1"
-    },
-    {
-      "id": "1d723da2a87836ae",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.5.md",
-      "styleAttributes": {},
-      "x": -198,
-      "y": -2038,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "5446006a71bd8d52",
-      "type": "text",
-      "text": "# SEA",
-      "styleAttributes": {},
-      "x": 4240,
-      "y": -2358,
-      "width": 790,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "cd061b6ca4208885",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.34.md",
-      "styleAttributes": {},
-      "x": 3160,
-      "y": -1373,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "7496d0d27f5ffa6e",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.32.md",
-      "styleAttributes": {},
-      "x": 2631,
-      "y": -1373,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "d4d127b4b1434b42",
       "type": "text",
       "text": "# LAND & FRESHWATER",
@@ -413,70 +31,6 @@
       "width": 1840,
       "height": 60,
       "color": "5"
-    },
-    {
-      "id": "0e7914230ce4e00d",
-      "type": "text",
-      "text": "# FORESTS",
-      "styleAttributes": {},
-      "x": 2030,
-      "y": -1678,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "4fc5be0a286f2079",
-      "type": "text",
-      "text": "#  ?",
-      "styleAttributes": {},
-      "x": 3500,
-      "y": -2016,
-      "width": 100,
-      "height": 96,
-      "color": "3"
-    },
-    {
-      "id": "4eee0652af3274d2",
-      "type": "text",
-      "text": "#  ?",
-      "styleAttributes": {},
-      "x": 2981,
-      "y": -2016,
-      "width": 100,
-      "height": 96,
-      "color": "3"
-    },
-    {
-      "id": "15ef169e709d9079",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.15.md",
-      "styleAttributes": {},
-      "x": 1020,
-      "y": 574,
-      "width": 400,
-      "height": 400,
-      "color": "2"
-    },
-    {
-      "id": "cec59897f0c949b4",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.10.md",
-      "styleAttributes": {},
-      "x": 1020,
-      "y": 1002,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "785e82b9ac585bc1",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.9.md",
-      "styleAttributes": {},
-      "x": 1020,
-      "y": 134,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "249ef4e45001c0b2",
@@ -490,38 +44,6 @@
       "color": "2"
     },
     {
-      "id": "68d5230352306890",
-      "type": "text",
-      "text": "# PROTECTION  & CONSERVATION",
-      "styleAttributes": {},
-      "x": -1840,
-      "y": -2238,
-      "width": 2720,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "48dbe458bbbc79f4",
-      "type": "text",
-      "text": "#  MONITORING ",
-      "styleAttributes": {},
-      "x": -164,
-      "y": -2128,
-      "width": 332,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "745e61e5b85021d3",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.14.md",
-      "styleAttributes": {},
-      "x": -4320,
-      "y": -2320,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "4566a1346fa44e53",
       "type": "file",
       "file": "TA6_Preserving and protecting biodiversity/TA6.16.md",
@@ -530,17 +52,6 @@
       "y": -466,
       "width": 400,
       "height": 400
-    },
-    {
-      "id": "725fb2c16557e200",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.48.md",
-      "styleAttributes": {},
-      "x": 1520,
-      "y": 1002,
-      "width": 400,
-      "height": 400,
-      "color": "1"
     },
     {
       "id": "c1cee77a2dcf0be6",
@@ -584,6 +95,101 @@
       "height": 400
     },
     {
+      "id": "1d303e860f2be4c8",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.57.md",
+      "styleAttributes": {},
+      "x": 2590,
+      "y": 1637,
+      "width": 420,
+      "height": 400
+    },
+    {
+      "id": "c0384e5a930d3e34",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.47.md",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -323,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ffc53f44a60468da",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.60.md",
+      "styleAttributes": {},
+      "x": 3060,
+      "y": 1637,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "d14eb502a98f246a",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.44.md",
+      "styleAttributes": {},
+      "x": 4630,
+      "y": -948,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2d07e33b5dc94e8d",
+      "type": "text",
+      "text": "#  ?",
+      "styleAttributes": {},
+      "x": 3710,
+      "y": -906,
+      "width": 100,
+      "height": 96,
+      "color": "3"
+    },
+    {
+      "id": "c1a2c3a6539f6ccd",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.43.md",
+      "styleAttributes": {},
+      "x": 1310,
+      "y": -598,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "a2455affe2682eb1",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.52.md",
+      "styleAttributes": {},
+      "x": 1960,
+      "y": -1008,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "1fe124dd28bcadbb",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.13.md",
+      "styleAttributes": {},
+      "x": 3840,
+      "y": -858,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ffed723558de6f89",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.38.md",
+      "styleAttributes": {},
+      "x": 3400,
+      "y": -858,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
       "id": "e123ebf0033beaa5",
       "type": "file",
       "file": "TA6_Preserving and protecting biodiversity/TA6.27.md",
@@ -604,38 +210,6 @@
       "height": 400
     },
     {
-      "id": "67eb31fc7c36bc5e",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.21.md",
-      "styleAttributes": {},
-      "x": 2890,
-      "y": 77,
-      "width": 400,
-      "height": 400,
-      "color": "2"
-    },
-    {
-      "id": "1d303e860f2be4c8",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.57.md",
-      "styleAttributes": {},
-      "x": 2590,
-      "y": 1637,
-      "width": 420,
-      "height": 400
-    },
-    {
-      "id": "1a38088632b1504d",
-      "type": "text",
-      "text": "# FOREST BIOECONOMY",
-      "styleAttributes": {},
-      "x": 2930,
-      "y": 787,
-      "width": 420,
-      "height": 120,
-      "color": "5"
-    },
-    {
       "id": "cb97fcd6a4388386",
       "type": "file",
       "file": "TA6_Preserving and protecting biodiversity/TA6.11.md",
@@ -645,16 +219,6 @@
       "width": 400,
       "height": 400,
       "color": "2"
-    },
-    {
-      "id": "c0384e5a930d3e34",
-      "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.47.md",
-      "styleAttributes": {},
-      "x": 760,
-      "y": -323,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "a5d39f24e0bf3b06",
@@ -668,6 +232,294 @@
       "color": "2"
     },
     {
+      "id": "017ee5584ed8d23f",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.7.md",
+      "styleAttributes": {},
+      "x": 1310,
+      "y": -2298,
+      "width": 400,
+      "height": 418
+    },
+    {
+      "id": "ab91c102fe4dda3e",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.8.md",
+      "styleAttributes": {},
+      "x": 1310,
+      "y": -1058,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "a6a37cbedb2724dc",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.2.md",
+      "styleAttributes": {},
+      "x": -950,
+      "y": -1408,
+      "width": 380,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "f71e064f57786c7b",
+      "type": "text",
+      "text": "# AGRICULTURE",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -458,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "ebb139632add9d08",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.46.md",
+      "styleAttributes": {},
+      "x": -520,
+      "y": -1208,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "0e7914230ce4e00d",
+      "type": "text",
+      "text": "# FORESTS",
+      "styleAttributes": {},
+      "x": 2030,
+      "y": -1678,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "15ef169e709d9079",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.15.md",
+      "styleAttributes": {},
+      "x": 1020,
+      "y": 574,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "cec59897f0c949b4",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.10.md",
+      "styleAttributes": {},
+      "x": 1020,
+      "y": 1002,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "785e82b9ac585bc1",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.9.md",
+      "styleAttributes": {},
+      "x": 1020,
+      "y": 134,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "725fb2c16557e200",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.48.md",
+      "styleAttributes": {},
+      "x": 1520,
+      "y": 1002,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "a6fd8d9bf2eb2b94",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.1.md",
+      "styleAttributes": {},
+      "x": -1410,
+      "y": -1408,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "72daefc55b224149",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.62.md",
+      "styleAttributes": {},
+      "x": -2520,
+      "y": -1400,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "20b988c1be3e7a17",
+      "type": "text",
+      "text": "# URBAN ",
+      "styleAttributes": {},
+      "x": -2450,
+      "y": -1548,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "c105c37a2d23e4ee",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.4.md",
+      "styleAttributes": {},
+      "x": -1840,
+      "y": -758,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "83ae4145be41e72a",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.58.md",
+      "styleAttributes": {},
+      "x": -1410,
+      "y": -758,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "944d450cafa5c972",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.39.md",
+      "styleAttributes": {},
+      "x": -2840,
+      "y": -916,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "59fd898a07a424dc",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.41.md",
+      "styleAttributes": {},
+      "x": -2840,
+      "y": -466,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "402561b761cd5b17",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.37.md",
+      "styleAttributes": {},
+      "x": -520,
+      "y": -1608,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "1d723da2a87836ae",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.5.md",
+      "styleAttributes": {},
+      "x": -198,
+      "y": -2038,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "48dbe458bbbc79f4",
+      "type": "text",
+      "text": "#  MONITORING ",
+      "styleAttributes": {},
+      "x": -164,
+      "y": -2128,
+      "width": 332,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "bae641c734451ec3",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.40.md",
+      "styleAttributes": {},
+      "x": -2840,
+      "y": 2,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1fcb4f3812f3a25f",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.33.md",
+      "styleAttributes": {},
+      "x": 4300,
+      "y": -1968,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "112b532a1f02186a",
+      "type": "text",
+      "text": "#  ?",
+      "styleAttributes": {},
+      "x": 2931,
+      "y": -1421,
+      "width": 100,
+      "height": 96,
+      "color": "3"
+    },
+    {
+      "id": "658d0abca7060d6a",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.36.md",
+      "styleAttributes": {},
+      "x": 3160,
+      "y": -1968,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8b012b3e24826309",
+      "type": "text",
+      "text": "# RESTORATION",
+      "styleAttributes": {},
+      "x": 680,
+      "y": -2458,
+      "width": 4350,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "68d5230352306890",
+      "type": "text",
+      "text": "# PROTECTION  & CONSERVATION",
+      "styleAttributes": {},
+      "x": -1840,
+      "y": -2238,
+      "width": 2720,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "745e61e5b85021d3",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.14.md",
+      "styleAttributes": {},
+      "x": -4320,
+      "y": -2320,
+      "width": 400,
+      "height": 400
+    },
+    {
       "id": "d682b27fac2d8036",
       "type": "file",
       "file": "TA6_Preserving and protecting biodiversity/TA6.28.md",
@@ -679,15 +531,163 @@
       "color": "2"
     },
     {
-      "id": "ffc53f44a60468da",
+      "id": "5989ef3598b7e41b",
       "type": "file",
-      "file": "TA6_Preserving and protecting biodiversity/TA6.60.md",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.55.md",
       "styleAttributes": {},
-      "x": 3060,
-      "y": 1637,
+      "x": 3460,
+      "y": 937,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f71a191099cb18ad",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.63.md",
+      "styleAttributes": {},
+      "x": 2890,
+      "y": -398,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6dbe7a24805849a0",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.12.md",
+      "styleAttributes": {},
+      "x": 2890,
+      "y": -858,
       "width": 400,
       "height": 400,
-      "color": "4"
+      "color": "2"
+    },
+    {
+      "id": "50b95b609c2613da",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.59.md",
+      "styleAttributes": {},
+      "x": 1960,
+      "y": -458,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "7de810aaf2dbb29b",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.45.md",
+      "styleAttributes": {},
+      "x": 4630,
+      "y": -1448,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "344b9e0471342f98",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.35.md",
+      "styleAttributes": {},
+      "x": 2631,
+      "y": -1968,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5446006a71bd8d52",
+      "type": "text",
+      "text": "# SEA",
+      "styleAttributes": {},
+      "x": 4240,
+      "y": -2358,
+      "width": 790,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "4fc5be0a286f2079",
+      "type": "text",
+      "text": "#  ?",
+      "styleAttributes": {},
+      "x": 3500,
+      "y": -2016,
+      "width": 100,
+      "height": 96,
+      "color": "3"
+    },
+    {
+      "id": "4eee0652af3274d2",
+      "type": "text",
+      "text": "#  ?",
+      "styleAttributes": {},
+      "x": 2981,
+      "y": -2016,
+      "width": 100,
+      "height": 96,
+      "color": "3"
+    },
+    {
+      "id": "67eb31fc7c36bc5e",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.21.md",
+      "styleAttributes": {},
+      "x": 2890,
+      "y": 77,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "cbeeb45817b9119f",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.51.md",
+      "styleAttributes": {},
+      "x": 1960,
+      "y": -1468,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0c5f9df109ef30ee",
+      "type": "text",
+      "text": "#  ?",
+      "styleAttributes": {},
+      "x": 2310,
+      "y": -1517,
+      "width": 100,
+      "height": 96,
+      "color": "3"
+    },
+    {
+      "id": "cd061b6ca4208885",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.34.md",
+      "styleAttributes": {},
+      "x": 3160,
+      "y": -1373,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7496d0d27f5ffa6e",
+      "type": "file",
+      "file": "TA6_Preserving and protecting biodiversity/TA6.32.md",
+      "styleAttributes": {},
+      "x": 2631,
+      "y": -1373,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1a38088632b1504d",
+      "type": "text",
+      "text": "# FOREST BIOECONOMY",
+      "styleAttributes": {},
+      "x": 2930,
+      "y": 787,
+      "width": 420,
+      "height": 120,
+      "color": "5"
     },
     {
       "id": "7135ee1142d974d3",

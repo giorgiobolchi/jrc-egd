@@ -1,6 +1,5 @@
 ---
 files:
-  - "[[TA1.1-3]]"
   - "[[TA2.22]]"
 ---
 ## Reach energy neutrality in the wastewater treatment sector by 2045.

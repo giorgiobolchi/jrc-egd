@@ -23,15 +23,17 @@
             "id": "aa7a9a7004ddefbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "TA1_Climate ambition.canvas",
+                "viewState": {
+                  "x": 1275.7555856013423,
+                  "y": 252.29406041709865,
+                  "zoom": -2.5715100102858766
+                }
               },
-              "icon": "lucide-file",
-              "title": "TA7.4"
+              "icon": "lucide-layout-dashboard",
+              "title": "TA1_Climate ambition"
             }
           }
         ],
@@ -88,8 +90,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,8 +143,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
             }
           },
           {
@@ -191,8 +192,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
             }
           },
           {
@@ -201,12 +202,32 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
             "id": "e11e6b922bc5bcfc",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "f64766037f3ba234",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "ff61f1a676ad3b2e",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -216,7 +237,7 @@
             }
           },
           {
-            "id": "f64766037f3ba234",
+            "id": "c79aa8aa92707c4b",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -235,6 +256,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -249,42 +271,41 @@
   },
   "active": "aa7a9a7004ddefbf",
   "lastOpenFiles": [
+    "TA3_Industrial strategy for a clean and circular economy.canvas",
+    "TA1_Climate ambition.canvas",
+    "TA6_Preserving and protecting biodiversity/TA6.50.md",
     "TA6_Preserving and protecting biodiversity/TA6.51.md",
     "TA6_Preserving and protecting biodiversity/TA6.52.md",
-    "TA6_Preserving and protecting biodiversity/TA6.50.md",
-    "TA6_Preserving and protecting biodiversity/TA6.48.md",
-    "TA6_Preserving and protecting biodiversity/TA6.47.md",
-    "TA6_Preserving and protecting biodiversity/TA6.49.md",
-    "TA6_Preserving and protecting biodiversity/TA6.33.md",
-    "TA2_Clean, affordable and secure energy/TA2.30.md",
-    "Sub-themes/20250319 sub-themes.md",
     "TA6_Preserving and protecting biodiversity/TA6.53.md",
-    "TA2_Clean, affordable and secure energy/TA2.41.md",
-    "TA4_Sustainable and smart mobility.canvas",
-    "Sub-themes/TA5_sub-themes.canvas",
-    "TA1_Climate ambition/TA1.8.md",
-    "readme.txt.md",
-    "TA2_Clean, affordable and secure energy/TA2.11.md",
-    "TA2_Clean, affordable and secure energy/TA2.3.md",
-    "TA1_Climate ambition/TA1.10.md",
-    "TA1_Climate ambition/TA1.5.md",
-    "TA3_Industrial strategy for a clean and circular economy/TA3.6.md",
+    "TA6_Preserving and protecting biodiversity/TA6.54.md",
+    "TA6_Preserving and protecting biodiversity/TA6.47.md",
+    "TA4_Sustainable and smart mobility/TA4.55.md",
+    "TA6_Preserving and protecting biodiversity/TA6.9.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.11.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.30.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.31.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.32.md",
+    "TA1_Climate ambition/TA1.1-3.md",
+    "TA4_Sustainable and smart mobility/TA4.32.md",
+    "TA2_Clean, affordable and secure energy/TA2.39.md",
+    "TA6_Preserving and protecting biodiversity/TA6.49.md",
+    "TA6_Preserving and protecting biodiversity/TA6.5.md",
+    "TA1_Climate ambition/TA1.13.md",
+    "TA2_Clean, affordable and secure energy/TA2.14.md",
+    "TA1_Climate ambition/TA1.3.md",
+    "TA1_Climate ambition/TA1.11.md",
+    "TA1_Climate ambition/TA1.9.md",
     "TA1_Climate ambition/TA1.7.md",
-    "Sub-themes/TA3_sub-themes.canvas",
-    "TA3_Industrial strategy for a clean and circular economy/TA3.38.md",
-    "TA4_Sustainable and smart mobility/TA4.42.md",
-    "TA4_Sustainable and smart mobility/TA4.49.md",
-    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.11.md",
-    "TA4_Sustainable and smart mobility/TA4.18.md",
-    "TA4_Sustainable and smart mobility/TA4.41.md",
-    "TA3_Industrial strategy for a clean and circular economy/TA3.46.md",
-    "Sub-themes/TA7_sub-themes.canvas",
-    "Sub-themes/TA1_sub-themes.canvas",
-    "Sub-themes/TA2_sub-themes.canvas",
-    "Sub-themes/TA4_sub-themes.canvas",
-    "Sub-themes/TA6_sub-themes.canvas",
+    "TA1_Climate ambition/TA1.5.md",
+    "TA1_Climate ambition/TA1.2.md",
     "TA7_Towards a zero-pollution ambition for a toxic free environment.canvas",
     "TA6_Preserving and protecting biodiversity.canvas",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy.canvas",
+    "TA4_Sustainable and smart mobility.canvas",
+    "TA2_Clean, affordable and secure energy.canvas",
+    "EGD_canvas.canvas",
+    "Sub-themes/TA5_sub-themes.canvas",
+    "Sub-themes/TA3_sub-themes.canvas",
     "Sub-themes",
     "ADD_TO_CANVAS",
     "TA2_Clean, affordable and secure energy",

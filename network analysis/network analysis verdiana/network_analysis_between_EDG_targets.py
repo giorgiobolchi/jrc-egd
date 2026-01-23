@@ -106,9 +106,8 @@ print(only_nec_columns)
 
 
 # Create the final edge list by grouping edges with the same type and summing weights
-# edge_list = only_nec_columns.groupby(['TargetA', 'TargetB', 'Interlink Type', 'weight'], as_index=False).agg({
-    #'Key': lambda x: '-'.join(map(str, x))  # Ensuring all keys are strings before joining
-# })
+edge_list = only_nec_columns.groupby(['TargetA', 'TargetB', 'Interlink Type', 'weight'], as_index=False).agg({'Key': lambda x: '-'.join(map(str, x))  # Ensuring all keys are strings before joining
+})
 
 
 # In[11]:
@@ -121,8 +120,8 @@ edge_list = only_nec_columns
 
 
 # Assign colors to edges based on Interlink Type
-edge_list['edge_color'] = '#32FC5A'  # Default color for synergies
-edge_list.loc[edge_list['Interlink Type'] == '-', 'edge_color'] = '#900D09'  # Trade-offs color
+edge_list['edge_color'] = "#1FA139"  # Default color for synergies
+edge_list.loc[edge_list['Interlink Type'] == '-', 'edge_color'] = "#DA2620"  # Trade-offs color
 
 
 # In[13]:
@@ -244,7 +243,8 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Ellipse
 
 # Function to draw the network with thematic areas
-def create_network_with_thematic_areas(edge_list, nodes_df, thematic_areas, directed=True, visualize=True, filename="network.gexf", save_visualization=False, visualization_filename="network_visualization.png"):
+def create_network_with_thematic_areas(edge_list, nodes_df, thematic_areas, directed=True, visualize=True, 
+                                       filename="network.gexf", save_visualization=False, visualization_filename="network_visualization.png"):
     """
     Create a graph and overlay thematic areas as transparent clusters.
     Exports the graph as a GEXF file for Gephi.

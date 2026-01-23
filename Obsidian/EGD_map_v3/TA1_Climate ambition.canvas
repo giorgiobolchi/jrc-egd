@@ -13,6 +13,17 @@
       "label": "TA1_Climate Ambition"
     },
     {
+      "id": "aac45ba92e659f14",
+      "type": "file",
+      "file": "TA2_Clean, affordable and secure energy/TA2.23.md",
+      "styleAttributes": {},
+      "x": 460,
+      "y": 115,
+      "width": 529,
+      "height": 356,
+      "color": "2"
+    },
+    {
       "id": "0ab84a5652cb3984",
       "type": "file",
       "file": "TA1_Climate ambition/TA1.11.md",
@@ -22,16 +33,6 @@
       "width": 458,
       "height": 433,
       "color": "2"
-    },
-    {
-      "id": "f045aa9209d1b1d3",
-      "type": "file",
-      "file": "TA1_Climate ambition/TA1.15.md",
-      "styleAttributes": {},
-      "x": 1880,
-      "y": -350,
-      "width": 424,
-      "height": 400
     },
     {
       "id": "0309844a678b9748",
@@ -56,26 +57,36 @@
       "color": "5"
     },
     {
-      "id": "f51ec38e35e1258a",
-      "type": "file",
-      "file": "TA1_Climate ambition/TA1.9.md",
+      "id": "f3dfbe69a43af8ec",
+      "type": "text",
+      "text": "# REDUCTION ",
       "styleAttributes": {},
-      "x": -744,
-      "y": 105,
-      "width": 449,
-      "height": 366,
-      "color": "4"
+      "x": 594,
+      "y": -759,
+      "width": 260,
+      "height": 60,
+      "color": "5"
     },
     {
-      "id": "0e00987b6fd6aede",
-      "type": "file",
-      "file": "TA1_Climate ambition/TA1.14.md",
+      "id": "0779c723ff318013",
+      "type": "text",
+      "text": "# REMOVAL ",
       "styleAttributes": {},
-      "x": 2442,
-      "y": -4,
-      "width": 547,
-      "height": 399,
-      "color": "2"
+      "x": 2518,
+      "y": -422,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "f045aa9209d1b1d3",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.15.md",
+      "styleAttributes": {},
+      "x": 1880,
+      "y": -350,
+      "width": 424,
+      "height": 400
     },
     {
       "id": "74ee9b796b74b771",
@@ -100,6 +111,48 @@
       "color": "2"
     },
     {
+      "id": "77fd8fbd1732ec1d",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.16.md",
+      "styleAttributes": {},
+      "x": 1110,
+      "y": 494,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fbf655ef22da9564",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.5.md",
+      "styleAttributes": {},
+      "x": -995,
+      "y": 721,
+      "width": 240,
+      "height": 100,
+      "color": "#ffffff"
+    },
+    {
+      "id": "1976586af2212ce9",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.10.md",
+      "styleAttributes": {},
+      "x": -260,
+      "y": 536,
+      "width": 536,
+      "height": 470
+    },
+    {
+      "id": "f51ec38e35e1258a",
+      "type": "file",
+      "file": "TA1_Climate ambition/TA1.9.md",
+      "styleAttributes": {},
+      "x": -744,
+      "y": 105,
+      "width": 449,
+      "height": 366,
+      "color": "4"
+    },
+    {
       "id": "8baef804e093fa58",
       "type": "file",
       "file": "TA1_Climate ambition/TA1.13.md",
@@ -121,17 +174,6 @@
       "height": 400
     },
     {
-      "id": "f3dfbe69a43af8ec",
-      "type": "text",
-      "text": "# REDUCTION ",
-      "styleAttributes": {},
-      "x": 594,
-      "y": -759,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
       "id": "d58631818da7fe0d",
       "type": "file",
       "file": "TA1_Climate ambition/TA1.7.md",
@@ -141,38 +183,6 @@
       "width": 460,
       "height": 227,
       "color": "2"
-    },
-    {
-      "id": "77fd8fbd1732ec1d",
-      "type": "file",
-      "file": "TA1_Climate ambition/TA1.16.md",
-      "styleAttributes": {},
-      "x": 1110,
-      "y": 494,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "0779c723ff318013",
-      "type": "text",
-      "text": "# REMOVAL ",
-      "styleAttributes": {},
-      "x": 2518,
-      "y": -422,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "fbf655ef22da9564",
-      "type": "file",
-      "file": "TA1_Climate ambition/TA1.5.md",
-      "styleAttributes": {},
-      "x": -995,
-      "y": 721,
-      "width": 240,
-      "height": 100,
-      "color": "#ffffff"
     },
     {
       "id": "bdea7e468d216738",
@@ -185,25 +195,15 @@
       "height": 100
     },
     {
-      "id": "aac45ba92e659f14",
+      "id": "0e00987b6fd6aede",
       "type": "file",
-      "file": "TA2_Clean, affordable and secure energy/TA2.23.md",
+      "file": "TA1_Climate ambition/TA1.14.md",
       "styleAttributes": {},
-      "x": 460,
-      "y": 115,
-      "width": 529,
-      "height": 356,
+      "x": 2442,
+      "y": -4,
+      "width": 547,
+      "height": 399,
       "color": "2"
-    },
-    {
-      "id": "1976586af2212ce9",
-      "type": "file",
-      "file": "TA1_Climate ambition/TA1.10.md",
-      "styleAttributes": {},
-      "x": -260,
-      "y": 536,
-      "width": 536,
-      "height": 470
     }
   ],
   "edges": [
