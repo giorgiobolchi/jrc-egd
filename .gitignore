@@ -1,7 +1,7 @@
 __pycache__/ 
 LLM/Code/__pycache__/
 LLM/Data/__pycache__/
-network analysis/
+
 
 LLM/Code/token.txt
 
@@ -13,3 +13,8 @@ LLM/Data/REPORT_2/access_20250417/
 /.DS_Store
 .DS_Store/
 .vscode/
+
+
+
+network analysis/
+network analysis/network analysis giorgio/
