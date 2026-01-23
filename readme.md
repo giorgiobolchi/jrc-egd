@@ -82,16 +82,14 @@ Giorgio Bolchi
 ### Relevant Folders & Files
 #### Input Data
 - `targets_data_150.csv`: main dataset from targets assessed in report 1 (used to generate the network that was sent to the experts)
-
 - `targets_data_250.csv`: all target data, including some that have no assessment.
 - `REPORT_2/`: folder containing chapters of report 2
 - ```subthemes.py``: list of manually selected subthemes
 
 #### Code
-- `LLM_network_generation.ipynb`: Main script to generate a network of weighted and directed interlinkages between EGD targets, either individually, or grouped by subthemes or policy documents. It is done using an LLM available through GPT@JRC.
-
-- `network_analysis.ipynb`: Small script to load the formatted network tables into the networkx Python package and perform basic network analysis. But the whole network analysis was not done and has yet to be done using Verdiana's code (cf: other_code/Verdiana)
-- `subthemes_to_targets.ipynb`: Small script that was used to automatically assign targets into pre-defined sub-themes.
+- `LLM/Code/LLM_network_generation.ipynb`: Main script to generate a network of weighted and directed interlinkages between EGD targets, either individually, or grouped by subthemes or policy documents. It is done using an LLM available through GPT@JRC.
+- `LLM/Code/other_tools/subthemes_to_targets.ipynb`: Small script that was used to automatically assign targets into pre-defined sub-themes.
+- `Network analysis/network analysis giorgio/network_analysis_giorgio.ipnyb`: script to convert my data into Verdiana's data syntax and run the functions she had defined for the network analysis.
 
 
 #### Output Data
